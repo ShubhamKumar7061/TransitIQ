@@ -1,0 +1,3001 @@
+ticket_price,travel_time,day_type,is_holiday,dep_hour,mode_enc,route_enc,pay_enc,class_enc,demand,mode,route_type,payment,travel_class
+1924,55,1,0,7,0,0,2,2,290,Bus,Fastest,Card,First Class
+7012,62,0,0,6,0,0,2,0,155,Bus,Fastest,Card,Economy
+9028,459,0,1,18,1,0,0,2,189,Train,Fastest,Cash,First Class
+3627,374,0,0,12,0,1,1,2,140,Bus,Easiest,UPI,First Class
+4433,74,1,0,12,0,1,2,2,198,Bus,Easiest,Card,First Class
+3250,101,0,0,9,0,0,0,1,221,Bus,Fastest,Cash,Business
+4654,494,1,0,11,1,0,2,1,180,Train,Fastest,Card,Business
+1269,653,0,0,5,1,1,1,2,135,Train,Easiest,UPI,First Class
+9225,254,1,0,7,0,1,1,1,214,Bus,Easiest,UPI,Business
+9392,352,0,1,12,2,1,0,1,151,Airline,Easiest,Cash,Business
+2387,282,1,1,18,1,1,0,0,379,Train,Easiest,Cash,Economy
+871,142,0,0,21,1,0,1,1,236,Train,Fastest,UPI,Business
+7768,571,1,0,21,2,0,2,2,105,Airline,Fastest,Card,First Class
+5673,144,1,1,5,1,0,2,2,227,Train,Fastest,Card,First Class
+4415,542,0,0,20,1,0,0,1,208,Train,Fastest,Cash,Business
+8789,30,1,1,0,0,1,1,0,172,Bus,Easiest,UPI,Economy
+1049,276,0,0,23,1,0,2,0,258,Train,Fastest,Card,Economy
+9107,199,1,1,6,2,0,2,1,221,Airline,Fastest,Card,Business
+6637,695,1,1,16,1,0,0,0,235,Train,Fastest,Cash,Economy
+9175,265,0,0,2,2,0,0,0,61,Airline,Fastest,Cash,Economy
+614,368,0,0,8,2,1,0,2,253,Airline,Easiest,Cash,First Class
+9455,620,1,0,15,1,0,0,0,160,Train,Fastest,Cash,Economy
+7162,392,1,1,14,2,0,2,2,207,Airline,Fastest,Card,First Class
+6696,377,0,0,6,0,1,0,1,96,Bus,Easiest,Cash,Business
+3106,315,1,0,2,1,0,0,2,187,Train,Fastest,Cash,First Class
+1628,272,0,1,15,1,0,1,0,310,Train,Fastest,UPI,Economy
+2797,418,0,1,8,1,1,1,2,343,Train,Easiest,UPI,First Class
+9205,528,0,0,9,0,0,2,2,83,Bus,Fastest,Card,First Class
+8983,92,1,0,1,2,1,2,2,99,Airline,Easiest,Card,First Class
+1412,220,0,0,21,0,1,0,2,206,Bus,Easiest,Cash,First Class
+4133,622,0,0,13,2,1,1,0,143,Airline,Easiest,UPI,Economy
+4451,435,0,1,14,1,0,0,1,206,Train,Fastest,Cash,Business
+9324,132,0,0,16,1,0,1,0,158,Train,Fastest,UPI,Economy
+2684,478,1,0,21,2,1,2,0,208,Airline,Easiest,Card,Economy
+2300,300,0,0,23,2,0,1,1,164,Airline,Fastest,UPI,Business
+3435,679,1,1,8,0,0,2,1,276,Bus,Fastest,Card,Business
+4633,75,0,1,4,2,1,0,2,134,Airline,Easiest,Cash,First Class
+9289,39,0,0,22,0,0,1,2,101,Bus,Fastest,UPI,First Class
+9152,181,1,0,1,1,1,0,1,93,Train,Easiest,Cash,Business
+1784,392,1,0,7,0,0,1,0,315,Bus,Fastest,UPI,Economy
+3038,370,1,0,8,0,0,1,0,295,Bus,Fastest,UPI,Economy
+7641,388,1,0,7,0,0,1,1,185,Bus,Fastest,UPI,Business
+4664,101,1,1,20,2,1,2,2,316,Airline,Easiest,Card,First Class
+4379,212,1,0,3,2,1,1,2,135,Airline,Easiest,UPI,First Class
+5239,476,0,1,18,0,1,0,2,206,Bus,Easiest,Cash,First Class
+8921,231,1,1,2,2,1,2,1,157,Airline,Easiest,Card,Business
+2141,337,1,1,10,1,1,2,0,336,Train,Easiest,Card,Economy
+6311,208,1,1,17,0,1,1,0,353,Bus,Easiest,UPI,Economy
+7143,623,1,1,14,1,0,2,1,224,Train,Fastest,Card,Business
+2880,116,1,1,2,0,1,0,0,216,Bus,Easiest,Cash,Economy
+2514,55,0,0,15,2,0,1,1,223,Airline,Fastest,UPI,Business
+6391,536,1,0,4,2,0,0,1,72,Airline,Fastest,Cash,Business
+3685,210,1,0,17,0,0,1,0,310,Bus,Fastest,UPI,Economy
+9257,639,1,1,19,2,1,2,1,197,Airline,Easiest,Card,Business
+2707,516,1,1,7,2,1,2,1,305,Airline,Easiest,Card,Business
+1369,322,0,1,10,1,0,0,0,289,Train,Fastest,Cash,Economy
+3888,422,0,0,2,1,1,1,2,89,Train,Easiest,UPI,First Class
+6983,428,0,1,15,0,1,1,1,170,Bus,Easiest,UPI,Business
+6965,581,0,1,7,1,1,1,0,235,Train,Easiest,UPI,Economy
+6724,199,1,0,19,2,0,1,2,239,Airline,Fastest,UPI,First Class
+9346,57,0,1,4,1,0,0,1,127,Train,Fastest,Cash,Business
+5455,375,1,1,13,1,0,1,0,296,Train,Fastest,UPI,Economy
+8937,83,1,0,20,0,0,0,0,231,Bus,Fastest,Cash,Economy
+2596,274,0,1,21,0,0,1,2,237,Bus,Fastest,UPI,First Class
+4298,407,0,0,5,1,0,2,0,208,Train,Fastest,Card,Economy
+6249,436,0,0,18,2,0,0,2,147,Airline,Fastest,Cash,First Class
+5041,644,0,0,11,2,1,2,1,130,Airline,Easiest,Card,Business
+307,460,1,0,13,1,1,2,0,282,Train,Easiest,Card,Economy
+7235,210,1,1,14,1,1,1,0,274,Train,Easiest,UPI,Economy
+7485,279,1,1,10,0,1,1,0,234,Bus,Easiest,UPI,Economy
+8088,247,1,1,10,1,1,2,0,239,Train,Easiest,Card,Economy
+4054,446,1,0,22,1,1,1,0,222,Train,Easiest,UPI,Economy
+1624,331,0,1,22,0,1,2,2,215,Bus,Easiest,Card,First Class
+5732,465,1,1,22,1,1,1,1,259,Train,Easiest,UPI,Business
+3877,153,0,1,3,2,0,0,0,212,Airline,Fastest,Cash,Economy
+8695,641,1,0,6,1,0,1,0,134,Train,Fastest,UPI,Economy
+5052,44,0,1,1,0,1,2,0,182,Bus,Easiest,Card,Economy
+1780,42,1,1,15,1,1,0,0,329,Train,Easiest,Cash,Economy
+4236,519,0,0,12,1,0,2,2,130,Train,Fastest,Card,First Class
+9321,341,0,0,3,2,1,2,2,5,Airline,Easiest,Card,First Class
+3797,565,1,1,14,1,1,1,2,226,Train,Easiest,UPI,First Class
+1725,242,0,1,21,0,0,0,0,265,Bus,Fastest,Cash,Economy
+9143,106,0,0,13,1,1,1,0,146,Train,Easiest,UPI,Economy
+7538,102,0,1,20,2,0,1,0,320,Airline,Fastest,UPI,Economy
+9022,260,0,1,4,0,0,0,1,74,Bus,Fastest,Cash,Business
+4828,479,0,1,22,1,1,1,2,178,Train,Easiest,UPI,First Class
+8947,535,1,0,19,0,1,2,1,159,Bus,Easiest,Card,Business
+3850,619,0,1,18,0,0,1,2,247,Bus,Fastest,UPI,First Class
+7345,314,0,1,20,1,0,1,1,252,Train,Fastest,UPI,Business
+1813,194,1,1,22,1,1,2,1,326,Train,Easiest,Card,Business
+9112,67,1,0,10,1,1,0,1,173,Train,Easiest,Cash,Business
+118,585,1,1,1,0,1,2,1,211,Bus,Easiest,Card,Business
+7342,82,0,1,17,0,1,1,2,238,Bus,Easiest,UPI,First Class
+4020,192,1,0,17,1,0,0,0,309,Train,Fastest,Cash,Economy
+7660,150,0,1,22,1,1,1,1,217,Train,Easiest,UPI,Business
+9131,178,1,0,19,2,0,0,1,195,Airline,Fastest,Cash,Business
+6898,378,1,0,9,2,1,2,2,203,Airline,Easiest,Card,First Class
+2534,487,1,1,10,2,1,1,1,269,Airline,Easiest,UPI,Business
+3190,274,1,0,13,0,1,2,1,192,Bus,Easiest,Card,Business
+6425,697,0,1,1,0,1,0,1,60,Bus,Easiest,Cash,Business
+1733,568,1,0,23,0,1,2,0,249,Bus,Easiest,Card,Economy
+4442,376,1,0,10,2,1,1,2,180,Airline,Easiest,UPI,First Class
+8094,584,0,0,7,2,1,0,2,143,Airline,Easiest,Cash,First Class
+1746,484,0,1,0,0,1,0,1,203,Bus,Easiest,Cash,Business
+5973,413,1,0,7,2,1,2,2,195,Airline,Easiest,Card,First Class
+1393,654,1,0,15,2,0,0,1,187,Airline,Fastest,Cash,Business
+4261,500,1,0,14,1,0,0,1,237,Train,Fastest,Cash,Business
+5001,684,1,1,14,1,0,1,1,222,Train,Fastest,UPI,Business
+1847,272,1,1,18,1,1,0,2,350,Train,Easiest,Cash,First Class
+903,650,1,1,7,2,1,0,2,307,Airline,Easiest,Cash,First Class
+3215,665,1,0,20,0,0,1,1,258,Bus,Fastest,UPI,Business
+2253,122,1,1,23,1,0,0,0,349,Train,Fastest,Cash,Economy
+8937,404,1,0,8,1,1,2,1,191,Train,Easiest,Card,Business
+1333,174,0,1,17,1,0,1,0,369,Train,Fastest,UPI,Economy
+4432,579,0,1,11,2,1,2,1,209,Airline,Easiest,Card,Business
+1875,269,1,0,19,2,1,2,0,277,Airline,Easiest,Card,Economy
+1135,680,1,1,20,1,0,0,0,390,Train,Fastest,Cash,Economy
+8171,148,0,0,17,0,1,1,1,167,Bus,Easiest,UPI,Business
+8950,459,0,1,20,0,1,2,1,212,Bus,Easiest,Card,Business
+6170,252,1,1,7,1,0,2,1,308,Train,Fastest,Card,Business
+9020,690,1,0,12,1,0,0,1,114,Train,Fastest,Cash,Business
+449,81,1,0,4,2,0,0,2,202,Airline,Fastest,Cash,First Class
+3494,630,0,0,10,0,0,1,0,184,Bus,Fastest,UPI,Economy
+2958,142,0,0,0,1,0,2,1,152,Train,Fastest,Card,Business
+358,208,1,0,4,2,1,2,0,226,Airline,Easiest,Card,Economy
+6031,555,0,1,16,0,0,2,2,136,Bus,Fastest,Card,First Class
+8643,338,1,0,1,1,1,1,2,98,Train,Easiest,UPI,First Class
+7367,105,0,1,19,0,0,0,1,272,Bus,Fastest,Cash,Business
+9084,362,1,1,14,2,1,0,2,181,Airline,Easiest,Cash,First Class
+9133,250,1,1,7,1,1,1,1,286,Train,Easiest,UPI,Business
+6915,127,1,1,10,2,1,1,0,258,Airline,Easiest,UPI,Economy
+1594,117,0,1,3,2,1,0,2,180,Airline,Easiest,Cash,First Class
+1082,630,1,0,13,1,1,2,0,269,Train,Easiest,Card,Economy
+5861,136,0,0,21,1,0,0,1,152,Train,Fastest,Cash,Business
+9213,406,0,1,18,0,1,2,2,163,Bus,Easiest,Card,First Class
+530,653,1,0,5,1,1,1,1,211,Train,Easiest,UPI,Business
+200,215,0,1,2,0,0,0,2,195,Bus,Fastest,Cash,First Class
+7532,379,0,1,9,2,1,2,2,200,Airline,Easiest,Card,First Class
+1491,83,0,0,19,0,0,1,1,267,Bus,Fastest,UPI,Business
+7342,454,1,0,16,0,1,1,0,139,Bus,Easiest,UPI,Economy
+4740,637,1,1,1,0,1,2,0,208,Bus,Easiest,Card,Economy
+3560,170,1,1,10,0,0,1,2,270,Bus,Fastest,UPI,First Class
+7155,209,0,1,17,2,0,2,2,257,Airline,Fastest,Card,First Class
+1280,436,0,1,0,1,0,1,2,179,Train,Fastest,UPI,First Class
+7133,617,1,1,9,0,1,0,1,255,Bus,Easiest,Cash,Business
+7638,400,0,1,3,0,1,2,1,146,Bus,Easiest,Card,Business
+8684,110,1,1,23,1,0,1,0,289,Train,Fastest,UPI,Economy
+8793,552,0,1,11,2,0,0,0,170,Airline,Fastest,Cash,Economy
+2499,292,0,0,19,0,0,0,2,188,Bus,Fastest,Cash,First Class
+7454,608,1,1,4,1,0,1,1,164,Train,Fastest,UPI,Business
+5061,311,0,1,16,0,1,1,1,222,Bus,Easiest,UPI,Business
+4803,108,0,1,14,2,0,1,2,226,Airline,Fastest,UPI,First Class
+3184,359,1,0,1,1,0,1,2,180,Train,Fastest,UPI,First Class
+741,283,1,1,16,2,0,1,1,333,Airline,Fastest,UPI,Business
+4734,426,1,1,21,2,0,2,2,222,Airline,Fastest,Card,First Class
+9241,425,1,1,23,2,0,1,0,228,Airline,Fastest,UPI,Economy
+2417,388,1,1,4,2,0,1,2,197,Airline,Fastest,UPI,First Class
+2193,569,0,1,16,1,0,1,1,272,Train,Fastest,UPI,Business
+3053,249,1,1,6,0,0,0,0,293,Bus,Fastest,Cash,Economy
+8417,582,0,1,19,0,1,0,0,246,Bus,Easiest,Cash,Economy
+3062,669,0,1,1,1,1,2,2,152,Train,Easiest,Card,First Class
+4768,489,0,0,9,1,0,1,2,208,Train,Fastest,UPI,First Class
+9445,481,1,1,12,2,1,0,0,192,Airline,Easiest,Cash,Economy
+4196,83,1,1,17,0,0,1,0,367,Bus,Fastest,UPI,Economy
+2726,309,1,0,13,0,0,1,1,232,Bus,Fastest,UPI,Business
+6595,544,1,0,12,0,1,0,0,141,Bus,Easiest,Cash,Economy
+5321,131,1,0,4,0,1,1,2,136,Bus,Easiest,UPI,First Class
+7785,489,0,0,0,1,0,0,2,5,Train,Fastest,Cash,First Class
+8747,463,0,1,7,1,0,0,0,210,Train,Fastest,Cash,Economy
+7589,94,0,1,19,2,0,2,2,260,Airline,Fastest,Card,First Class
+4063,177,1,1,0,2,1,0,2,176,Airline,Easiest,Cash,First Class
+1502,566,1,0,16,2,0,1,1,227,Airline,Fastest,UPI,Business
+813,680,1,1,8,2,0,1,0,348,Airline,Fastest,UPI,Economy
+1798,625,1,0,1,1,1,2,0,209,Train,Easiest,Card,Economy
+7712,520,0,0,2,2,1,0,1,33,Airline,Easiest,Cash,Business
+786,353,1,1,17,1,1,0,2,390,Train,Easiest,Cash,First Class
+3231,322,1,0,20,1,1,0,1,259,Train,Easiest,Cash,Business
+7304,425,1,0,15,2,1,1,2,128,Airline,Easiest,UPI,First Class
+4469,114,1,0,13,2,0,2,1,205,Airline,Fastest,Card,Business
+4943,343,1,1,5,2,1,1,1,255,Airline,Easiest,UPI,Business
+793,391,1,1,20,0,0,2,2,331,Bus,Fastest,Card,First Class
+2721,61,0,1,1,0,0,0,2,203,Bus,Fastest,Cash,First Class
+6101,400,1,0,19,0,1,1,1,211,Bus,Easiest,UPI,Business
+2355,572,1,1,10,2,1,0,0,283,Airline,Easiest,Cash,Economy
+524,220,1,1,17,0,1,1,2,308,Bus,Easiest,UPI,First Class
+4778,532,0,0,4,0,1,0,2,63,Bus,Easiest,Cash,First Class
+7392,119,1,1,22,0,1,1,0,247,Bus,Easiest,UPI,Economy
+2952,400,0,0,6,0,0,1,0,150,Bus,Fastest,UPI,Economy
+6012,597,1,1,17,0,0,0,1,246,Bus,Fastest,Cash,Business
+7942,568,1,1,18,0,0,1,2,254,Bus,Fastest,UPI,First Class
+1315,490,1,1,4,2,0,0,1,197,Airline,Fastest,Cash,Business
+2134,560,0,1,5,0,1,2,0,246,Bus,Easiest,Card,Economy
+5769,561,1,0,8,0,1,0,2,164,Bus,Easiest,Cash,First Class
+8334,686,0,0,5,2,1,2,0,103,Airline,Easiest,Card,Economy
+564,113,0,1,20,0,1,2,2,367,Bus,Easiest,Card,First Class
+9038,326,1,1,7,2,1,1,1,255,Airline,Easiest,UPI,Business
+1295,91,0,1,13,1,1,0,1,276,Train,Easiest,Cash,Business
+5331,383,1,0,11,2,0,1,0,193,Airline,Fastest,UPI,Economy
+7742,155,1,1,7,0,0,0,1,308,Bus,Fastest,Cash,Business
+6950,284,0,1,18,2,1,0,0,255,Airline,Easiest,Cash,Economy
+8263,557,1,1,9,1,0,0,1,204,Train,Fastest,Cash,Business
+3624,627,1,0,1,1,1,2,2,115,Train,Easiest,Card,First Class
+7810,322,0,0,13,0,1,2,1,94,Bus,Easiest,Card,Business
+6663,82,0,1,17,1,0,1,2,262,Train,Fastest,UPI,First Class
+7478,593,1,0,4,0,1,1,1,50,Bus,Easiest,UPI,Business
+2463,233,1,0,1,0,0,2,1,166,Bus,Fastest,Card,Business
+7861,561,1,0,19,2,0,1,2,165,Airline,Fastest,UPI,First Class
+5002,637,1,1,22,2,1,1,0,263,Airline,Easiest,UPI,Economy
+6135,369,0,1,18,1,0,2,1,271,Train,Fastest,Card,Business
+3828,82,1,0,16,2,1,0,2,217,Airline,Easiest,Cash,First Class
+4068,62,0,0,0,1,1,1,0,158,Train,Easiest,UPI,Economy
+8321,656,1,0,22,0,0,2,1,108,Bus,Fastest,Card,Business
+7937,568,1,1,5,1,1,2,1,182,Train,Easiest,Card,Business
+4431,654,1,0,7,1,1,0,1,186,Train,Easiest,Cash,Business
+4835,242,1,1,15,1,1,1,0,281,Train,Easiest,UPI,Economy
+6564,383,0,1,1,1,0,1,1,145,Train,Fastest,UPI,Business
+4301,520,0,0,17,1,1,0,0,211,Train,Easiest,Cash,Economy
+4072,81,0,0,1,0,1,1,2,87,Bus,Easiest,UPI,First Class
+7839,132,0,0,17,0,1,2,1,162,Bus,Easiest,Card,Business
+4806,358,1,0,2,2,0,2,2,117,Airline,Fastest,Card,First Class
+711,209,1,0,1,1,1,0,2,229,Train,Easiest,Cash,First Class
+713,39,1,0,10,1,1,2,2,250,Train,Easiest,Card,First Class
+8690,535,0,1,8,0,0,1,0,220,Bus,Fastest,UPI,Economy
+3150,44,1,1,18,2,0,0,2,320,Airline,Fastest,Cash,First Class
+6743,467,1,0,12,2,0,0,0,123,Airline,Fastest,Cash,Economy
+211,297,1,0,14,1,1,1,2,254,Train,Easiest,UPI,First Class
+9486,41,1,1,22,0,0,2,0,227,Bus,Fastest,Card,Economy
+8333,348,0,1,11,2,0,0,0,186,Airline,Fastest,Cash,Economy
+7934,186,1,1,13,2,1,2,2,214,Airline,Easiest,Card,First Class
+1441,568,1,1,2,2,0,0,2,180,Airline,Fastest,Cash,First Class
+8381,237,0,0,10,2,1,0,2,79,Airline,Easiest,Cash,First Class
+1589,552,1,0,14,0,1,1,2,208,Bus,Easiest,UPI,First Class
+1045,602,1,1,23,0,1,1,0,301,Bus,Easiest,UPI,Economy
+842,463,1,0,17,0,0,1,0,295,Bus,Fastest,UPI,Economy
+4803,448,0,0,20,2,1,1,1,158,Airline,Easiest,UPI,Business
+6284,414,0,0,20,1,0,0,2,187,Train,Fastest,Cash,First Class
+6539,571,0,0,0,0,1,1,2,21,Bus,Easiest,UPI,First Class
+6314,265,0,1,11,0,1,0,2,147,Bus,Easiest,Cash,First Class
+1948,62,1,0,7,0,0,0,2,300,Bus,Fastest,Cash,First Class
+897,280,0,1,14,0,0,0,0,295,Bus,Fastest,Cash,Economy
+8355,326,0,1,18,2,1,0,1,255,Airline,Easiest,Cash,Business
+8640,256,1,1,8,0,0,2,2,205,Bus,Fastest,Card,First Class
+7099,599,1,0,11,2,1,2,1,115,Airline,Easiest,Card,Business
+5013,415,0,1,7,0,1,2,0,257,Bus,Easiest,Card,Economy
+7686,89,1,1,17,2,0,1,0,330,Airline,Fastest,UPI,Economy
+1395,490,1,0,17,2,0,0,1,293,Airline,Fastest,Cash,Business
+6279,649,0,0,6,2,0,1,0,136,Airline,Fastest,UPI,Economy
+351,246,0,0,23,1,0,2,2,202,Train,Fastest,Card,First Class
+3450,436,0,1,9,1,1,2,2,262,Train,Easiest,Card,First Class
+8501,539,1,0,23,1,1,0,1,128,Train,Easiest,Cash,Business
+5226,453,0,0,23,0,0,1,2,132,Bus,Fastest,UPI,First Class
+6941,332,0,0,10,0,1,2,0,120,Bus,Easiest,Card,Economy
+8280,593,1,1,15,2,1,1,0,203,Airline,Easiest,UPI,Economy
+2393,589,1,0,17,2,0,2,0,269,Airline,Fastest,Card,Economy
+1317,79,0,1,4,2,0,0,2,220,Airline,Fastest,Cash,First Class
+7571,412,0,1,21,1,0,0,2,172,Train,Fastest,Cash,First Class
+9138,451,0,0,16,2,1,2,1,99,Airline,Easiest,Card,Business
+7154,213,0,0,16,0,0,0,2,99,Bus,Fastest,Cash,First Class
+8725,288,1,1,12,0,1,1,1,146,Bus,Easiest,UPI,Business
+3800,337,0,0,2,1,1,1,2,82,Train,Easiest,UPI,First Class
+7898,87,0,0,2,1,1,2,1,50,Train,Easiest,Card,Business
+1662,570,0,0,6,2,1,1,0,176,Airline,Easiest,UPI,Economy
+1318,317,0,0,10,0,0,2,0,217,Bus,Fastest,Card,Economy
+6625,108,1,0,18,0,1,2,2,188,Bus,Easiest,Card,First Class
+5535,423,0,0,16,2,1,0,0,107,Airline,Easiest,Cash,Economy
+5680,649,1,1,0,2,1,1,1,174,Airline,Easiest,UPI,Business
+3837,394,1,1,5,2,1,0,2,229,Airline,Easiest,Cash,First Class
+1304,114,1,0,12,2,0,2,1,266,Airline,Fastest,Card,Business
+5288,399,0,0,0,1,1,1,1,101,Train,Easiest,UPI,Business
+7161,489,1,0,0,0,1,2,0,107,Bus,Easiest,Card,Economy
+5415,424,0,1,13,1,0,2,2,238,Train,Fastest,Card,First Class
+9470,563,0,1,5,0,1,1,1,93,Bus,Easiest,UPI,Business
+8179,179,0,0,13,1,1,1,1,127,Train,Easiest,UPI,Business
+4140,670,1,0,14,0,0,1,0,173,Bus,Fastest,UPI,Economy
+6583,370,1,1,14,1,1,2,2,228,Train,Easiest,Card,First Class
+3390,520,1,0,12,1,1,2,2,191,Train,Easiest,Card,First Class
+8144,619,0,1,12,1,1,1,0,192,Train,Easiest,UPI,Economy
+9039,214,0,1,22,0,1,1,2,137,Bus,Easiest,UPI,First Class
+1233,448,1,0,20,1,0,1,2,303,Train,Fastest,UPI,First Class
+6276,105,1,1,18,1,1,2,0,370,Train,Easiest,Card,Economy
+5990,579,0,0,7,2,1,0,2,113,Airline,Easiest,Cash,First Class
+6647,369,1,0,0,0,1,0,2,56,Bus,Easiest,Cash,First Class
+8599,601,0,1,11,1,1,2,2,125,Train,Easiest,Card,First Class
+502,524,0,1,13,0,0,2,0,270,Bus,Fastest,Card,Economy
+5807,349,1,1,6,2,1,1,1,259,Airline,Easiest,UPI,Business
+7512,356,0,1,1,2,0,0,1,135,Airline,Fastest,Cash,Business
+1891,198,0,0,17,0,1,2,1,264,Bus,Easiest,Card,Business
+6736,674,0,0,20,2,1,1,0,171,Airline,Easiest,UPI,Economy
+3332,490,1,1,0,2,0,0,1,205,Airline,Fastest,Cash,Business
+1125,621,0,0,11,1,0,1,0,183,Train,Fastest,UPI,Economy
+4398,531,1,1,19,1,0,1,1,341,Train,Fastest,UPI,Business
+4973,659,0,0,10,0,0,1,0,118,Bus,Fastest,UPI,Economy
+3099,412,0,1,13,2,0,2,1,213,Airline,Fastest,Card,Business
+8904,690,0,0,15,1,0,0,1,74,Train,Fastest,Cash,Business
+7489,664,0,1,0,1,0,0,1,128,Train,Fastest,Cash,Business
+8209,448,1,1,22,1,1,0,0,220,Train,Easiest,Cash,Economy
+9363,61,0,1,1,1,0,2,1,151,Train,Fastest,Card,Business
+8215,592,0,0,8,2,1,2,0,165,Airline,Easiest,Card,Economy
+7331,589,0,1,3,2,0,1,0,120,Airline,Fastest,UPI,Economy
+1525,479,0,0,6,2,1,2,2,158,Airline,Easiest,Card,First Class
+7115,199,0,0,6,0,1,2,1,104,Bus,Easiest,Card,Business
+4894,326,1,0,4,1,0,1,2,130,Train,Fastest,UPI,First Class
+2178,165,0,0,22,1,0,2,1,189,Train,Fastest,Card,Business
+4502,672,1,1,14,0,0,1,2,213,Bus,Fastest,UPI,First Class
+4658,407,1,1,10,2,0,2,0,273,Airline,Fastest,Card,Economy
+5969,94,1,0,13,0,1,1,1,163,Bus,Easiest,UPI,Business
+4746,375,0,1,10,2,0,0,0,207,Airline,Fastest,Cash,Economy
+366,157,0,1,14,0,1,0,2,234,Bus,Easiest,Cash,First Class
+2261,695,1,0,8,0,1,1,0,234,Bus,Easiest,UPI,Economy
+2811,83,1,1,23,2,0,1,2,320,Airline,Fastest,UPI,First Class
+1594,127,0,0,15,0,0,2,0,210,Bus,Fastest,Card,Economy
+232,381,0,1,22,0,1,0,0,281,Bus,Easiest,Cash,Economy
+6376,121,0,0,10,1,1,0,1,149,Train,Easiest,Cash,Business
+2281,686,0,0,16,2,0,2,2,101,Airline,Fastest,Card,First Class
+2788,480,1,0,20,2,0,1,2,237,Airline,Fastest,UPI,First Class
+1520,132,0,0,18,2,1,1,1,237,Airline,Easiest,UPI,Business
+5252,173,0,1,20,0,0,2,2,246,Bus,Fastest,Card,First Class
+539,338,0,0,23,1,1,2,0,224,Train,Easiest,Card,Economy
+4021,536,1,0,7,1,0,2,0,316,Train,Fastest,Card,Economy
+2262,426,1,1,17,2,0,1,0,373,Airline,Fastest,UPI,Economy
+373,631,0,0,8,0,0,0,1,199,Bus,Fastest,Cash,Business
+8309,455,1,1,2,2,0,1,0,173,Airline,Fastest,UPI,Economy
+5177,110,0,0,17,1,1,2,2,218,Train,Easiest,Card,First Class
+1183,347,1,0,1,0,0,1,0,184,Bus,Fastest,UPI,Economy
+7528,656,0,1,21,2,0,0,0,160,Airline,Fastest,Cash,Economy
+2784,538,1,1,5,1,0,2,1,253,Train,Fastest,Card,Business
+2034,60,1,1,8,2,0,1,2,385,Airline,Fastest,UPI,First Class
+8228,496,1,0,15,2,0,1,0,148,Airline,Fastest,UPI,Economy
+4279,135,0,0,23,2,0,0,0,190,Airline,Fastest,Cash,Economy
+6374,183,0,0,17,2,1,0,1,208,Airline,Easiest,Cash,Business
+4167,456,1,1,2,2,1,0,2,169,Airline,Easiest,Cash,First Class
+3756,558,0,1,2,1,1,1,1,166,Train,Easiest,UPI,Business
+1515,596,1,0,11,0,1,2,1,195,Bus,Easiest,Card,Business
+6133,635,1,0,23,2,0,0,0,145,Airline,Fastest,Cash,Economy
+6818,54,0,1,20,2,0,1,0,307,Airline,Fastest,UPI,Economy
+5138,136,0,0,13,1,0,0,2,133,Train,Fastest,Cash,First Class
+4684,125,0,0,16,1,1,1,2,168,Train,Easiest,UPI,First Class
+2287,682,1,0,18,2,0,1,2,244,Airline,Fastest,UPI,First Class
+2241,272,1,1,10,1,1,1,1,308,Train,Easiest,UPI,Business
+3421,169,0,0,3,0,1,1,1,128,Bus,Easiest,UPI,Business
+6760,153,1,0,14,1,1,1,0,240,Train,Easiest,UPI,Economy
+5084,647,0,0,10,0,0,2,0,152,Bus,Fastest,Card,Economy
+5928,435,0,1,8,0,0,1,1,223,Bus,Fastest,UPI,Business
+1651,503,0,0,3,0,0,0,0,131,Bus,Fastest,Cash,Economy
+3346,440,1,0,18,2,1,0,0,285,Airline,Easiest,Cash,Economy
+7365,161,0,1,3,0,1,0,0,153,Bus,Easiest,Cash,Economy
+7196,434,1,0,12,2,1,0,1,131,Airline,Easiest,Cash,Business
+4685,486,0,0,19,2,0,2,1,208,Airline,Fastest,Card,Business
+8273,451,1,0,2,1,1,0,1,90,Train,Easiest,Cash,Business
+8714,285,0,1,22,1,1,2,1,208,Train,Easiest,Card,Business
+5736,609,1,1,8,0,0,1,2,262,Bus,Fastest,UPI,First Class
+4702,89,1,1,18,0,0,0,0,396,Bus,Fastest,Cash,Economy
+4051,302,0,0,18,1,1,0,0,253,Train,Easiest,Cash,Economy
+5978,635,0,1,18,2,0,2,0,277,Airline,Fastest,Card,Economy
+8164,585,1,0,15,0,0,0,0,128,Bus,Fastest,Cash,Economy
+7931,30,1,0,4,1,0,1,0,162,Train,Fastest,UPI,Economy
+459,181,0,0,16,1,0,1,2,239,Train,Fastest,UPI,First Class
+1755,374,1,1,4,0,1,2,1,226,Bus,Easiest,Card,Business
+5298,208,1,0,21,2,0,1,1,191,Airline,Fastest,UPI,Business
+3011,31,1,0,5,2,1,2,0,241,Airline,Easiest,Card,Economy
+9365,136,1,0,10,2,0,0,1,143,Airline,Fastest,Cash,Business
+1553,684,1,1,0,1,0,0,2,210,Train,Fastest,Cash,First Class
+1210,388,1,0,23,0,0,1,1,224,Bus,Fastest,UPI,Business
+6883,534,1,1,17,1,0,1,2,228,Train,Fastest,UPI,First Class
+3795,196,1,0,1,1,0,1,1,187,Train,Fastest,UPI,Business
+2887,414,0,0,17,0,1,2,2,199,Bus,Easiest,Card,First Class
+8009,61,1,0,19,1,0,0,0,241,Train,Fastest,Cash,Economy
+6805,597,1,1,9,0,0,0,1,290,Bus,Fastest,Cash,Business
+9467,592,1,0,1,1,0,1,0,84,Train,Fastest,UPI,Economy
+7969,234,0,0,6,0,1,0,1,117,Bus,Easiest,Cash,Business
+1992,345,1,1,15,2,1,0,2,251,Airline,Easiest,Cash,First Class
+6349,408,0,1,1,1,1,1,1,146,Train,Easiest,UPI,Business
+3806,305,0,0,22,2,0,0,2,125,Airline,Fastest,Cash,First Class
+3827,596,0,1,16,1,1,2,0,258,Train,Easiest,Card,Economy
+7903,336,0,1,22,0,0,0,1,185,Bus,Fastest,Cash,Business
+3571,227,0,0,13,0,1,0,2,183,Bus,Easiest,Cash,First Class
+2522,639,1,1,23,0,0,1,2,229,Bus,Fastest,UPI,First Class
+4625,562,1,0,22,2,1,0,1,163,Airline,Easiest,Cash,Business
+2551,181,0,0,18,0,1,2,1,254,Bus,Easiest,Card,Business
+8055,615,1,0,5,1,1,0,2,90,Train,Easiest,Cash,First Class
+6681,69,1,1,22,0,0,2,1,281,Bus,Fastest,Card,Business
+431,375,1,1,8,1,0,0,0,384,Train,Fastest,Cash,Economy
+5023,483,1,1,23,1,0,0,1,256,Train,Fastest,Cash,Business
+8037,558,1,0,16,0,0,1,2,134,Bus,Fastest,UPI,First Class
+8403,443,0,0,5,0,0,0,0,106,Bus,Fastest,Cash,Economy
+6004,233,1,1,14,2,1,2,0,267,Airline,Easiest,Card,Economy
+600,277,1,1,19,1,0,1,2,370,Train,Fastest,UPI,First Class
+4337,122,1,0,12,0,0,2,0,227,Bus,Fastest,Card,Economy
+3726,692,0,0,8,2,1,2,0,232,Airline,Easiest,Card,Economy
+245,515,0,0,19,0,0,1,2,204,Bus,Fastest,UPI,First Class
+5104,688,1,1,12,1,1,1,0,231,Train,Easiest,UPI,Economy
+6606,628,0,0,16,2,1,2,2,74,Airline,Easiest,Card,First Class
+4731,335,0,1,2,1,1,2,1,183,Train,Easiest,Card,Business
+4995,222,0,0,1,2,1,2,1,84,Airline,Easiest,Card,Business
+2392,56,1,1,8,1,1,1,2,392,Train,Easiest,UPI,First Class
+9472,224,1,0,21,2,1,2,1,128,Airline,Easiest,Card,Business
+8411,337,0,0,9,0,1,0,2,113,Bus,Easiest,Cash,First Class
+3099,373,0,0,11,0,1,1,1,190,Bus,Easiest,UPI,Business
+6189,296,1,1,3,1,0,2,2,165,Train,Fastest,Card,First Class
+7836,229,0,1,16,1,1,0,0,198,Train,Easiest,Cash,Economy
+2350,235,1,1,18,1,0,1,2,369,Train,Fastest,UPI,First Class
+5549,676,0,1,20,0,0,1,1,245,Bus,Fastest,UPI,Business
+3530,202,0,1,2,0,1,2,1,145,Bus,Easiest,Card,Business
+6380,34,0,0,23,1,0,1,2,179,Train,Fastest,UPI,First Class
+3222,48,0,0,7,2,1,1,0,287,Airline,Easiest,UPI,Economy
+5115,201,0,0,9,1,1,2,2,212,Train,Easiest,Card,First Class
+8687,375,1,0,10,1,1,0,0,193,Train,Easiest,Cash,Economy
+6709,49,0,0,23,0,0,2,0,152,Bus,Fastest,Card,Economy
+8367,203,0,1,22,2,0,1,2,162,Airline,Fastest,UPI,First Class
+896,638,0,0,20,0,0,2,0,281,Bus,Fastest,Card,Economy
+6928,484,1,0,17,1,1,2,0,249,Train,Easiest,Card,Economy
+252,338,1,0,21,2,1,2,2,250,Airline,Easiest,Card,First Class
+2347,458,0,0,9,0,0,1,0,224,Bus,Fastest,UPI,Economy
+8671,236,1,1,9,0,0,2,1,240,Bus,Fastest,Card,Business
+3502,522,1,0,0,0,0,0,2,104,Bus,Fastest,Cash,First Class
+1575,553,0,0,8,2,0,1,1,220,Airline,Fastest,UPI,Business
+4427,505,0,0,5,0,1,1,2,99,Bus,Easiest,UPI,First Class
+1656,76,0,0,21,2,0,1,1,243,Airline,Fastest,UPI,Business
+7271,666,1,0,11,1,0,0,1,114,Train,Fastest,Cash,Business
+6419,519,1,0,3,0,0,0,0,123,Bus,Fastest,Cash,Economy
+6916,634,1,1,5,2,1,1,2,205,Airline,Easiest,UPI,First Class
+2240,524,1,0,13,1,0,0,1,218,Train,Fastest,Cash,Business
+5248,42,0,1,16,2,0,1,2,218,Airline,Fastest,UPI,First Class
+6405,182,0,0,20,0,1,1,0,199,Bus,Easiest,UPI,Economy
+1326,533,1,0,10,1,0,2,0,240,Train,Fastest,Card,Economy
+3950,110,1,1,18,1,0,1,1,366,Train,Fastest,UPI,Business
+5278,151,1,0,3,1,1,0,2,98,Train,Easiest,Cash,First Class
+5090,550,0,1,10,1,0,0,1,191,Train,Fastest,Cash,Business
+5539,603,1,1,22,1,0,0,2,216,Train,Fastest,Cash,First Class
+4883,590,1,0,1,0,1,0,2,92,Bus,Easiest,Cash,First Class
+6804,139,1,0,6,0,1,0,1,162,Bus,Easiest,Cash,Business
+5636,140,1,0,20,2,0,1,1,249,Airline,Fastest,UPI,Business
+8360,167,1,0,16,2,0,2,1,160,Airline,Fastest,Card,Business
+8428,211,0,0,3,1,1,2,1,46,Train,Easiest,Card,Business
+6959,653,0,1,12,1,1,1,0,210,Train,Easiest,UPI,Economy
+8493,336,1,0,6,0,1,2,1,140,Bus,Easiest,Card,Business
+2273,695,0,1,22,0,1,2,1,169,Bus,Easiest,Card,Business
+6939,576,1,1,0,2,0,0,1,125,Airline,Fastest,Cash,Business
+2481,84,0,0,8,0,1,2,1,247,Bus,Easiest,Card,Business
+4935,238,0,1,14,0,0,2,2,205,Bus,Fastest,Card,First Class
+9295,428,0,1,22,2,0,1,1,119,Airline,Fastest,UPI,Business
+5222,595,0,0,23,1,0,2,1,147,Train,Fastest,Card,Business
+3795,678,1,0,23,0,1,1,0,193,Bus,Easiest,UPI,Economy
+2947,556,0,1,1,1,1,2,1,178,Train,Easiest,Card,Business
+2231,194,1,0,10,1,0,0,0,291,Train,Fastest,Cash,Economy
+5034,532,1,0,22,1,0,0,2,146,Train,Fastest,Cash,First Class
+1217,547,0,1,17,2,1,0,1,299,Airline,Easiest,Cash,Business
+5537,369,1,1,6,2,1,2,2,229,Airline,Easiest,Card,First Class
+244,147,1,1,7,2,0,0,2,380,Airline,Fastest,Cash,First Class
+1957,425,1,1,0,2,1,2,2,200,Airline,Easiest,Card,First Class
+7400,528,0,1,20,0,1,2,0,251,Bus,Easiest,Card,Economy
+8914,576,0,0,6,2,0,2,1,61,Airline,Fastest,Card,Business
+1802,240,1,0,23,2,0,0,1,228,Airline,Fastest,Cash,Business
+1300,85,0,1,17,0,0,1,1,346,Bus,Fastest,UPI,Business
+6457,491,1,1,10,0,1,2,0,207,Bus,Easiest,Card,Economy
+1136,629,0,0,11,2,0,1,2,150,Airline,Fastest,UPI,First Class
+5037,651,0,1,14,1,1,2,0,195,Train,Easiest,Card,Economy
+2334,430,1,0,9,2,1,0,2,239,Airline,Easiest,Cash,First Class
+9194,174,0,0,0,2,1,2,2,38,Airline,Easiest,Card,First Class
+5733,246,1,0,5,0,0,2,1,170,Bus,Fastest,Card,Business
+3283,147,0,0,17,1,0,1,2,258,Train,Fastest,UPI,First Class
+8082,368,1,0,21,2,0,0,1,133,Airline,Fastest,Cash,Business
+1243,228,1,1,14,1,1,2,2,319,Train,Easiest,Card,First Class
+5282,468,0,0,10,0,0,2,2,123,Bus,Fastest,Card,First Class
+7245,313,1,0,21,2,1,1,1,120,Airline,Easiest,UPI,Business
+8078,594,0,0,20,2,0,1,0,180,Airline,Fastest,UPI,Economy
+8924,231,1,0,23,0,0,2,2,138,Bus,Fastest,Card,First Class
+6737,634,0,0,17,1,1,2,0,195,Train,Easiest,Card,Economy
+6093,431,0,1,4,1,0,1,1,131,Train,Fastest,UPI,Business
+2817,556,0,1,5,0,0,2,2,201,Bus,Fastest,Card,First Class
+8021,397,0,0,15,0,0,1,1,96,Bus,Fastest,UPI,Business
+8585,399,1,1,14,0,0,2,1,218,Bus,Fastest,Card,Business
+1791,563,1,1,18,2,0,1,2,310,Airline,Fastest,UPI,First Class
+1375,559,1,1,7,2,1,1,1,351,Airline,Easiest,UPI,Business
+8076,523,0,0,14,0,0,0,2,47,Bus,Fastest,Cash,First Class
+3162,191,1,0,21,0,1,1,2,186,Bus,Easiest,UPI,First Class
+1956,523,1,1,6,2,0,2,1,282,Airline,Fastest,Card,Business
+9496,636,0,0,20,2,0,2,0,143,Airline,Fastest,Card,Economy
+1016,200,1,0,16,1,0,2,2,241,Train,Fastest,Card,First Class
+1504,251,1,1,15,0,0,1,2,278,Bus,Fastest,UPI,First Class
+2438,626,0,1,5,2,1,1,2,190,Airline,Easiest,UPI,First Class
+6415,165,0,0,6,2,1,0,2,100,Airline,Easiest,Cash,First Class
+1677,211,1,0,17,2,0,0,1,277,Airline,Fastest,Cash,Business
+8935,31,1,1,11,0,1,0,1,174,Bus,Easiest,Cash,Business
+6346,388,0,1,4,1,1,0,0,159,Train,Easiest,Cash,Economy
+6795,293,0,0,22,2,0,2,2,139,Airline,Fastest,Card,First Class
+2030,562,0,1,20,0,1,1,1,305,Bus,Easiest,UPI,Business
+4255,297,1,1,19,1,1,0,1,345,Train,Easiest,Cash,Business
+9145,600,1,0,11,2,1,1,1,69,Airline,Easiest,UPI,Business
+6622,171,0,0,14,2,0,0,0,139,Airline,Fastest,Cash,Economy
+8428,440,1,0,5,1,0,0,0,136,Train,Fastest,Cash,Economy
+1544,95,1,0,11,0,0,2,1,252,Bus,Fastest,Card,Business
+6664,658,1,0,5,2,1,1,0,160,Airline,Easiest,UPI,Economy
+8589,322,0,0,19,2,0,2,0,208,Airline,Fastest,Card,Economy
+690,398,0,0,5,0,1,1,1,180,Bus,Easiest,UPI,Business
+3381,560,0,0,2,2,1,2,2,54,Airline,Easiest,Card,First Class
+5803,385,1,0,19,0,1,1,2,218,Bus,Easiest,UPI,First Class
+8394,139,0,1,10,0,1,2,2,154,Bus,Easiest,Card,First Class
+4198,483,1,1,7,1,1,2,1,342,Train,Easiest,Card,Business
+7996,149,1,0,12,2,0,2,2,117,Airline,Fastest,Card,First Class
+3867,353,1,1,16,2,0,2,1,266,Airline,Fastest,Card,Business
+5703,107,0,1,10,1,0,2,1,246,Train,Fastest,Card,Business
+3094,224,1,0,7,2,0,1,0,307,Airline,Fastest,UPI,Economy
+5933,189,0,0,2,2,1,2,0,144,Airline,Easiest,Card,Economy
+8971,73,1,1,19,1,1,2,1,242,Train,Easiest,Card,Business
+8474,316,1,0,18,0,0,2,1,198,Bus,Fastest,Card,Business
+7936,583,0,1,12,2,0,1,0,172,Airline,Fastest,UPI,Economy
+237,42,0,1,18,0,1,1,2,326,Bus,Easiest,UPI,First Class
+4354,221,1,0,8,1,1,1,0,282,Train,Easiest,UPI,Economy
+6199,403,1,1,14,0,0,2,2,208,Bus,Fastest,Card,First Class
+3844,132,1,0,17,1,1,0,0,319,Train,Easiest,Cash,Economy
+7849,39,0,1,15,0,1,1,1,163,Bus,Easiest,UPI,Business
+4211,605,0,1,3,2,0,0,0,176,Airline,Fastest,Cash,Economy
+1677,490,1,1,11,1,1,1,0,304,Train,Easiest,UPI,Economy
+6846,154,1,0,18,2,0,1,1,231,Airline,Fastest,UPI,Business
+7422,110,1,1,14,2,0,0,2,234,Airline,Fastest,Cash,First Class
+5627,461,1,0,2,0,1,0,1,88,Bus,Easiest,Cash,Business
+4482,649,1,1,14,1,1,1,0,283,Train,Easiest,UPI,Economy
+3112,53,0,0,21,1,0,0,0,223,Train,Fastest,Cash,Economy
+7852,591,0,0,12,2,0,0,1,77,Airline,Fastest,Cash,Business
+2644,116,1,1,7,0,1,1,2,350,Bus,Easiest,UPI,First Class
+2895,59,0,1,10,1,1,2,1,290,Train,Easiest,Card,Business
+9087,485,0,0,18,2,1,2,2,96,Airline,Easiest,Card,First Class
+8676,685,1,1,15,2,0,0,1,145,Airline,Fastest,Cash,Business
+5144,404,1,1,4,1,0,0,2,200,Train,Fastest,Cash,First Class
+5734,323,1,0,22,1,1,1,0,179,Train,Easiest,UPI,Economy
+7152,329,0,0,17,1,0,1,2,167,Train,Fastest,UPI,First Class
+6485,417,0,1,2,1,0,2,2,137,Train,Fastest,Card,First Class
+4554,321,1,1,6,0,0,0,1,264,Bus,Fastest,Cash,Business
+7518,308,1,0,10,0,0,0,2,134,Bus,Fastest,Cash,First Class
+462,220,0,1,8,0,1,2,0,356,Bus,Easiest,Card,Economy
+8186,252,1,1,9,1,1,1,2,275,Train,Easiest,UPI,First Class
+619,368,0,0,1,1,1,0,2,124,Train,Easiest,Cash,First Class
+4197,420,0,0,22,0,1,1,0,166,Bus,Easiest,UPI,Economy
+649,233,1,0,16,2,0,1,1,249,Airline,Fastest,UPI,Business
+5393,192,0,0,8,1,1,0,1,193,Train,Easiest,Cash,Business
+953,253,0,0,20,1,1,0,0,306,Train,Easiest,Cash,Economy
+6584,278,0,0,18,2,1,2,2,142,Airline,Easiest,Card,First Class
+2639,410,0,0,5,1,0,2,2,142,Train,Fastest,Card,First Class
+1083,91,1,0,22,2,0,0,1,293,Airline,Fastest,Cash,Business
+3912,354,1,1,23,0,0,2,1,255,Bus,Fastest,Card,Business
+746,526,1,1,17,2,1,0,2,336,Airline,Easiest,Cash,First Class
+3157,586,1,1,23,1,1,2,2,258,Train,Easiest,Card,First Class
+7462,332,1,1,14,0,1,2,0,251,Bus,Easiest,Card,Economy
+406,664,1,0,10,2,0,2,2,204,Airline,Fastest,Card,First Class
+8251,594,0,1,10,1,1,0,0,161,Train,Easiest,Cash,Economy
+8672,98,0,0,5,0,0,0,1,103,Bus,Fastest,Cash,Business
+6466,531,1,0,11,0,0,0,0,163,Bus,Fastest,Cash,Economy
+8151,111,1,0,11,2,1,1,2,161,Airline,Easiest,UPI,First Class
+8767,71,0,1,2,0,0,0,2,114,Bus,Fastest,Cash,First Class
+3884,574,1,0,6,2,0,2,2,180,Airline,Fastest,Card,First Class
+9244,455,0,1,21,1,1,0,0,163,Train,Easiest,Cash,Economy
+3055,593,1,1,21,0,1,1,1,190,Bus,Easiest,UPI,Business
+6190,452,1,1,19,0,0,1,2,253,Bus,Fastest,UPI,First Class
+4262,398,1,1,12,0,0,1,2,249,Bus,Fastest,UPI,First Class
+5045,36,1,0,6,1,0,2,1,225,Train,Fastest,Card,Business
+9171,553,0,0,1,1,1,0,0,39,Train,Easiest,Cash,Economy
+4193,268,1,1,2,2,1,2,0,275,Airline,Easiest,Card,Economy
+1364,362,1,0,15,2,0,2,2,204,Airline,Fastest,Card,First Class
+6351,110,0,1,11,1,1,0,0,269,Train,Easiest,Cash,Economy
+287,679,1,0,9,2,0,1,2,244,Airline,Fastest,UPI,First Class
+3717,186,0,1,14,2,0,0,1,230,Airline,Fastest,Cash,Business
+4847,433,0,0,10,0,1,2,2,124,Bus,Easiest,Card,First Class
+1493,438,1,0,4,1,0,1,1,197,Train,Fastest,UPI,Business
+9460,230,0,0,2,1,1,1,2,41,Train,Easiest,UPI,First Class
+6876,463,1,1,6,1,1,2,2,202,Train,Easiest,Card,First Class
+496,342,0,1,19,1,0,1,0,396,Train,Fastest,UPI,Economy
+6224,189,0,0,23,0,0,2,0,153,Bus,Fastest,Card,Economy
+4813,44,1,0,9,1,1,0,1,274,Train,Easiest,Cash,Business
+3439,589,1,1,19,2,0,2,2,320,Airline,Fastest,Card,First Class
+401,415,0,1,5,0,1,0,2,230,Bus,Easiest,Cash,First Class
+236,98,1,1,21,2,1,0,0,348,Airline,Easiest,Cash,Economy
+4892,694,1,0,12,2,0,1,1,169,Airline,Fastest,UPI,Business
+3154,233,1,0,1,0,1,1,1,143,Bus,Easiest,UPI,Business
+6545,190,0,1,21,1,1,2,1,216,Train,Easiest,Card,Business
+8312,312,0,1,12,0,1,0,0,226,Bus,Easiest,Cash,Economy
+5699,432,0,0,23,1,0,1,0,152,Train,Fastest,UPI,Economy
+5218,649,1,1,17,0,0,2,0,299,Bus,Fastest,Card,Economy
+8969,237,0,1,22,2,0,1,0,182,Airline,Fastest,UPI,Economy
+2689,355,0,0,5,1,0,2,0,195,Train,Fastest,Card,Economy
+5321,453,1,1,14,2,1,0,0,258,Airline,Easiest,Cash,Economy
+4472,650,0,0,7,2,0,1,0,213,Airline,Fastest,UPI,Economy
+7908,167,1,1,5,1,1,1,0,271,Train,Easiest,UPI,Economy
+6794,45,1,1,7,2,0,0,0,338,Airline,Fastest,Cash,Economy
+3001,479,1,1,14,0,1,1,0,259,Bus,Easiest,UPI,Economy
+5226,433,0,0,14,1,0,0,2,101,Train,Fastest,Cash,First Class
+8912,435,0,1,16,2,0,0,1,107,Airline,Fastest,Cash,Business
+4784,502,0,1,9,2,0,2,2,251,Airline,Fastest,Card,First Class
+2430,504,1,0,23,2,0,0,2,205,Airline,Fastest,Cash,First Class
+2316,432,1,1,14,0,0,1,2,253,Bus,Fastest,UPI,First Class
+3408,495,0,1,10,2,0,2,2,209,Airline,Fastest,Card,First Class
+7462,679,1,0,16,2,1,2,2,98,Airline,Easiest,Card,First Class
+2719,417,1,0,5,1,0,0,0,254,Train,Fastest,Cash,Economy
+6974,345,1,1,9,2,0,0,0,323,Airline,Fastest,Cash,Economy
+3423,33,1,0,14,1,1,2,0,249,Train,Easiest,Card,Economy
+3653,632,1,1,13,1,0,2,2,229,Train,Fastest,Card,First Class
+207,280,1,0,1,0,0,0,2,171,Bus,Fastest,Cash,First Class
+631,621,1,1,2,0,0,1,0,271,Bus,Fastest,UPI,Economy
+2743,321,0,1,23,2,1,0,0,259,Airline,Easiest,Cash,Economy
+6308,99,1,0,9,1,0,0,2,216,Train,Fastest,Cash,First Class
+4596,367,1,0,22,0,0,0,2,154,Bus,Fastest,Cash,First Class
+1536,525,1,1,19,1,1,2,2,315,Train,Easiest,Card,First Class
+5897,162,1,1,15,0,0,2,1,251,Bus,Fastest,Card,Business
+492,506,0,0,19,1,1,0,1,257,Train,Easiest,Cash,Business
+5828,603,0,0,20,0,1,1,0,182,Bus,Easiest,UPI,Economy
+5407,36,0,1,10,1,0,0,0,289,Train,Fastest,Cash,Economy
+5515,376,1,1,1,2,0,1,0,194,Airline,Fastest,UPI,Economy
+8897,373,1,1,23,0,1,2,2,138,Bus,Easiest,Card,First Class
+5269,598,0,0,18,2,1,1,0,216,Airline,Easiest,UPI,Economy
+610,377,1,0,18,2,1,0,2,271,Airline,Easiest,Cash,First Class
+2014,345,1,0,8,1,0,1,0,300,Train,Fastest,UPI,Economy
+5058,251,1,0,3,1,0,0,0,199,Train,Fastest,Cash,Economy
+7370,548,0,1,16,0,0,1,1,157,Bus,Fastest,UPI,Business
+5463,176,0,0,6,2,0,1,1,131,Airline,Fastest,UPI,Business
+8658,148,0,1,1,2,0,1,1,137,Airline,Fastest,UPI,Business
+5219,53,1,0,10,0,0,1,1,198,Bus,Fastest,UPI,Business
+8820,356,1,0,8,0,0,1,0,232,Bus,Fastest,UPI,Economy
+8522,134,0,1,17,1,1,0,2,234,Train,Easiest,Cash,First Class
+4741,617,0,0,2,1,1,2,1,83,Train,Easiest,Card,Business
+926,138,1,0,2,1,1,0,2,193,Train,Easiest,Cash,First Class
+7404,661,1,1,10,0,0,1,2,194,Bus,Fastest,UPI,First Class
+7772,129,1,1,21,2,1,1,0,278,Airline,Easiest,UPI,Economy
+3766,177,1,1,12,0,1,1,1,269,Bus,Easiest,UPI,Business
+1949,389,1,1,5,1,1,2,2,282,Train,Easiest,Card,First Class
+2187,550,0,1,22,0,1,2,2,217,Bus,Easiest,Card,First Class
+7652,440,1,0,19,0,0,1,1,206,Bus,Fastest,UPI,Business
+1182,378,0,1,13,2,1,2,2,239,Airline,Easiest,Card,First Class
+1376,617,1,0,18,2,1,1,2,278,Airline,Easiest,UPI,First Class
+1699,485,0,1,12,0,0,2,2,225,Bus,Fastest,Card,First Class
+8198,690,0,0,6,0,0,0,2,20,Bus,Fastest,Cash,First Class
+2544,493,1,1,19,2,1,0,0,343,Airline,Easiest,Cash,Economy
+9443,341,1,1,2,2,0,2,2,107,Airline,Fastest,Card,First Class
+6722,160,1,0,11,2,0,0,2,104,Airline,Fastest,Cash,First Class
+1897,318,0,0,13,2,1,2,1,161,Airline,Easiest,Card,Business
+6371,445,1,1,17,0,0,1,0,320,Bus,Fastest,UPI,Economy
+6002,457,0,1,21,0,0,0,0,219,Bus,Fastest,Cash,Economy
+357,177,1,1,4,0,0,2,1,301,Bus,Fastest,Card,Business
+7074,668,0,1,16,1,1,1,1,136,Train,Easiest,UPI,Business
+3798,220,1,0,18,1,0,2,2,268,Train,Fastest,Card,First Class
+6112,64,0,1,22,1,0,2,1,277,Train,Fastest,Card,Business
+1411,175,1,1,16,0,0,0,1,288,Bus,Fastest,Cash,Business
+1379,678,1,0,10,2,0,1,1,186,Airline,Fastest,UPI,Business
+8499,510,1,1,11,1,1,0,0,207,Train,Easiest,Cash,Economy
+5081,607,1,0,20,1,0,2,0,240,Train,Fastest,Card,Economy
+4880,669,0,1,15,0,0,2,0,214,Bus,Fastest,Card,Economy
+2271,660,1,1,8,0,0,2,0,326,Bus,Fastest,Card,Economy
+2576,487,1,0,8,2,0,1,0,298,Airline,Fastest,UPI,Economy
+5717,116,0,0,15,1,1,0,2,103,Train,Easiest,Cash,First Class
+7311,682,0,0,18,2,1,0,2,110,Airline,Easiest,Cash,First Class
+960,201,1,1,15,1,1,2,2,345,Train,Easiest,Card,First Class
+3928,418,1,1,8,0,1,0,1,315,Bus,Easiest,Cash,Business
+5272,572,0,0,17,2,1,1,2,153,Airline,Easiest,UPI,First Class
+4566,373,1,1,3,1,1,1,2,200,Train,Easiest,UPI,First Class
+3293,562,1,0,10,2,0,2,0,182,Airline,Fastest,Card,Economy
+1213,42,1,0,16,0,1,1,0,278,Bus,Easiest,UPI,Economy
+657,54,0,0,19,2,0,2,2,262,Airline,Fastest,Card,First Class
+2095,152,0,0,12,2,0,0,2,182,Airline,Fastest,Cash,First Class
+1340,684,1,1,13,2,1,1,0,308,Airline,Easiest,UPI,Economy
+1312,313,0,1,12,1,0,1,1,288,Train,Fastest,UPI,Business
+3387,654,1,0,20,1,0,0,2,239,Train,Fastest,Cash,First Class
+7165,253,0,1,22,1,0,0,0,251,Train,Fastest,Cash,Economy
+7405,49,1,0,20,2,0,0,2,228,Airline,Fastest,Cash,First Class
+6497,302,0,1,12,2,0,2,2,196,Airline,Fastest,Card,First Class
+7244,443,0,0,0,1,1,0,2,29,Train,Easiest,Cash,First Class
+8870,397,1,1,12,0,0,1,2,185,Bus,Fastest,UPI,First Class
+7630,326,0,0,17,0,1,2,0,172,Bus,Easiest,Card,Economy
+4996,429,0,1,15,0,1,2,0,225,Bus,Easiest,Card,Economy
+4007,530,1,0,17,2,1,1,2,232,Airline,Easiest,UPI,First Class
+7461,46,0,1,1,1,0,1,0,205,Train,Fastest,UPI,Economy
+8670,499,0,0,2,0,0,1,2,34,Bus,Fastest,UPI,First Class
+412,512,0,0,22,2,0,0,0,183,Airline,Fastest,Cash,Economy
+1694,497,0,0,3,0,1,2,2,66,Bus,Easiest,Card,First Class
+3713,94,0,1,10,2,1,1,0,297,Airline,Easiest,UPI,Economy
+2350,359,0,0,18,0,1,0,0,247,Bus,Easiest,Cash,Economy
+4587,174,1,0,22,1,0,1,0,252,Train,Fastest,UPI,Economy
+1737,677,1,0,0,1,0,0,0,180,Train,Fastest,Cash,Economy
+3039,121,1,1,22,1,0,0,0,320,Train,Fastest,Cash,Economy
+6850,274,0,0,19,0,1,2,0,184,Bus,Easiest,Card,Economy
+5034,386,1,0,17,0,0,0,2,239,Bus,Fastest,Cash,First Class
+8942,549,0,1,20,2,0,1,0,228,Airline,Fastest,UPI,Economy
+3273,145,0,1,15,0,0,2,0,291,Bus,Fastest,Card,Economy
+3533,475,1,1,19,1,0,0,2,323,Train,Fastest,Cash,First Class
+959,580,0,0,0,1,0,0,0,158,Train,Fastest,Cash,Economy
+5440,459,0,1,7,0,1,0,0,234,Bus,Easiest,Cash,Economy
+3984,452,0,1,7,0,1,2,1,277,Bus,Easiest,Card,Business
+3641,654,1,0,12,1,0,1,2,181,Train,Fastest,UPI,First Class
+3281,677,1,1,6,1,0,0,2,224,Train,Fastest,Cash,First Class
+1920,506,1,1,5,1,0,1,2,276,Train,Fastest,UPI,First Class
+2668,683,0,0,2,1,1,0,2,59,Train,Easiest,Cash,First Class
+337,468,0,0,10,1,0,2,0,240,Train,Fastest,Card,Economy
+9499,35,1,0,1,1,0,1,2,73,Train,Fastest,UPI,First Class
+1705,493,1,0,2,2,0,2,2,166,Airline,Fastest,Card,First Class
+6762,253,0,1,9,0,0,0,1,234,Bus,Fastest,Cash,Business
+7624,614,0,1,14,0,1,0,1,123,Bus,Easiest,Cash,Business
+7707,678,0,0,12,2,1,2,0,83,Airline,Easiest,Card,Economy
+8987,619,0,0,19,1,0,2,2,153,Train,Fastest,Card,First Class
+6063,82,0,1,11,1,0,1,1,250,Train,Fastest,UPI,Business
+1197,604,0,0,10,0,0,2,1,187,Bus,Fastest,Card,Business
+3537,260,1,1,8,2,1,1,0,372,Airline,Easiest,UPI,Economy
+8066,543,0,1,22,2,1,1,2,136,Airline,Easiest,UPI,First Class
+6131,97,0,1,2,0,1,0,1,157,Bus,Easiest,Cash,Business
+2799,312,0,0,15,0,0,2,2,151,Bus,Fastest,Card,First Class
+471,330,1,0,15,1,1,1,2,232,Train,Easiest,UPI,First Class
+1131,52,0,1,13,2,1,2,2,255,Airline,Easiest,Card,First Class
+5446,527,1,1,9,2,0,1,0,316,Airline,Fastest,UPI,Economy
+6193,325,0,0,11,1,1,0,2,99,Train,Easiest,Cash,First Class
+2734,578,1,0,5,2,0,0,0,254,Airline,Fastest,Cash,Economy
+2172,481,1,1,5,0,0,2,1,312,Bus,Fastest,Card,Business
+5733,181,1,1,17,0,1,0,0,311,Bus,Easiest,Cash,Economy
+2481,499,1,0,0,2,1,2,2,140,Airline,Easiest,Card,First Class
+4942,515,1,0,18,2,1,1,2,227,Airline,Easiest,UPI,First Class
+756,172,0,1,0,1,0,1,1,269,Train,Fastest,UPI,Business
+1615,364,0,0,18,2,0,1,0,303,Airline,Fastest,UPI,Economy
+7398,119,1,0,15,1,0,2,1,186,Train,Fastest,Card,Business
+6613,181,1,1,12,1,0,1,1,233,Train,Fastest,UPI,Business
+9291,119,0,1,23,1,1,1,0,250,Train,Easiest,UPI,Economy
+7044,454,0,0,4,0,1,1,2,35,Bus,Easiest,UPI,First Class
+6256,120,0,1,20,1,1,0,2,264,Train,Easiest,Cash,First Class
+7671,611,0,0,5,1,1,2,1,121,Train,Easiest,Card,Business
+5079,535,1,0,0,0,0,1,1,121,Bus,Fastest,UPI,Business
+7842,157,1,1,5,1,0,0,0,266,Train,Fastest,Cash,Economy
+1193,643,1,1,18,1,1,2,2,313,Train,Easiest,Card,First Class
+7899,152,1,0,8,0,0,0,1,175,Bus,Fastest,Cash,Business
+5955,197,0,1,11,1,1,0,1,220,Train,Easiest,Cash,Business
+4878,572,0,0,20,0,0,2,0,174,Bus,Fastest,Card,Economy
+5032,307,1,0,17,2,1,0,0,252,Airline,Easiest,Cash,Economy
+2343,560,1,1,15,1,1,0,0,302,Train,Easiest,Cash,Economy
+3187,602,0,1,14,0,0,0,0,250,Bus,Fastest,Cash,Economy
+7956,386,1,1,4,1,1,0,2,131,Train,Easiest,Cash,First Class
+2043,257,0,0,22,0,1,0,0,227,Bus,Easiest,Cash,Economy
+2233,110,1,0,2,0,1,1,0,211,Bus,Easiest,UPI,Economy
+8512,637,0,1,3,1,0,0,1,99,Train,Fastest,Cash,Business
+268,128,0,0,18,0,0,2,1,297,Bus,Fastest,Card,Business
+4644,623,1,1,5,2,0,2,2,215,Airline,Fastest,Card,First Class
+1219,131,0,0,22,0,1,0,2,208,Bus,Easiest,Cash,First Class
+3606,546,1,1,22,2,0,1,2,240,Airline,Fastest,UPI,First Class
+1858,215,1,1,13,0,0,1,0,333,Bus,Fastest,UPI,Economy
+7733,142,0,1,11,2,1,2,2,151,Airline,Easiest,Card,First Class
+765,114,1,1,3,1,1,1,2,274,Train,Easiest,UPI,First Class
+7373,261,1,1,13,0,0,1,2,180,Bus,Fastest,UPI,First Class
+6120,213,0,1,21,0,1,1,2,179,Bus,Easiest,UPI,First Class
+2448,434,1,0,23,0,0,1,0,228,Bus,Fastest,UPI,Economy
+5648,235,1,0,7,1,1,1,2,235,Train,Easiest,UPI,First Class
+6657,394,1,1,15,2,1,0,1,186,Airline,Easiest,Cash,Business
+1870,155,1,1,15,0,0,0,0,325,Bus,Fastest,Cash,Economy
+8261,57,0,1,19,2,1,0,1,209,Airline,Easiest,Cash,Business
+1678,108,1,1,6,1,1,1,2,313,Train,Easiest,UPI,First Class
+8956,589,0,0,13,0,1,1,1,73,Bus,Easiest,UPI,Business
+6265,483,1,0,1,0,1,2,0,106,Bus,Easiest,Card,Economy
+6474,529,0,1,21,2,1,1,2,154,Airline,Easiest,UPI,First Class
+2660,548,0,1,8,1,1,2,2,242,Train,Easiest,Card,First Class
+5350,92,0,0,4,1,1,2,2,140,Train,Easiest,Card,First Class
+540,670,1,1,3,1,1,1,1,231,Train,Easiest,UPI,Business
+4156,270,1,0,22,0,1,0,1,203,Bus,Easiest,Cash,Business
+2881,50,1,0,14,2,1,2,2,224,Airline,Easiest,Card,First Class
+7795,632,0,1,12,2,1,1,2,117,Airline,Easiest,UPI,First Class
+1701,530,0,0,10,1,1,0,2,141,Train,Easiest,Cash,First Class
+3405,538,0,0,9,1,0,1,2,249,Train,Fastest,UPI,First Class
+6686,261,0,0,18,1,1,0,2,182,Train,Easiest,Cash,First Class
+3536,385,0,1,16,1,1,2,2,200,Train,Easiest,Card,First Class
+5233,234,1,1,8,2,1,2,2,290,Airline,Easiest,Card,First Class
+8557,221,1,0,21,2,1,1,2,125,Airline,Easiest,UPI,First Class
+8828,659,1,0,16,0,1,1,0,119,Bus,Easiest,UPI,Economy
+5019,475,1,1,2,2,0,1,1,222,Airline,Fastest,UPI,Business
+4802,691,0,1,21,2,0,1,0,221,Airline,Fastest,UPI,Economy
+4123,347,1,1,17,1,1,2,0,370,Train,Easiest,Card,Economy
+3409,193,1,0,0,1,1,2,2,174,Train,Easiest,Card,First Class
+8060,50,0,0,10,2,1,0,1,143,Airline,Easiest,Cash,Business
+6054,122,1,0,7,0,0,2,2,241,Bus,Fastest,Card,First Class
+8705,287,1,0,7,2,0,1,1,154,Airline,Fastest,UPI,Business
+6488,271,1,0,4,0,0,0,1,93,Bus,Fastest,Cash,Business
+1016,532,1,0,10,2,1,1,2,205,Airline,Easiest,UPI,First Class
+4136,314,0,1,15,2,1,1,0,224,Airline,Easiest,UPI,Economy
+670,85,0,1,17,1,1,2,2,321,Train,Easiest,Card,First Class
+6045,154,0,1,12,0,1,1,1,234,Bus,Easiest,UPI,Business
+3957,334,0,0,14,2,1,2,1,167,Airline,Easiest,Card,Business
+655,310,0,1,15,2,1,1,2,219,Airline,Easiest,UPI,First Class
+1744,194,1,0,11,1,1,1,2,255,Train,Easiest,UPI,First Class
+548,83,0,1,20,0,0,1,0,377,Bus,Fastest,UPI,Economy
+1447,143,0,0,16,2,0,2,2,180,Airline,Fastest,Card,First Class
+6822,357,1,1,23,0,1,0,2,176,Bus,Easiest,Cash,First Class
+4716,233,0,1,11,0,1,1,2,192,Bus,Easiest,UPI,First Class
+3777,51,0,0,2,1,0,1,2,140,Train,Fastest,UPI,First Class
+7127,644,1,0,2,1,0,2,0,111,Train,Fastest,Card,Economy
+331,568,1,1,21,1,0,0,2,301,Train,Fastest,Cash,First Class
+4461,324,1,1,4,1,0,2,0,294,Train,Fastest,Card,Economy
+4736,223,1,0,13,0,0,1,1,197,Bus,Fastest,UPI,Business
+4168,408,1,0,0,1,0,1,2,159,Train,Fastest,UPI,First Class
+6613,247,1,1,23,2,1,0,0,244,Airline,Easiest,Cash,Economy
+3947,512,1,0,0,1,1,1,1,141,Train,Easiest,UPI,Business
+6176,165,0,0,8,0,1,1,1,199,Bus,Easiest,UPI,Business
+8790,473,0,1,3,1,0,0,1,117,Train,Fastest,Cash,Business
+4703,399,1,1,8,2,1,2,1,288,Airline,Easiest,Card,Business
+8149,184,1,0,6,0,0,0,0,171,Bus,Fastest,Cash,Economy
+687,511,1,0,22,1,1,0,1,245,Train,Easiest,Cash,Business
+9289,526,1,1,3,2,0,0,1,122,Airline,Fastest,Cash,Business
+1633,238,1,0,5,2,1,2,2,193,Airline,Easiest,Card,First Class
+167,568,0,1,2,0,1,2,0,211,Bus,Easiest,Card,Economy
+5484,56,1,0,12,1,0,1,0,265,Train,Fastest,UPI,Economy
+7961,494,1,0,10,0,1,1,2,105,Bus,Easiest,UPI,First Class
+9425,162,0,0,20,1,1,0,2,186,Train,Easiest,Cash,First Class
+6348,124,1,1,5,0,1,0,0,280,Bus,Easiest,Cash,Economy
+3511,196,1,1,9,2,0,0,1,315,Airline,Fastest,Cash,Business
+5180,647,0,1,21,0,1,2,0,197,Bus,Easiest,Card,Economy
+8121,486,1,1,8,2,1,0,1,245,Airline,Easiest,Cash,Business
+7212,675,1,0,1,2,1,1,2,27,Airline,Easiest,UPI,First Class
+3773,693,0,1,16,2,0,1,1,164,Airline,Fastest,UPI,Business
+7925,337,0,0,21,1,0,2,1,131,Train,Fastest,Card,Business
+4941,612,0,0,1,2,0,2,1,50,Airline,Fastest,Card,Business
+9413,289,1,1,18,0,0,0,2,242,Bus,Fastest,Cash,First Class
+7683,213,0,1,1,0,1,2,1,112,Bus,Easiest,Card,Business
+7471,668,1,1,5,0,0,0,2,186,Bus,Fastest,Cash,First Class
+4348,138,1,0,0,1,0,0,0,183,Train,Fastest,Cash,Economy
+6737,646,1,1,19,2,1,2,2,223,Airline,Easiest,Card,First Class
+6571,339,0,0,4,0,0,0,0,81,Bus,Fastest,Cash,Economy
+539,244,1,0,20,0,1,2,2,278,Bus,Easiest,Card,First Class
+3227,118,1,1,4,1,1,0,0,280,Train,Easiest,Cash,Economy
+7395,526,1,0,14,2,0,0,1,134,Airline,Fastest,Cash,Business
+9429,431,0,1,0,0,1,1,1,82,Bus,Easiest,UPI,Business
+9181,327,0,1,12,1,1,0,2,115,Train,Easiest,Cash,First Class
+1094,570,0,1,18,1,0,1,2,295,Train,Fastest,UPI,First Class
+8206,667,1,1,22,1,0,0,1,197,Train,Fastest,Cash,Business
+3249,510,1,1,7,2,0,2,2,285,Airline,Fastest,Card,First Class
+7775,164,1,1,13,2,1,1,0,272,Airline,Easiest,UPI,Economy
+3494,319,0,1,4,0,0,0,2,125,Bus,Fastest,Cash,First Class
+8189,340,0,0,17,0,0,1,1,163,Bus,Fastest,UPI,Business
+5949,192,0,0,2,1,1,0,2,80,Train,Easiest,Cash,First Class
+8068,294,1,1,1,2,1,0,2,155,Airline,Easiest,Cash,First Class
+8544,648,0,0,14,1,0,0,2,29,Train,Fastest,Cash,First Class
+1769,605,0,0,5,2,0,0,1,134,Airline,Fastest,Cash,Business
+2672,329,1,1,23,0,0,2,1,276,Bus,Fastest,Card,Business
+3407,479,1,0,7,1,1,1,2,250,Train,Easiest,UPI,First Class
+2905,117,1,1,22,1,1,2,2,293,Train,Easiest,Card,First Class
+8777,461,0,0,13,1,1,1,2,103,Train,Easiest,UPI,First Class
+6027,60,1,0,0,2,0,0,1,116,Airline,Fastest,Cash,Business
+2792,474,0,1,1,2,0,2,0,253,Airline,Fastest,Card,Economy
+8616,332,1,1,21,2,1,2,2,171,Airline,Easiest,Card,First Class
+4683,570,0,1,14,2,0,2,2,193,Airline,Fastest,Card,First Class
+7344,383,1,0,9,0,0,2,1,173,Bus,Fastest,Card,Business
+2164,562,1,0,2,2,1,2,1,162,Airline,Easiest,Card,Business
+2721,53,0,1,7,1,1,2,0,355,Train,Easiest,Card,Economy
+4355,672,1,0,1,2,0,1,1,80,Airline,Fastest,UPI,Business
+9478,35,1,1,7,2,0,1,1,268,Airline,Fastest,UPI,Business
+9484,173,1,0,3,1,0,1,1,134,Train,Fastest,UPI,Business
+1705,180,1,1,2,0,0,1,0,268,Bus,Fastest,UPI,Economy
+6150,568,1,1,8,2,1,2,1,265,Airline,Easiest,Card,Business
+7310,531,1,0,4,2,0,1,2,23,Airline,Fastest,UPI,First Class
+8508,571,0,0,14,1,0,2,0,125,Train,Fastest,Card,Economy
+9259,408,0,1,3,0,1,2,1,94,Bus,Easiest,Card,Business
+6186,342,1,1,9,1,0,0,0,328,Train,Fastest,Cash,Economy
+7010,79,1,1,6,0,1,0,0,249,Bus,Easiest,Cash,Economy
+832,457,1,1,18,1,1,1,1,375,Train,Easiest,UPI,Business
+2275,171,1,1,21,1,0,2,1,342,Train,Fastest,Card,Business
+6811,426,0,1,10,2,0,2,1,191,Airline,Fastest,Card,Business
+4644,691,0,0,22,0,1,2,2,103,Bus,Easiest,Card,First Class
+3252,663,0,0,15,2,0,0,2,129,Airline,Fastest,Cash,First Class
+8813,214,0,1,6,0,1,0,2,121,Bus,Easiest,Cash,First Class
+837,533,0,1,13,0,1,0,2,206,Bus,Easiest,Cash,First Class
+5299,421,1,0,3,0,0,1,0,158,Bus,Fastest,UPI,Economy
+2626,344,1,0,1,2,1,0,0,205,Airline,Easiest,Cash,Economy
+1058,335,1,0,10,0,1,1,1,206,Bus,Easiest,UPI,Business
+2081,83,0,0,19,2,0,1,2,281,Airline,Fastest,UPI,First Class
+8364,424,0,1,1,1,1,2,1,119,Train,Easiest,Card,Business
+3929,49,1,0,7,2,0,1,2,266,Airline,Fastest,UPI,First Class
+6764,486,0,0,4,1,0,0,2,90,Train,Fastest,Cash,First Class
+9195,492,0,0,14,2,1,2,0,74,Airline,Easiest,Card,Economy
+108,91,1,1,19,1,1,1,2,411,Train,Easiest,UPI,First Class
+4709,76,0,0,9,0,1,2,0,272,Bus,Easiest,Card,Economy
+2388,599,1,1,6,2,1,2,1,224,Airline,Easiest,Card,Business
+7517,309,0,1,10,0,1,2,1,130,Bus,Easiest,Card,Business
+360,166,0,1,0,0,0,1,2,247,Bus,Fastest,UPI,First Class
+6535,581,0,0,17,0,1,2,0,161,Bus,Easiest,Card,Economy
+5883,415,1,1,5,2,0,0,1,218,Airline,Fastest,Cash,Business
+253,256,0,1,21,2,1,0,0,306,Airline,Easiest,Cash,Economy
+5067,256,0,1,11,0,1,1,2,190,Bus,Easiest,UPI,First Class
+3312,683,1,0,8,2,1,0,2,187,Airline,Easiest,Cash,First Class
+3274,609,0,0,18,0,0,0,1,228,Bus,Fastest,Cash,Business
+8670,310,0,0,22,2,1,2,2,54,Airline,Easiest,Card,First Class
+7537,32,1,0,10,1,1,1,0,204,Train,Easiest,UPI,Economy
+6022,559,0,0,1,1,1,2,1,48,Train,Easiest,Card,Business
+5281,35,1,0,10,0,0,2,0,245,Bus,Fastest,Card,Economy
+1319,285,0,0,10,1,0,2,2,194,Train,Fastest,Card,First Class
+1684,58,1,1,0,2,1,1,0,306,Airline,Easiest,UPI,Economy
+5683,85,1,0,2,2,1,0,2,123,Airline,Easiest,Cash,First Class
+7414,622,0,0,1,0,1,1,2,16,Bus,Easiest,UPI,First Class
+7340,86,1,1,2,0,0,2,0,217,Bus,Fastest,Card,Economy
+4931,420,1,0,19,1,0,2,2,225,Train,Fastest,Card,First Class
+7705,468,0,1,20,2,0,1,2,200,Airline,Fastest,UPI,First Class
+5477,631,0,0,3,0,0,2,0,88,Bus,Fastest,Card,Economy
+8437,292,1,1,15,2,1,0,0,215,Airline,Easiest,Cash,Economy
+2355,75,0,0,9,2,1,2,2,233,Airline,Easiest,Card,First Class
+8966,179,0,1,9,2,1,1,1,206,Airline,Easiest,UPI,Business
+232,560,0,0,7,2,0,1,1,251,Airline,Fastest,UPI,Business
+3397,100,1,0,21,1,1,2,2,228,Train,Easiest,Card,First Class
+5525,622,1,1,13,1,0,0,1,256,Train,Fastest,Cash,Business
+8225,254,0,0,22,0,1,2,0,91,Bus,Easiest,Card,Economy
+4016,522,1,1,6,1,0,0,1,275,Train,Fastest,Cash,Business
+9188,147,0,1,14,0,1,0,0,180,Bus,Easiest,Cash,Economy
+3362,232,1,0,7,1,0,1,2,272,Train,Fastest,UPI,First Class
+2984,298,0,0,21,0,1,2,0,200,Bus,Easiest,Card,Economy
+5644,245,1,1,7,1,1,2,0,387,Train,Easiest,Card,Economy
+7206,96,0,0,4,0,0,2,1,60,Bus,Fastest,Card,Business
+6231,355,1,0,1,2,0,2,1,116,Airline,Fastest,Card,Business
+972,674,1,0,16,2,1,0,2,162,Airline,Easiest,Cash,First Class
+1433,511,0,0,16,1,1,1,2,156,Train,Easiest,UPI,First Class
+6225,568,1,1,15,1,1,2,2,209,Train,Easiest,Card,First Class
+699,242,0,0,14,0,1,0,1,177,Bus,Easiest,Cash,Business
+2675,413,1,0,4,0,1,1,2,141,Bus,Easiest,UPI,First Class
+5860,265,0,1,16,2,1,1,1,185,Airline,Easiest,UPI,Business
+8251,354,1,1,0,0,1,0,1,141,Bus,Easiest,Cash,Business
+1343,397,0,1,16,2,0,1,0,293,Airline,Fastest,UPI,Economy
+727,589,0,1,6,2,1,1,1,249,Airline,Easiest,UPI,Business
+4596,225,0,1,0,1,1,1,1,221,Train,Easiest,UPI,Business
+294,513,0,1,7,0,0,1,0,331,Bus,Fastest,UPI,Economy
+8551,631,1,1,10,0,1,0,1,162,Bus,Easiest,Cash,Business
+3533,479,1,0,11,0,0,1,2,144,Bus,Fastest,UPI,First Class
+258,541,1,1,7,1,1,2,1,365,Train,Easiest,Card,Business
+5009,363,0,0,4,0,1,2,2,33,Bus,Easiest,Card,First Class
+6504,420,0,1,2,2,1,0,1,138,Airline,Easiest,Cash,Business
+7497,684,1,0,5,0,0,0,2,103,Bus,Fastest,Cash,First Class
+8105,57,0,0,2,1,1,0,0,96,Train,Easiest,Cash,Economy
+7549,88,1,0,5,1,1,1,0,228,Train,Easiest,UPI,Economy
+1914,162,1,1,23,0,1,0,0,330,Bus,Easiest,Cash,Economy
+7878,192,1,0,16,2,1,1,0,166,Airline,Easiest,UPI,Economy
+221,176,1,0,12,2,0,2,1,294,Airline,Fastest,Card,Business
+7639,503,0,0,9,2,1,1,2,105,Airline,Easiest,UPI,First Class
+4973,430,0,1,7,0,1,1,1,261,Bus,Easiest,UPI,Business
+9416,127,1,0,7,0,1,2,2,159,Bus,Easiest,Card,First Class
+4882,98,0,1,13,2,0,1,0,265,Airline,Fastest,UPI,Economy
+5441,449,1,0,8,0,0,1,0,225,Bus,Fastest,UPI,Economy
+1299,684,1,1,10,2,1,0,1,272,Airline,Easiest,Cash,Business
+2336,364,1,1,14,0,0,2,2,268,Bus,Fastest,Card,First Class
+4069,478,0,1,8,0,0,0,2,252,Bus,Fastest,Cash,First Class
+8859,430,0,0,21,0,1,0,1,71,Bus,Easiest,Cash,Business
+5966,212,0,0,21,2,0,1,2,150,Airline,Fastest,UPI,First Class
+8666,686,0,1,22,1,1,0,2,122,Train,Easiest,Cash,First Class
+176,79,1,0,7,1,0,0,0,367,Train,Fastest,Cash,Economy
+338,375,0,0,7,0,0,2,0,280,Bus,Fastest,Card,Economy
+821,455,0,1,10,2,0,2,0,302,Airline,Fastest,Card,Economy
+7110,153,0,0,3,1,1,0,0,100,Train,Easiest,Cash,Economy
+6688,699,1,0,12,0,1,0,0,126,Bus,Easiest,Cash,Economy
+6145,74,0,0,13,1,1,0,2,123,Train,Easiest,Cash,First Class
+8884,612,0,1,3,2,1,2,2,27,Airline,Easiest,Card,First Class
+2277,370,0,1,21,1,0,1,0,319,Train,Fastest,UPI,Economy
+7454,421,0,0,7,0,0,1,0,178,Bus,Fastest,UPI,Economy
+1400,91,0,1,15,1,0,0,1,264,Train,Fastest,Cash,Business
+3448,687,0,0,23,2,1,2,1,135,Airline,Easiest,Card,Business
+748,563,1,1,0,0,1,1,0,271,Bus,Easiest,UPI,Economy
+3472,582,0,0,21,2,0,2,1,129,Airline,Fastest,Card,Business
+199,96,1,0,6,0,0,0,0,285,Bus,Fastest,Cash,Economy
+1603,207,0,0,16,0,1,2,1,179,Bus,Easiest,Card,Business
+4112,464,0,0,9,1,1,2,0,259,Train,Easiest,Card,Economy
+4554,522,0,1,12,1,0,1,1,199,Train,Fastest,UPI,Business
+7201,189,1,0,12,1,0,1,2,178,Train,Fastest,UPI,First Class
+8901,186,0,1,12,1,1,1,1,166,Train,Easiest,UPI,Business
+1278,371,0,1,6,0,0,0,0,294,Bus,Fastest,Cash,Economy
+8303,413,1,1,13,1,1,1,1,192,Train,Easiest,UPI,Business
+1267,448,0,0,12,2,0,0,1,227,Airline,Fastest,Cash,Business
+4282,386,1,1,22,0,1,1,2,233,Bus,Easiest,UPI,First Class
+6021,676,0,0,8,2,1,2,0,191,Airline,Easiest,Card,Economy
+4266,283,0,0,3,0,1,1,2,49,Bus,Easiest,UPI,First Class
+8595,223,1,0,13,1,1,2,2,113,Train,Easiest,Card,First Class
+6371,630,1,1,23,0,0,2,2,187,Bus,Fastest,Card,First Class
+2438,305,0,1,22,1,0,0,1,244,Train,Fastest,Cash,Business
+125,129,0,1,16,1,1,2,1,315,Train,Easiest,Card,Business
+2300,232,1,0,16,0,1,2,0,259,Bus,Easiest,Card,Economy
+3141,235,0,0,6,1,1,1,2,180,Train,Easiest,UPI,First Class
+2821,111,1,0,12,0,1,0,1,211,Bus,Easiest,Cash,Business
+586,629,0,1,15,2,0,0,0,262,Airline,Fastest,Cash,Economy
+785,129,0,0,12,2,1,1,1,261,Airline,Easiest,UPI,Business
+5621,648,1,1,11,2,1,1,0,262,Airline,Easiest,UPI,Economy
+6300,655,0,1,10,0,0,1,2,138,Bus,Fastest,UPI,First Class
+6683,172,0,0,16,1,0,1,1,133,Train,Fastest,UPI,Business
+7885,557,1,0,0,2,1,0,2,23,Airline,Easiest,Cash,First Class
+6001,76,1,1,7,2,1,1,2,290,Airline,Easiest,UPI,First Class
+7110,517,0,1,9,2,0,2,0,242,Airline,Fastest,Card,Economy
+8620,615,0,0,15,0,1,2,2,58,Bus,Easiest,Card,First Class
+7411,148,1,0,7,0,0,2,2,197,Bus,Fastest,Card,First Class
+1565,138,1,0,5,1,1,1,0,281,Train,Easiest,UPI,Economy
+2116,169,1,0,22,1,0,2,2,210,Train,Fastest,Card,First Class
+1159,689,1,1,22,2,1,2,2,260,Airline,Easiest,Card,First Class
+7259,268,0,1,3,1,0,0,0,126,Train,Fastest,Cash,Economy
+5674,636,0,0,18,1,0,1,1,189,Train,Fastest,UPI,Business
+1113,634,0,1,13,1,1,2,0,273,Train,Easiest,Card,Economy
+8615,646,0,0,12,0,1,1,0,88,Bus,Easiest,UPI,Economy
+3686,541,1,0,19,1,0,2,2,231,Train,Fastest,Card,First Class
+662,643,1,1,16,2,0,1,2,249,Airline,Fastest,UPI,First Class
+3634,536,1,1,1,1,0,2,0,233,Train,Fastest,Card,Economy
+3787,83,0,1,23,1,1,2,0,309,Train,Easiest,Card,Economy
+5628,462,1,1,12,1,0,2,2,229,Train,Fastest,Card,First Class
+4737,319,0,1,3,0,1,2,0,198,Bus,Easiest,Card,Economy
+7596,700,0,0,14,2,1,1,0,72,Airline,Easiest,UPI,Economy
+3536,253,0,0,11,2,0,2,0,159,Airline,Fastest,Card,Economy
+2856,87,0,1,15,0,0,0,2,273,Bus,Fastest,Cash,First Class
+5645,637,1,0,20,2,1,0,0,236,Airline,Easiest,Cash,Economy
+5059,640,0,1,22,2,0,1,2,182,Airline,Fastest,UPI,First Class
+6360,311,1,1,0,0,0,0,0,174,Bus,Fastest,Cash,Economy
+8451,260,0,1,8,2,0,2,0,253,Airline,Fastest,Card,Economy
+6390,525,1,1,18,0,0,1,0,298,Bus,Fastest,UPI,Economy
+8906,219,1,0,12,2,1,0,2,72,Airline,Easiest,Cash,First Class
+8930,697,0,0,21,0,0,2,2,43,Bus,Fastest,Card,First Class
+5249,155,0,0,18,0,0,0,2,213,Bus,Fastest,Cash,First Class
+4306,65,0,0,16,1,1,2,0,172,Train,Easiest,Card,Economy
+101,284,1,0,16,1,1,0,2,261,Train,Easiest,Cash,First Class
+8135,350,1,0,22,0,0,0,0,158,Bus,Fastest,Cash,Economy
+3626,167,0,1,8,0,1,0,2,281,Bus,Easiest,Cash,First Class
+4277,296,1,0,12,1,0,1,2,173,Train,Fastest,UPI,First Class
+8880,238,0,1,20,2,0,2,1,243,Airline,Fastest,Card,Business
+9334,693,0,1,4,1,1,1,0,121,Train,Easiest,UPI,Economy
+4525,157,0,1,2,1,0,1,1,201,Train,Fastest,UPI,Business
+4576,179,0,1,0,0,1,0,1,194,Bus,Easiest,Cash,Business
+2123,209,1,1,3,2,1,2,2,220,Airline,Easiest,Card,First Class
+4720,594,1,0,1,0,1,1,0,114,Bus,Easiest,UPI,Economy
+8811,594,1,1,18,0,1,0,2,230,Bus,Easiest,Cash,First Class
+8514,189,0,0,12,2,1,0,2,64,Airline,Easiest,Cash,First Class
+4181,653,1,1,5,1,1,1,2,217,Train,Easiest,UPI,First Class
+4799,312,1,0,9,2,0,1,1,250,Airline,Fastest,UPI,Business
+1402,108,0,0,5,2,0,0,2,155,Airline,Fastest,Cash,First Class
+4783,597,1,0,13,2,0,1,1,102,Airline,Fastest,UPI,Business
+8822,157,1,0,19,0,0,2,1,199,Bus,Fastest,Card,Business
+8854,383,0,0,19,1,0,2,2,156,Train,Fastest,Card,First Class
+6113,166,1,0,13,1,1,0,1,178,Train,Easiest,Cash,Business
+1955,376,0,0,9,1,1,1,1,255,Train,Easiest,UPI,Business
+9419,433,0,1,20,2,0,1,2,221,Airline,Fastest,UPI,First Class
+8099,88,1,0,19,1,1,1,1,251,Train,Easiest,UPI,Business
+3150,441,1,0,3,1,1,0,0,187,Train,Easiest,Cash,Economy
+8768,556,0,1,3,1,0,0,2,82,Train,Fastest,Cash,First Class
+6232,336,1,1,5,2,1,0,1,241,Airline,Easiest,Cash,Business
+7298,195,0,1,23,1,0,1,2,198,Train,Fastest,UPI,First Class
+759,166,1,1,23,1,0,0,2,330,Train,Fastest,Cash,First Class
+3360,520,1,0,13,1,1,2,2,201,Train,Easiest,Card,First Class
+6651,543,1,0,3,0,0,0,0,127,Bus,Fastest,Cash,Economy
+5738,542,0,0,1,2,1,1,2,41,Airline,Easiest,UPI,First Class
+4842,318,1,0,13,0,0,2,2,145,Bus,Fastest,Card,First Class
+3161,285,1,0,8,2,0,2,1,276,Airline,Fastest,Card,Business
+1788,544,0,0,18,2,0,0,0,279,Airline,Fastest,Cash,Economy
+2267,440,0,1,6,0,1,0,2,217,Bus,Easiest,Cash,First Class
+6331,447,1,0,7,1,1,1,0,281,Train,Easiest,UPI,Economy
+8453,467,0,1,3,1,1,1,1,111,Train,Easiest,UPI,Business
+879,216,0,0,1,2,1,0,1,134,Airline,Easiest,Cash,Business
+7834,316,0,1,5,1,1,1,1,184,Train,Easiest,UPI,Business
+323,595,0,1,11,2,1,2,2,237,Airline,Easiest,Card,First Class
+8764,649,1,0,20,1,0,2,1,189,Train,Fastest,Card,Business
+2071,72,0,0,22,1,0,0,2,203,Train,Fastest,Cash,First Class
+5718,338,1,0,17,2,0,0,0,264,Airline,Fastest,Cash,Economy
+4237,603,1,1,14,2,0,1,0,289,Airline,Fastest,UPI,Economy
+8010,459,0,0,19,1,0,1,0,205,Train,Fastest,UPI,Economy
+3216,437,1,0,5,1,1,2,1,204,Train,Easiest,Card,Business
+6667,651,1,0,5,0,0,2,0,150,Bus,Fastest,Card,Economy
+8501,496,1,1,7,1,1,2,0,277,Train,Easiest,Card,Economy
+2903,259,0,0,9,0,0,1,0,254,Bus,Fastest,UPI,Economy
+4179,245,0,0,20,1,1,1,0,297,Train,Easiest,UPI,Economy
+9099,300,0,1,19,1,1,0,2,222,Train,Easiest,Cash,First Class
+3692,316,0,1,0,2,0,2,2,134,Airline,Fastest,Card,First Class
+6358,699,1,0,14,0,1,1,0,120,Bus,Easiest,UPI,Economy
+6579,189,1,0,23,2,1,1,0,179,Airline,Easiest,UPI,Economy
+7948,125,1,0,14,0,0,0,2,103,Bus,Fastest,Cash,First Class
+4721,51,1,0,5,1,0,0,0,249,Train,Fastest,Cash,Economy
+1280,466,0,1,20,1,0,2,2,335,Train,Fastest,Card,First Class
+293,647,0,1,12,0,0,0,2,245,Bus,Fastest,Cash,First Class
+816,165,0,0,8,0,0,0,0,254,Bus,Fastest,Cash,Economy
+1492,237,0,1,18,1,0,1,1,346,Train,Fastest,UPI,Business
+7946,188,0,0,17,2,1,2,2,178,Airline,Easiest,Card,First Class
+1784,587,1,0,16,1,0,0,0,263,Train,Fastest,Cash,Economy
+493,262,1,1,4,1,1,0,2,229,Train,Easiest,Cash,First Class
+1941,533,0,0,7,0,1,1,0,265,Bus,Easiest,UPI,Economy
+5567,151,1,0,1,2,0,0,1,110,Airline,Fastest,Cash,Business
+7067,183,1,1,11,0,1,1,2,207,Bus,Easiest,UPI,First Class
+6147,301,0,0,4,2,0,1,0,86,Airline,Fastest,UPI,Economy
+7938,98,0,1,23,1,0,0,1,220,Train,Fastest,Cash,Business
+2189,216,1,1,10,1,1,1,2,321,Train,Easiest,UPI,First Class
+5563,171,0,1,13,2,1,2,2,190,Airline,Easiest,Card,First Class
+8170,575,0,1,2,2,1,2,2,77,Airline,Easiest,Card,First Class
+3693,119,0,1,0,0,0,1,2,150,Bus,Fastest,UPI,First Class
+7864,166,0,0,11,1,0,1,1,158,Train,Fastest,UPI,Business
+6998,278,0,0,1,2,0,0,2,73,Airline,Fastest,Cash,First Class
+2444,416,0,1,11,0,0,2,2,250,Bus,Fastest,Card,First Class
+2691,60,0,1,4,0,0,0,0,250,Bus,Fastest,Cash,Economy
+9425,456,0,0,15,2,0,2,2,47,Airline,Fastest,Card,First Class
+6842,375,1,0,9,0,0,0,2,166,Bus,Fastest,Cash,First Class
+626,648,0,0,0,1,1,2,1,101,Train,Easiest,Card,Business
+9472,543,1,0,13,0,1,0,2,55,Bus,Easiest,Cash,First Class
+6285,158,0,1,19,0,0,1,0,322,Bus,Fastest,UPI,Economy
+1364,509,1,1,20,2,1,1,0,330,Airline,Easiest,UPI,Economy
+995,410,1,0,8,0,0,0,1,248,Bus,Fastest,Cash,Business
+559,275,1,0,17,0,0,0,2,266,Bus,Fastest,Cash,First Class
+279,346,0,0,20,0,0,1,0,320,Bus,Fastest,UPI,Economy
+9336,525,0,0,10,0,1,0,1,43,Bus,Easiest,Cash,Business
+4726,437,0,1,12,2,1,0,2,169,Airline,Easiest,Cash,First Class
+8350,133,0,0,18,1,1,2,0,198,Train,Easiest,Card,Economy
+4853,195,0,1,2,2,0,2,0,226,Airline,Fastest,Card,Economy
+2407,194,1,1,4,1,1,1,2,225,Train,Easiest,UPI,First Class
+7159,70,1,0,6,2,0,0,2,137,Airline,Fastest,Cash,First Class
+344,176,1,0,15,0,1,1,0,265,Bus,Easiest,UPI,Economy
+4943,195,0,1,18,1,1,0,0,332,Train,Easiest,Cash,Economy
+4326,514,1,1,20,0,0,2,1,334,Bus,Fastest,Card,Business
+748,402,1,1,13,2,0,1,1,284,Airline,Fastest,UPI,Business
+5238,412,0,1,16,1,1,2,0,234,Train,Easiest,Card,Economy
+1034,280,0,0,3,1,1,0,2,132,Train,Easiest,Cash,First Class
+6460,503,0,1,14,1,1,0,0,209,Train,Easiest,Cash,Economy
+3053,140,1,1,6,1,1,0,1,286,Train,Easiest,Cash,Business
+3583,517,0,1,14,0,0,1,0,261,Bus,Fastest,UPI,Economy
+3597,357,0,1,1,1,1,1,0,252,Train,Easiest,UPI,Economy
+7029,306,1,0,2,0,0,1,1,118,Bus,Fastest,UPI,Business
+1438,335,1,1,16,0,1,0,0,343,Bus,Easiest,Cash,Economy
+5703,334,0,0,11,1,1,1,2,149,Train,Easiest,UPI,First Class
+2732,477,1,1,0,2,0,0,2,185,Airline,Fastest,Cash,First Class
+5404,354,0,0,14,0,1,1,0,131,Bus,Easiest,UPI,Economy
+6758,299,0,1,4,2,1,2,2,126,Airline,Easiest,Card,First Class
+3174,460,0,1,6,1,0,0,2,226,Train,Fastest,Cash,First Class
+335,409,1,0,9,1,0,2,1,299,Train,Fastest,Card,Business
+6823,390,1,1,16,1,0,0,1,215,Train,Fastest,Cash,Business
+7118,412,0,0,17,1,1,1,2,158,Train,Easiest,UPI,First Class
+4740,665,0,0,3,0,0,2,1,43,Bus,Fastest,Card,Business
+1798,538,0,1,16,2,0,2,1,245,Airline,Fastest,Card,Business
+7548,594,1,0,6,1,0,1,1,132,Train,Fastest,UPI,Business
+6865,690,1,0,11,0,1,1,2,96,Bus,Easiest,UPI,First Class
+6894,277,0,1,1,0,0,0,1,164,Bus,Fastest,Cash,Business
+8602,644,1,1,5,2,1,0,2,155,Airline,Easiest,Cash,First Class
+6544,82,1,0,20,1,0,1,1,266,Train,Fastest,UPI,Business
+8575,192,1,0,3,2,0,2,0,99,Airline,Fastest,Card,Economy
+4363,596,0,1,6,0,0,0,1,164,Bus,Fastest,Cash,Business
+289,673,0,0,19,2,0,2,1,271,Airline,Fastest,Card,Business
+7533,679,1,0,7,2,0,1,0,205,Airline,Fastest,UPI,Economy
+8872,281,1,1,21,0,1,0,0,193,Bus,Easiest,Cash,Economy
+1794,143,1,0,3,0,1,1,0,194,Bus,Easiest,UPI,Economy
+1620,109,1,1,6,1,0,1,0,347,Train,Fastest,UPI,Economy
+1350,245,1,1,10,2,1,0,0,334,Airline,Easiest,Cash,Economy
+4994,40,0,0,3,1,1,1,2,113,Train,Easiest,UPI,First Class
+8648,290,0,0,19,0,0,2,2,137,Bus,Fastest,Card,First Class
+2596,251,1,0,6,0,1,0,0,255,Bus,Easiest,Cash,Economy
+2173,304,1,1,6,0,1,2,2,280,Bus,Easiest,Card,First Class
+4922,508,1,1,16,1,0,1,0,294,Train,Fastest,UPI,Economy
+4705,432,0,1,5,0,1,1,1,233,Bus,Easiest,UPI,Business
+7042,640,1,1,19,0,1,1,0,263,Bus,Easiest,UPI,Economy
+1152,490,0,0,16,1,1,1,2,170,Train,Easiest,UPI,First Class
+8791,390,1,0,3,0,1,1,0,88,Bus,Easiest,UPI,Economy
+6189,410,0,1,3,0,1,2,0,158,Bus,Easiest,Card,Economy
+5488,248,1,1,7,2,0,1,1,294,Airline,Fastest,UPI,Business
+1786,604,1,0,18,2,1,2,1,247,Airline,Easiest,Card,Business
+5306,357,0,0,1,1,1,0,1,80,Train,Easiest,Cash,Business
+2903,645,1,1,7,2,0,1,0,342,Airline,Fastest,UPI,Economy
+176,502,1,0,12,0,0,1,2,237,Bus,Fastest,UPI,First Class
+6900,338,1,1,11,1,0,2,1,243,Train,Fastest,Card,Business
+8190,657,0,1,9,2,1,1,2,182,Airline,Easiest,UPI,First Class
+6226,662,0,0,7,0,0,0,0,164,Bus,Fastest,Cash,Economy
+5389,476,0,0,2,0,1,2,0,121,Bus,Easiest,Card,Economy
+4354,74,0,0,9,0,1,1,2,190,Bus,Easiest,UPI,First Class
+6318,306,0,0,18,1,0,0,1,220,Train,Fastest,Cash,Business
+6871,682,1,0,16,2,0,2,1,101,Airline,Fastest,Card,Business
+8129,317,1,1,7,0,1,1,2,260,Bus,Easiest,UPI,First Class
+4071,692,0,0,2,1,0,0,0,120,Train,Fastest,Cash,Economy
+3641,509,1,0,15,0,1,0,2,152,Bus,Easiest,Cash,First Class
+5234,349,1,0,16,0,0,0,1,145,Bus,Fastest,Cash,Business
+6417,493,0,1,6,0,1,1,0,179,Bus,Easiest,UPI,Economy
+1772,180,1,0,23,0,0,0,1,190,Bus,Fastest,Cash,Business
+3164,303,0,1,21,2,1,1,1,254,Airline,Easiest,UPI,Business
+5906,471,0,0,12,2,1,2,1,125,Airline,Easiest,Card,Business
+970,481,1,1,3,0,1,2,1,238,Bus,Easiest,Card,Business
+2994,638,1,1,16,1,0,2,0,305,Train,Fastest,Card,Economy
+4178,143,0,0,1,0,1,0,0,115,Bus,Easiest,Cash,Economy
+6728,431,1,0,7,2,1,1,0,224,Airline,Easiest,UPI,Economy
+2902,238,1,1,22,2,1,2,0,326,Airline,Easiest,Card,Economy
+7911,342,0,0,10,2,0,0,0,132,Airline,Fastest,Cash,Economy
+5542,496,0,0,21,1,1,1,0,164,Train,Easiest,UPI,Economy
+1361,204,0,1,15,2,0,1,0,317,Airline,Fastest,UPI,Economy
+7842,142,0,0,18,2,1,0,2,124,Airline,Easiest,Cash,First Class
+1638,132,1,1,14,1,1,2,1,325,Train,Easiest,Card,Business
+8070,289,1,1,0,1,1,2,1,196,Train,Easiest,Card,Business
+8035,145,1,0,4,1,0,2,0,128,Train,Fastest,Card,Economy
+5952,539,0,0,18,2,1,1,0,197,Airline,Easiest,UPI,Economy
+6289,684,0,1,20,2,1,2,0,234,Airline,Easiest,Card,Economy
+4446,387,1,1,18,1,1,1,0,380,Train,Easiest,UPI,Economy
+5724,657,0,1,14,2,1,1,0,201,Airline,Easiest,UPI,Economy
+236,540,0,1,21,0,1,2,2,224,Bus,Easiest,Card,First Class
+4822,96,1,0,14,0,0,1,2,175,Bus,Fastest,UPI,First Class
+2122,84,1,1,0,1,1,2,0,309,Train,Easiest,Card,Economy
+4741,544,0,0,22,1,0,2,0,171,Train,Fastest,Card,Economy
+7178,629,0,1,7,0,1,1,0,238,Bus,Easiest,UPI,Economy
+7023,438,0,1,9,2,1,0,2,175,Airline,Easiest,Cash,First Class
+7240,360,0,0,8,0,1,2,0,175,Bus,Easiest,Card,Economy
+9384,673,1,0,12,1,0,0,2,90,Train,Fastest,Cash,First Class
+7340,350,1,1,11,1,1,1,1,192,Train,Easiest,UPI,Business
+532,461,0,0,19,1,0,2,2,266,Train,Fastest,Card,First Class
+6213,160,1,0,12,0,1,2,0,165,Bus,Easiest,Card,Economy
+8587,501,0,0,1,1,0,1,2,36,Train,Fastest,UPI,First Class
+1695,327,1,1,1,0,0,2,0,247,Bus,Fastest,Card,Economy
+8215,169,0,0,9,2,1,2,0,183,Airline,Easiest,Card,Economy
+8045,668,0,0,2,0,0,2,0,27,Bus,Fastest,Card,Economy
+1797,515,0,1,12,0,0,1,1,238,Bus,Fastest,UPI,Business
+8025,218,0,1,19,2,1,2,2,228,Airline,Easiest,Card,First Class
+454,219,0,0,5,2,0,1,1,227,Airline,Fastest,UPI,Business
+4851,326,0,1,11,2,1,1,1,208,Airline,Easiest,UPI,Business
+6930,465,0,0,9,1,0,2,1,166,Train,Fastest,Card,Business
+280,624,1,0,20,2,1,0,1,293,Airline,Easiest,Cash,Business
+7609,313,0,0,11,2,0,1,2,89,Airline,Fastest,UPI,First Class
+8702,429,0,0,20,0,1,2,2,100,Bus,Easiest,Card,First Class
+2394,315,1,1,2,2,1,1,1,229,Airline,Easiest,UPI,Business
+3055,619,1,0,22,1,1,2,2,178,Train,Easiest,Card,First Class
+583,192,0,0,21,0,1,2,1,199,Bus,Easiest,Card,Business
+5402,267,0,0,5,2,1,1,0,177,Airline,Easiest,UPI,Economy
+713,104,1,1,19,2,0,0,1,396,Airline,Fastest,Cash,Business
+1863,490,1,0,20,2,0,0,1,243,Airline,Fastest,Cash,Business
+3794,236,0,1,16,0,0,2,0,261,Bus,Fastest,Card,Economy
+1676,238,0,0,0,1,1,2,2,149,Train,Easiest,Card,First Class
+8753,538,0,0,18,1,1,1,2,119,Train,Easiest,UPI,First Class
+9253,171,0,1,13,2,1,0,2,164,Airline,Easiest,Cash,First Class
+4986,133,0,1,7,0,1,0,0,309,Bus,Easiest,Cash,Economy
+4849,287,1,1,2,0,1,0,2,142,Bus,Easiest,Cash,First Class
+8292,349,1,0,17,2,0,2,1,183,Airline,Fastest,Card,Business
+4409,698,0,0,10,1,1,0,1,125,Train,Easiest,Cash,Business
+3446,590,1,0,7,1,0,2,2,230,Train,Fastest,Card,First Class
+679,384,0,1,19,2,0,2,1,346,Airline,Fastest,Card,Business
+783,136,0,1,16,0,1,1,1,277,Bus,Easiest,UPI,Business
+5071,263,0,0,0,0,1,2,2,67,Bus,Easiest,Card,First Class
+954,426,1,0,13,2,1,2,0,226,Airline,Easiest,Card,Economy
+1993,478,0,1,11,0,1,1,0,260,Bus,Easiest,UPI,Economy
+264,262,1,0,0,2,0,0,0,232,Airline,Fastest,Cash,Economy
+1028,159,1,0,9,0,1,1,2,276,Bus,Easiest,UPI,First Class
+4890,162,1,1,21,0,0,0,1,247,Bus,Fastest,Cash,Business
+9007,240,1,1,7,1,1,1,2,248,Train,Easiest,UPI,First Class
+8731,303,1,0,1,1,1,2,2,99,Train,Easiest,Card,First Class
+8066,316,0,0,4,2,0,1,2,28,Airline,Fastest,UPI,First Class
+2425,66,0,1,20,1,0,0,1,344,Train,Fastest,Cash,Business
+653,306,1,1,9,0,0,1,2,350,Bus,Fastest,UPI,First Class
+6368,423,1,0,7,0,1,0,2,178,Bus,Easiest,Cash,First Class
+7162,575,0,1,1,2,1,0,2,80,Airline,Easiest,Cash,First Class
+4401,635,0,0,10,2,1,1,2,86,Airline,Easiest,UPI,First Class
+1035,141,1,1,17,1,1,2,2,362,Train,Easiest,Card,First Class
+2763,420,1,0,4,0,1,2,1,135,Bus,Easiest,Card,Business
+1501,285,1,1,18,1,0,2,1,369,Train,Fastest,Card,Business
+302,157,1,1,8,0,1,1,0,427,Bus,Easiest,UPI,Economy
+7307,39,1,0,11,1,0,1,0,215,Train,Fastest,UPI,Economy
+9134,351,0,1,5,1,1,1,1,162,Train,Easiest,UPI,Business
+2184,262,0,0,19,2,0,0,0,266,Airline,Fastest,Cash,Economy
+8402,480,1,0,17,2,0,0,2,153,Airline,Fastest,Cash,First Class
+4344,293,0,1,17,2,0,2,0,311,Airline,Fastest,Card,Economy
+7371,145,0,0,6,1,1,2,1,140,Train,Easiest,Card,Business
+1269,687,1,1,4,0,1,2,1,202,Bus,Easiest,Card,Business
+6239,511,1,0,5,1,0,1,0,210,Train,Fastest,UPI,Economy
+518,138,0,1,16,2,1,0,1,281,Airline,Easiest,Cash,Business
+2558,420,0,0,7,2,1,2,2,195,Airline,Easiest,Card,First Class
+2086,570,0,1,21,2,1,1,1,236,Airline,Easiest,UPI,Business
+4098,366,0,1,7,1,1,2,0,333,Train,Easiest,Card,Economy
+4049,485,1,1,2,1,0,1,2,191,Train,Fastest,UPI,First Class
+6962,265,0,0,13,2,0,2,1,121,Airline,Fastest,Card,Business
+4800,379,1,0,2,1,1,2,0,143,Train,Easiest,Card,Economy
+3345,214,1,0,5,0,1,1,2,180,Bus,Easiest,UPI,First Class
+7798,133,0,0,13,0,0,0,0,114,Bus,Fastest,Cash,Economy
+6458,462,1,0,12,2,0,2,1,147,Airline,Fastest,Card,Business
+2050,374,1,0,23,0,0,2,1,253,Bus,Fastest,Card,Business
+7468,476,1,1,22,0,0,2,2,171,Bus,Fastest,Card,First Class
+8445,115,0,0,18,2,1,2,2,139,Airline,Easiest,Card,First Class
+2995,550,1,0,7,1,1,1,0,289,Train,Easiest,UPI,Economy
+9342,560,1,1,10,1,1,0,0,241,Train,Easiest,Cash,Economy
+3551,470,1,1,3,1,1,0,0,250,Train,Easiest,Cash,Economy
+4816,310,1,1,7,0,1,1,2,288,Bus,Easiest,UPI,First Class
+4665,174,0,0,17,2,0,0,2,162,Airline,Fastest,Cash,First Class
+751,582,0,0,15,0,1,0,1,183,Bus,Easiest,Cash,Business
+7388,563,0,1,9,0,0,1,1,204,Bus,Fastest,UPI,Business
+8181,299,0,0,8,2,0,1,0,185,Airline,Fastest,UPI,Economy
+1318,364,0,1,8,1,0,2,2,302,Train,Fastest,Card,First Class
+5257,69,1,0,22,2,1,0,2,152,Airline,Easiest,Cash,First Class
+683,679,0,0,4,2,1,0,2,60,Airline,Easiest,Cash,First Class
+3305,301,1,0,15,0,1,1,0,239,Bus,Easiest,UPI,Economy
+8559,249,0,1,2,1,0,2,0,196,Train,Fastest,Card,Economy
+735,458,1,1,20,2,0,2,1,339,Airline,Fastest,Card,Business
+3050,337,0,1,21,1,1,2,1,250,Train,Easiest,Card,Business
+5951,586,1,1,3,0,0,1,1,181,Bus,Fastest,UPI,Business
+7060,148,0,1,10,2,0,1,2,183,Airline,Fastest,UPI,First Class
+6622,161,1,1,19,1,0,0,1,318,Train,Fastest,Cash,Business
+6801,92,1,1,21,1,1,1,1,273,Train,Easiest,UPI,Business
+7066,438,1,0,8,1,0,1,2,208,Train,Fastest,UPI,First Class
+6814,256,0,0,20,0,1,0,2,140,Bus,Easiest,Cash,First Class
+8943,50,0,1,2,2,1,1,2,117,Airline,Easiest,UPI,First Class
+3548,400,0,0,17,1,0,1,0,269,Train,Fastest,UPI,Economy
+6225,369,1,0,17,2,0,0,0,263,Airline,Fastest,Cash,Economy
+8727,134,1,1,1,0,1,1,0,161,Bus,Easiest,UPI,Economy
+3868,676,0,0,8,2,0,1,2,142,Airline,Fastest,UPI,First Class
+4523,116,0,0,16,2,1,0,0,200,Airline,Easiest,Cash,Economy
+8975,649,0,0,23,2,1,0,2,47,Airline,Easiest,Cash,First Class
+7065,554,0,1,8,1,0,0,1,203,Train,Fastest,Cash,Business
+7823,415,1,1,2,0,1,2,1,105,Bus,Easiest,Card,Business
+8836,548,0,1,0,1,1,1,2,89,Train,Easiest,UPI,First Class
+1874,493,0,0,12,0,1,1,1,140,Bus,Easiest,UPI,Business
+5546,177,0,0,17,0,0,1,2,186,Bus,Fastest,UPI,First Class
+4195,115,0,1,19,1,0,0,1,317,Train,Fastest,Cash,Business
+5635,184,0,1,22,2,1,0,1,219,Airline,Easiest,Cash,Business
+3527,605,1,1,10,2,0,1,1,246,Airline,Fastest,UPI,Business
+1434,137,1,0,12,0,0,0,2,201,Bus,Fastest,Cash,First Class
+2090,200,0,1,3,0,1,1,0,218,Bus,Easiest,UPI,Economy
+2391,590,1,1,0,1,0,1,1,219,Train,Fastest,UPI,Business
+4541,565,1,1,18,2,0,0,1,284,Airline,Fastest,Cash,Business
+6182,561,1,1,14,0,1,2,2,185,Bus,Easiest,Card,First Class
+2317,198,1,0,10,1,0,0,1,286,Train,Fastest,Cash,Business
+5209,222,0,0,17,1,1,0,0,263,Train,Easiest,Cash,Economy
+7779,638,0,0,11,2,0,1,2,74,Airline,Fastest,UPI,First Class
+4756,466,1,1,19,1,1,2,2,301,Train,Easiest,Card,First Class
+3419,109,0,0,23,0,1,0,1,158,Bus,Easiest,Cash,Business
+8657,631,1,1,18,2,1,2,2,211,Airline,Easiest,Card,First Class
+7856,244,0,0,7,0,0,2,0,199,Bus,Fastest,Card,Economy
+104,361,0,0,4,2,1,1,2,154,Airline,Easiest,UPI,First Class
+7828,364,1,0,7,2,1,1,1,187,Airline,Easiest,UPI,Business
+8652,354,0,0,5,2,1,2,0,91,Airline,Easiest,Card,Economy
+7263,603,1,1,22,1,0,2,1,205,Train,Fastest,Card,Business
+6091,507,1,1,6,2,0,1,1,215,Airline,Fastest,UPI,Business
+3032,40,0,1,11,2,0,0,2,239,Airline,Fastest,Cash,First Class
+6143,289,0,1,1,2,1,2,1,150,Airline,Easiest,Card,Business
+6625,74,1,1,20,0,0,2,1,339,Bus,Fastest,Card,Business
+8133,207,1,0,1,1,0,2,2,98,Train,Fastest,Card,First Class
+2609,211,0,0,13,0,0,1,2,165,Bus,Fastest,UPI,First Class
+9014,314,0,0,10,2,1,2,0,91,Airline,Easiest,Card,Economy
+6100,558,0,1,13,2,0,0,0,206,Airline,Fastest,Cash,Economy
+4468,115,0,1,1,1,0,2,2,169,Train,Fastest,Card,First Class
+6805,207,0,1,8,2,1,0,1,206,Airline,Easiest,Cash,Business
+1510,609,1,0,3,0,0,2,0,185,Bus,Fastest,Card,Economy
+3141,355,0,0,0,0,1,1,0,165,Bus,Easiest,UPI,Economy
+5142,687,0,0,9,0,1,2,1,122,Bus,Easiest,Card,Business
+3016,315,0,1,13,0,0,1,0,274,Bus,Fastest,UPI,Economy
+7302,300,0,1,11,2,1,1,2,176,Airline,Easiest,UPI,First Class
+8669,490,0,0,18,1,0,2,2,147,Train,Fastest,Card,First Class
+5783,691,1,0,10,2,1,0,2,136,Airline,Easiest,Cash,First Class
+3552,294,0,1,8,0,0,2,2,255,Bus,Fastest,Card,First Class
+7755,630,1,1,18,1,0,1,2,239,Train,Fastest,UPI,First Class
+1813,674,1,0,5,1,1,1,1,204,Train,Easiest,UPI,Business
+5965,343,0,1,17,0,0,1,2,238,Bus,Fastest,UPI,First Class
+7578,637,1,1,15,0,1,2,1,160,Bus,Easiest,Card,Business
+6672,337,0,0,16,0,1,1,1,99,Bus,Easiest,UPI,Business
+6665,637,0,0,16,0,1,2,2,74,Bus,Easiest,Card,First Class
+9405,172,0,1,1,0,1,0,1,93,Bus,Easiest,Cash,Business
+7615,435,0,1,0,2,0,0,0,133,Airline,Fastest,Cash,Economy
+3969,238,1,0,23,0,0,2,2,191,Bus,Fastest,Card,First Class
+6231,35,1,0,11,0,1,2,2,153,Bus,Easiest,Card,First Class
+7838,415,1,0,3,1,0,1,0,138,Train,Fastest,UPI,Economy
+6651,364,1,1,19,1,0,1,1,288,Train,Fastest,UPI,Business
+540,257,0,0,11,1,1,2,0,204,Train,Easiest,Card,Economy
+6623,109,0,0,15,0,0,0,1,114,Bus,Fastest,Cash,Business
+3047,465,0,1,9,1,1,0,1,291,Train,Easiest,Cash,Business
+7009,213,0,1,21,2,0,1,0,208,Airline,Fastest,UPI,Economy
+6726,42,0,1,4,2,1,2,1,181,Airline,Easiest,Card,Business
+289,527,1,1,1,1,1,1,2,230,Train,Easiest,UPI,First Class
+7477,544,1,1,22,1,1,0,0,209,Train,Easiest,Cash,Economy
+7047,574,1,0,4,0,1,2,2,52,Bus,Easiest,Card,First Class
+7554,475,0,1,9,0,0,1,1,240,Bus,Fastest,UPI,Business
+6114,81,1,1,13,1,1,0,2,243,Train,Easiest,Cash,First Class
+6933,47,1,1,9,2,0,2,0,346,Airline,Fastest,Card,Economy
+5953,67,1,0,5,0,0,0,2,178,Bus,Fastest,Cash,First Class
+4600,383,1,0,23,2,1,0,0,212,Airline,Easiest,Cash,Economy
+5450,411,0,0,19,2,0,1,2,187,Airline,Fastest,UPI,First Class
+5047,462,1,0,5,2,1,2,2,144,Airline,Easiest,Card,First Class
+1398,473,0,0,18,1,1,2,2,205,Train,Easiest,Card,First Class
+900,413,1,0,13,1,0,1,2,227,Train,Fastest,UPI,First Class
+849,649,1,0,21,1,1,0,1,223,Train,Easiest,Cash,Business
+2226,311,1,1,19,2,1,0,0,401,Airline,Easiest,Cash,Economy
+3783,48,1,0,2,2,1,2,2,135,Airline,Easiest,Card,First Class
+6993,680,1,1,15,2,0,1,1,184,Airline,Fastest,UPI,Business
+5337,384,1,0,14,2,1,0,2,134,Airline,Easiest,Cash,First Class
+4289,442,0,0,20,1,1,0,0,210,Train,Easiest,Cash,Economy
+8776,408,1,1,10,1,1,0,0,213,Train,Easiest,Cash,Economy
+5861,608,1,1,0,1,1,0,1,160,Train,Easiest,Cash,Business
+8907,164,1,0,3,1,0,0,0,118,Train,Fastest,Cash,Economy
+2706,440,1,1,6,1,1,1,1,282,Train,Easiest,UPI,Business
+1830,678,1,1,7,1,1,1,1,342,Train,Easiest,UPI,Business
+3010,439,1,0,17,1,1,2,0,282,Train,Easiest,Card,Economy
+1710,422,1,1,13,0,0,2,0,328,Bus,Fastest,Card,Economy
+1419,643,1,0,10,2,0,0,2,200,Airline,Fastest,Cash,First Class
+7831,123,1,0,23,2,1,2,2,160,Airline,Easiest,Card,First Class
+2744,498,1,0,5,1,0,1,0,218,Train,Fastest,UPI,Economy
+4900,96,0,0,18,1,1,0,2,172,Train,Easiest,Cash,First Class
+2997,502,0,1,5,0,1,2,0,206,Bus,Easiest,Card,Economy
+212,63,1,1,12,0,1,1,2,291,Bus,Easiest,UPI,First Class
+8851,54,1,1,23,0,1,1,2,192,Bus,Easiest,UPI,First Class
+753,402,1,1,13,0,0,0,1,296,Bus,Fastest,Cash,Business
+1931,203,1,1,21,1,0,0,1,293,Train,Fastest,Cash,Business
+3542,300,0,1,20,2,0,1,2,273,Airline,Fastest,UPI,First Class
+4359,380,1,1,10,1,1,2,1,266,Train,Easiest,Card,Business
+685,173,0,1,0,0,1,2,1,222,Bus,Easiest,Card,Business
+2693,611,1,1,22,1,1,0,2,230,Train,Easiest,Cash,First Class
+2206,180,1,1,8,2,0,0,0,371,Airline,Fastest,Cash,Economy
+297,295,1,1,15,2,0,1,2,303,Airline,Fastest,UPI,First Class
+2653,631,1,1,12,1,0,2,1,291,Train,Fastest,Card,Business
+333,96,1,0,9,0,0,0,1,347,Bus,Fastest,Cash,Business
+2059,695,0,1,15,1,0,2,2,243,Train,Fastest,Card,First Class
+6056,63,1,0,10,2,0,1,2,160,Airline,Fastest,UPI,First Class
+8861,580,0,0,14,2,0,0,1,63,Airline,Fastest,Cash,Business
+4115,263,1,0,1,2,1,2,1,132,Airline,Easiest,Card,Business
+1596,224,0,0,16,1,0,0,0,236,Train,Fastest,Cash,Economy
+7919,505,0,0,10,2,0,0,1,110,Airline,Fastest,Cash,Business
+2007,482,0,1,6,0,0,2,1,235,Bus,Fastest,Card,Business
+7141,144,1,0,18,2,1,0,1,223,Airline,Easiest,Cash,Business
+6771,645,1,1,20,0,1,2,1,209,Bus,Easiest,Card,Business
+5009,300,0,1,8,2,1,2,1,258,Airline,Easiest,Card,Business
+1926,216,1,0,10,2,1,1,0,271,Airline,Easiest,UPI,Economy
+5091,126,1,1,20,2,0,0,0,381,Airline,Fastest,Cash,Economy
+3897,248,1,1,10,2,1,0,2,237,Airline,Easiest,Cash,First Class
+9455,188,1,0,6,1,0,0,2,149,Train,Fastest,Cash,First Class
+2674,363,1,1,23,1,0,1,1,333,Train,Fastest,UPI,Business
+6175,178,1,1,23,1,1,1,1,248,Train,Easiest,UPI,Business
+7068,606,1,1,0,1,0,1,1,162,Train,Fastest,UPI,Business
+7585,310,0,0,6,2,1,1,1,97,Airline,Easiest,UPI,Business
+487,359,1,1,10,2,0,0,2,254,Airline,Fastest,Cash,First Class
+1850,106,0,0,10,2,1,2,2,181,Airline,Easiest,Card,First Class
+7798,77,1,1,7,1,1,0,0,335,Train,Easiest,Cash,Economy
+8912,408,1,1,3,1,0,2,0,188,Train,Fastest,Card,Economy
+5417,453,0,0,18,1,0,2,0,217,Train,Fastest,Card,Economy
+9055,296,1,0,4,0,1,1,1,77,Bus,Easiest,UPI,Business
+3619,218,1,1,7,1,1,1,0,363,Train,Easiest,UPI,Economy
+4283,648,0,0,3,2,1,1,1,45,Airline,Easiest,UPI,Business
+8068,79,0,1,0,2,1,0,2,123,Airline,Easiest,Cash,First Class
+8927,533,1,1,20,0,0,2,0,254,Bus,Fastest,Card,Economy
+9247,145,0,0,18,1,0,0,2,144,Train,Fastest,Cash,First Class
+7493,185,1,0,5,2,1,1,2,146,Airline,Easiest,UPI,First Class
+7184,51,1,1,0,2,1,0,0,212,Airline,Easiest,Cash,Economy
+4341,258,1,1,20,2,0,2,1,351,Airline,Fastest,Card,Business
+2600,223,0,0,9,0,0,0,2,185,Bus,Fastest,Cash,First Class
+2186,583,1,0,10,1,0,2,0,220,Train,Fastest,Card,Economy
+3404,340,0,1,8,0,0,1,0,339,Bus,Fastest,UPI,Economy
+7303,156,1,0,14,2,0,1,0,224,Airline,Fastest,UPI,Economy
+7420,479,1,0,6,1,0,0,0,147,Train,Fastest,Cash,Economy
+8562,154,0,0,3,1,1,2,1,66,Train,Easiest,Card,Business
+6901,225,0,0,16,1,1,1,2,136,Train,Easiest,UPI,First Class
+218,419,1,1,3,1,1,1,0,313,Train,Easiest,UPI,Economy
+7213,697,1,0,22,0,1,1,0,151,Bus,Easiest,UPI,Economy
+5396,76,0,0,5,2,0,0,2,132,Airline,Fastest,Cash,First Class
+2651,173,1,0,1,2,0,2,2,155,Airline,Fastest,Card,First Class
+2680,459,0,0,16,0,0,1,0,213,Bus,Fastest,UPI,Economy
+2760,60,1,0,9,1,1,1,2,275,Train,Easiest,UPI,First Class
+5532,59,1,0,23,0,1,0,2,193,Bus,Easiest,Cash,First Class
+6277,642,0,0,3,0,1,0,0,49,Bus,Easiest,Cash,Economy
+7893,505,1,1,4,2,0,1,1,153,Airline,Fastest,UPI,Business
+7792,293,0,1,21,2,1,2,2,148,Airline,Easiest,Card,First Class
+9459,230,0,0,16,0,0,0,2,41,Bus,Fastest,Cash,First Class
+1446,127,1,1,19,0,0,0,1,385,Bus,Fastest,Cash,Business
+5484,503,1,0,10,1,1,2,0,219,Train,Easiest,Card,Economy
+660,424,0,0,5,0,0,2,0,223,Bus,Fastest,Card,Economy
+6600,360,0,1,15,1,0,2,2,174,Train,Fastest,Card,First Class
+6746,492,0,1,19,1,1,0,2,218,Train,Easiest,Cash,First Class
+5627,375,0,1,10,1,1,2,0,264,Train,Easiest,Card,Economy
+5709,561,1,0,11,1,0,2,0,234,Train,Fastest,Card,Economy
+1920,153,1,0,11,1,1,1,2,264,Train,Easiest,UPI,First Class
+1459,546,0,1,16,0,0,2,0,266,Bus,Fastest,Card,Economy
+5898,568,0,0,17,1,0,2,2,160,Train,Fastest,Card,First Class
+2832,413,0,0,21,0,0,2,0,143,Bus,Fastest,Card,Economy
+7047,237,1,0,12,1,1,2,1,159,Train,Easiest,Card,Business
+7907,509,1,0,23,1,0,0,1,128,Train,Fastest,Cash,Business
+3520,657,0,0,13,0,0,1,0,133,Bus,Fastest,UPI,Economy
+4072,430,0,1,12,2,0,0,1,252,Airline,Fastest,Cash,Business
+4625,173,1,0,23,2,0,0,1,215,Airline,Fastest,Cash,Business
+2433,312,1,0,20,0,1,2,0,303,Bus,Easiest,Card,Economy
+3904,478,1,0,17,2,1,0,0,238,Airline,Easiest,Cash,Economy
+5693,308,0,1,8,0,1,1,2,249,Bus,Easiest,UPI,First Class
+8083,328,0,0,2,2,1,0,2,43,Airline,Easiest,Cash,First Class
+8202,472,1,0,20,0,1,2,2,159,Bus,Easiest,Card,First Class
+8420,366,1,1,11,0,0,0,2,187,Bus,Fastest,Cash,First Class
+8055,278,1,0,18,1,1,0,2,170,Train,Easiest,Cash,First Class
+9367,414,1,0,19,0,0,2,0,202,Bus,Fastest,Card,Economy
+2024,274,1,1,12,2,0,1,2,294,Airline,Fastest,UPI,First Class
+9493,565,0,1,20,2,1,2,0,178,Airline,Easiest,Card,Economy
+3639,610,0,0,20,1,0,1,1,230,Train,Fastest,UPI,Business
+4253,397,1,1,7,1,1,0,1,287,Train,Easiest,Cash,Business
+7607,680,1,0,6,2,1,2,1,107,Airline,Easiest,Card,Business
+2918,541,0,1,11,2,0,1,1,195,Airline,Fastest,UPI,Business
+1759,122,1,1,19,1,0,1,0,424,Train,Fastest,UPI,Economy
+5844,375,1,1,5,0,1,0,0,273,Bus,Easiest,Cash,Economy
+3209,625,1,1,17,2,0,1,2,298,Airline,Fastest,UPI,First Class
+1583,642,1,1,4,2,1,2,1,203,Airline,Easiest,Card,Business
+6600,166,1,0,23,1,0,1,0,215,Train,Fastest,UPI,Economy
+9078,188,1,0,15,0,0,0,0,155,Bus,Fastest,Cash,Economy
+7314,693,0,0,0,1,0,0,2,5,Train,Fastest,Cash,First Class
+9214,594,0,1,5,2,1,2,2,107,Airline,Easiest,Card,First Class
+6442,297,1,1,13,1,1,0,1,231,Train,Easiest,Cash,Business
+2303,359,0,0,3,2,1,2,1,118,Airline,Easiest,Card,Business
+1817,648,0,1,22,2,0,1,1,226,Airline,Fastest,UPI,Business
+7274,539,1,0,5,0,1,2,2,100,Bus,Easiest,Card,First Class
+1042,385,1,0,2,2,1,0,2,150,Airline,Easiest,Cash,First Class
+551,642,1,1,22,0,1,0,2,266,Bus,Easiest,Cash,First Class
+7507,347,1,1,7,2,1,0,2,264,Airline,Easiest,Cash,First Class
+211,654,0,1,18,0,0,2,0,334,Bus,Fastest,Card,Economy
+8779,453,0,0,7,2,0,0,0,140,Airline,Fastest,Cash,Economy
+2057,369,0,0,12,2,1,1,1,160,Airline,Easiest,UPI,Business
+7872,171,1,0,3,1,1,0,2,79,Train,Easiest,Cash,First Class
+1586,218,1,1,6,0,1,2,2,287,Bus,Easiest,Card,First Class
+1436,377,1,0,16,1,0,2,0,276,Train,Fastest,Card,Economy
+6213,127,0,0,16,0,0,1,1,142,Bus,Fastest,UPI,Business
+5117,58,1,0,5,0,1,0,2,174,Bus,Easiest,Cash,First Class
+2634,644,1,0,14,2,0,2,0,229,Airline,Fastest,Card,Economy
+7392,61,0,0,9,1,0,1,2,200,Train,Fastest,UPI,First Class
+1733,539,0,0,19,1,1,2,2,245,Train,Easiest,Card,First Class
+6470,488,0,0,10,0,1,0,0,136,Bus,Easiest,Cash,Economy
+6723,72,1,0,15,2,0,2,0,202,Airline,Fastest,Card,Economy
+5351,569,1,0,9,1,0,1,0,250,Train,Fastest,UPI,Economy
+6723,475,1,0,15,0,1,0,1,152,Bus,Easiest,Cash,Business
+9295,525,1,1,15,1,0,2,0,219,Train,Fastest,Card,Economy
+9459,585,0,1,23,0,0,0,1,124,Bus,Fastest,Cash,Business
+6406,222,1,0,21,1,0,2,1,186,Train,Fastest,Card,Business
+3614,131,1,0,7,2,1,0,2,239,Airline,Easiest,Cash,First Class
+3435,537,0,0,1,1,0,2,0,139,Train,Fastest,Card,Economy
+4038,368,0,1,7,1,1,0,0,305,Train,Easiest,Cash,Economy
+2421,643,0,1,13,2,1,0,2,189,Airline,Easiest,Cash,First Class
+267,455,1,1,8,0,1,1,2,324,Bus,Easiest,UPI,First Class
+270,671,1,0,22,1,0,2,2,221,Train,Fastest,Card,First Class
+1988,192,1,0,5,2,1,0,2,232,Airline,Easiest,Cash,First Class
+4302,437,1,1,9,2,1,0,0,290,Airline,Easiest,Cash,Economy
+3411,118,1,0,4,2,0,1,1,200,Airline,Fastest,UPI,Business
+1891,144,0,0,12,0,0,2,0,225,Bus,Fastest,Card,Economy
+7277,176,1,0,21,2,0,0,2,166,Airline,Fastest,Cash,First Class
+5308,74,0,0,10,1,0,1,1,188,Train,Fastest,UPI,Business
+6511,419,0,1,16,0,0,0,2,180,Bus,Fastest,Cash,First Class
+3284,373,1,0,14,0,0,2,2,178,Bus,Fastest,Card,First Class
+9064,355,0,0,21,0,1,2,2,65,Bus,Easiest,Card,First Class
+386,663,0,1,11,0,0,0,2,221,Bus,Fastest,Cash,First Class
+9319,89,1,0,7,2,0,2,2,199,Airline,Fastest,Card,First Class
+1311,50,1,1,9,2,1,1,2,365,Airline,Easiest,UPI,First Class
+4196,383,1,1,4,1,1,0,0,258,Train,Easiest,Cash,Economy
+4799,682,0,1,8,0,1,2,0,239,Bus,Easiest,Card,Economy
+797,500,1,0,12,0,1,0,1,215,Bus,Easiest,Cash,Business
+6999,457,1,1,14,1,1,1,1,217,Train,Easiest,UPI,Business
+8782,240,0,0,22,0,0,2,2,92,Bus,Fastest,Card,First Class
+6054,504,1,1,20,1,0,1,0,310,Train,Fastest,UPI,Economy
+7510,337,1,0,6,0,1,2,0,165,Bus,Easiest,Card,Economy
+6396,559,1,0,14,0,0,1,2,117,Bus,Fastest,UPI,First Class
+9330,189,1,0,4,1,1,1,0,110,Train,Easiest,UPI,Economy
+2239,528,1,0,21,0,0,0,0,254,Bus,Fastest,Cash,Economy
+964,369,0,1,11,0,0,0,1,257,Bus,Fastest,Cash,Business
+1181,401,1,1,15,1,0,1,1,337,Train,Fastest,UPI,Business
+2590,197,1,0,17,2,1,0,2,276,Airline,Easiest,Cash,First Class
+9149,673,1,1,22,0,0,2,0,192,Bus,Fastest,Card,Economy
+745,168,1,1,12,1,0,0,2,315,Train,Fastest,Cash,First Class
+6037,481,0,1,0,1,1,1,0,178,Train,Easiest,UPI,Economy
+2310,669,1,1,4,0,0,2,1,201,Bus,Fastest,Card,Business
+4889,115,1,1,0,2,1,0,1,217,Airline,Easiest,Cash,Business
+4691,562,0,1,10,0,0,2,0,208,Bus,Fastest,Card,Economy
+5123,299,1,1,10,0,1,2,2,218,Bus,Easiest,Card,First Class
+9132,62,0,0,23,2,0,1,1,114,Airline,Fastest,UPI,Business
+3370,511,1,1,1,2,1,2,1,185,Airline,Easiest,Card,Business
+7055,446,1,0,11,2,1,2,0,189,Airline,Easiest,Card,Economy
+8108,318,1,0,14,2,0,2,1,164,Airline,Fastest,Card,Business
+476,161,0,0,2,0,1,0,0,150,Bus,Easiest,Cash,Economy
+9470,272,0,0,0,2,0,2,1,52,Airline,Fastest,Card,Business
+2659,626,1,1,21,0,0,0,2,213,Bus,Fastest,Cash,First Class
+2372,234,0,0,2,2,0,0,1,135,Airline,Fastest,Cash,Business
+919,111,1,1,20,2,0,1,0,411,Airline,Fastest,UPI,Economy
+8215,649,0,1,9,2,0,1,0,216,Airline,Fastest,UPI,Economy
+3339,299,0,0,22,0,0,0,0,183,Bus,Fastest,Cash,Economy
+5365,263,0,1,20,2,1,2,1,256,Airline,Easiest,Card,Business
+7088,286,1,0,16,0,1,1,0,175,Bus,Easiest,UPI,Economy
+1159,93,0,1,11,2,0,2,1,314,Airline,Fastest,Card,Business
+7406,42,0,1,18,1,0,2,1,300,Train,Fastest,Card,Business
+5327,491,1,1,11,1,1,1,1,217,Train,Easiest,UPI,Business
+3837,631,0,0,22,1,1,1,1,136,Train,Easiest,UPI,Business
+5414,442,1,1,14,0,0,2,1,228,Bus,Fastest,Card,Business
+2384,354,1,0,12,1,0,1,2,221,Train,Fastest,UPI,First Class
+2930,184,0,0,3,0,1,1,0,151,Bus,Easiest,UPI,Economy
+8248,431,0,1,17,1,0,0,1,244,Train,Fastest,Cash,Business
+8277,473,1,0,15,2,0,1,0,168,Airline,Fastest,UPI,Economy
+7910,652,1,0,7,2,1,0,1,161,Airline,Easiest,Cash,Business
+8136,43,1,0,10,2,1,2,2,131,Airline,Easiest,Card,First Class
+2220,572,1,1,23,1,0,1,2,276,Train,Fastest,UPI,First Class
+7858,94,0,1,11,1,0,0,1,188,Train,Fastest,Cash,Business
+5220,679,1,1,17,1,1,2,0,281,Train,Easiest,Card,Economy
+2182,359,0,0,7,1,1,0,1,229,Train,Easiest,Cash,Business
+2530,668,1,0,16,1,1,2,2,177,Train,Easiest,Card,First Class
+4458,98,1,1,6,1,0,1,0,314,Train,Fastest,UPI,Economy
+150,365,1,1,17,0,1,1,1,377,Bus,Easiest,UPI,Business
+5247,649,0,0,19,2,0,1,2,196,Airline,Fastest,UPI,First Class
+8677,546,1,0,12,1,0,1,1,145,Train,Fastest,UPI,Business
+3446,177,1,0,0,2,1,0,1,116,Airline,Easiest,Cash,Business
+2518,487,1,0,19,1,1,0,1,279,Train,Easiest,Cash,Business
+7570,312,0,1,9,0,0,1,0,284,Bus,Fastest,UPI,Economy
+9153,518,1,0,10,2,1,2,0,151,Airline,Easiest,Card,Economy
+7214,691,1,1,5,1,0,2,1,191,Train,Fastest,Card,Business
+745,553,0,0,15,0,0,0,0,224,Bus,Fastest,Cash,Economy
+1775,565,0,0,2,1,1,1,0,129,Train,Easiest,UPI,Economy
+8168,440,0,1,20,1,0,2,0,280,Train,Fastest,Card,Economy
+3495,489,0,0,8,0,0,0,2,175,Bus,Fastest,Cash,First Class
+3794,520,0,0,7,0,0,0,2,166,Bus,Fastest,Cash,First Class
+5334,360,1,1,0,2,1,1,0,204,Airline,Easiest,UPI,Economy
+9111,99,0,0,18,0,0,0,2,119,Bus,Fastest,Cash,First Class
+8152,37,1,0,18,1,0,1,0,276,Train,Fastest,UPI,Economy
+4710,302,1,1,5,0,1,1,0,279,Bus,Easiest,UPI,Economy
+5458,296,1,0,20,1,1,0,1,226,Train,Easiest,Cash,Business
+8485,445,0,0,3,0,1,0,2,5,Bus,Easiest,Cash,First Class
+3468,234,1,0,18,1,1,1,0,308,Train,Easiest,UPI,Economy
+4234,252,0,1,0,0,0,1,0,195,Bus,Fastest,UPI,Economy
+8285,427,1,1,12,2,0,1,1,187,Airline,Fastest,UPI,Business
+4171,109,0,0,0,2,0,0,1,112,Airline,Fastest,Cash,Business
+100,340,1,1,23,2,0,0,0,322,Airline,Fastest,Cash,Economy
+7033,411,0,1,13,2,0,1,0,225,Airline,Fastest,UPI,Economy
+2067,339,0,1,14,0,0,2,2,262,Bus,Fastest,Card,First Class
+7907,208,0,0,2,2,0,1,2,40,Airline,Fastest,UPI,First Class
+9233,309,1,0,22,2,1,0,2,90,Airline,Easiest,Cash,First Class
+6613,416,0,0,15,1,1,1,0,139,Train,Easiest,UPI,Economy
+317,620,0,0,8,2,1,2,1,233,Airline,Easiest,Card,Business
+4555,222,0,1,0,2,0,2,1,191,Airline,Fastest,Card,Business
+9257,530,0,0,9,1,0,2,1,116,Train,Fastest,Card,Business
+2785,412,1,0,10,2,1,1,0,234,Airline,Easiest,UPI,Economy
+6682,411,1,1,9,0,1,2,2,210,Bus,Easiest,Card,First Class
+1516,646,1,0,10,1,1,1,2,223,Train,Easiest,UPI,First Class
+2791,73,1,0,19,1,0,2,0,374,Train,Fastest,Card,Economy
+6593,113,1,0,16,2,0,2,0,200,Airline,Fastest,Card,Economy
+166,290,0,0,21,2,1,1,0,220,Airline,Easiest,UPI,Economy
+6216,591,1,1,7,2,1,2,1,290,Airline,Easiest,Card,Business
+1843,261,1,0,22,0,0,2,0,214,Bus,Fastest,Card,Economy
+5122,277,1,1,6,2,0,0,0,276,Airline,Fastest,Cash,Economy
+365,61,1,0,6,0,0,0,1,252,Bus,Fastest,Cash,Business
+5957,442,0,1,10,1,1,0,1,194,Train,Easiest,Cash,Business
+7120,664,1,0,21,1,0,1,1,134,Train,Fastest,UPI,Business
+7859,422,0,1,22,2,1,2,1,168,Airline,Easiest,Card,Business
+547,419,0,1,2,1,1,2,0,276,Train,Easiest,Card,Economy
+1640,495,1,1,7,2,1,0,1,340,Airline,Easiest,Cash,Business
+5175,595,1,0,19,1,0,0,2,238,Train,Fastest,Cash,First Class
+562,548,1,0,16,0,1,1,2,226,Bus,Easiest,UPI,First Class
+9357,427,0,1,18,0,1,0,1,187,Bus,Easiest,Cash,Business
+4856,645,1,1,3,2,0,0,0,206,Airline,Fastest,Cash,Economy
+7999,527,0,0,12,2,0,1,0,108,Airline,Fastest,UPI,Economy
+8183,264,1,0,3,0,0,0,2,78,Bus,Fastest,Cash,First Class
+9320,54,1,1,11,2,1,0,2,159,Airline,Easiest,Cash,First Class
+9004,138,1,1,1,1,1,2,2,151,Train,Easiest,Card,First Class
+7018,98,0,0,8,2,1,1,1,173,Airline,Easiest,UPI,Business
+2353,153,0,0,2,2,0,2,0,170,Airline,Fastest,Card,Economy
+7408,589,1,1,15,0,0,2,1,195,Bus,Fastest,Card,Business
+3416,180,1,0,23,2,1,0,1,208,Airline,Easiest,Cash,Business
+1082,552,0,0,16,2,1,2,2,190,Airline,Easiest,Card,First Class
+2345,357,0,1,6,0,1,1,1,242,Bus,Easiest,UPI,Business
+3608,131,0,1,17,2,0,0,2,306,Airline,Fastest,Cash,First Class
+1214,519,0,0,7,2,1,2,1,241,Airline,Easiest,Card,Business
+3792,298,1,0,13,0,1,1,0,231,Bus,Easiest,UPI,Economy
+6222,430,1,0,23,0,1,2,2,155,Bus,Easiest,Card,First Class
+6760,691,0,0,19,2,1,1,0,169,Airline,Easiest,UPI,Economy
+1186,605,0,0,20,0,1,1,1,230,Bus,Easiest,UPI,Business
+4701,505,1,1,17,2,1,1,1,285,Airline,Easiest,UPI,Business
+9278,649,0,1,10,0,1,1,2,98,Bus,Easiest,UPI,First Class
+8570,661,0,1,20,1,1,1,2,177,Train,Easiest,UPI,First Class
+5411,275,0,1,9,0,1,2,2,237,Bus,Easiest,Card,First Class
+6842,315,1,1,21,2,0,2,0,262,Airline,Fastest,Card,Economy
+3212,400,1,0,14,2,0,0,2,152,Airline,Fastest,Cash,First Class
+4875,683,0,0,19,2,1,0,2,153,Airline,Easiest,Cash,First Class
+6516,525,1,1,17,1,0,1,2,265,Train,Fastest,UPI,First Class
+1280,288,0,1,17,1,0,0,0,374,Train,Fastest,Cash,Economy
+8210,495,1,1,6,1,0,1,2,182,Train,Fastest,UPI,First Class
+8120,639,0,1,13,1,1,0,0,176,Train,Easiest,Cash,Economy
+992,72,0,1,3,2,1,0,0,270,Airline,Easiest,Cash,Economy
+7034,239,0,0,0,0,1,2,2,40,Bus,Easiest,Card,First Class
+3876,255,1,1,7,0,0,2,2,327,Bus,Fastest,Card,First Class
+5289,255,0,1,6,2,0,0,0,212,Airline,Fastest,Cash,Economy
+4519,527,0,0,7,1,0,0,1,185,Train,Fastest,Cash,Business
+2813,207,0,1,3,0,0,2,1,167,Bus,Fastest,Card,Business
+6435,486,0,0,3,0,1,2,1,61,Bus,Easiest,Card,Business
+7350,183,1,1,0,2,1,0,2,120,Airline,Easiest,Cash,First Class
+8684,380,1,0,15,2,1,1,2,107,Airline,Easiest,UPI,First Class
+3466,411,0,0,19,2,1,0,1,212,Airline,Easiest,Cash,Business
+6737,310,0,1,7,1,1,0,2,245,Train,Easiest,Cash,First Class
+9329,279,0,1,22,0,1,2,1,142,Bus,Easiest,Card,Business
+7248,486,1,0,13,1,1,0,1,142,Train,Easiest,Cash,Business
+6106,296,1,0,5,0,0,0,1,139,Bus,Fastest,Cash,Business
+1574,192,0,0,8,0,1,1,0,299,Bus,Easiest,UPI,Economy
+4903,175,1,1,5,0,1,1,0,273,Bus,Easiest,UPI,Economy
+1611,665,0,0,9,2,1,1,0,235,Airline,Easiest,UPI,Economy
+3970,47,0,0,2,0,1,0,2,112,Bus,Easiest,Cash,First Class
+6144,213,0,0,7,0,1,0,1,188,Bus,Easiest,Cash,Business
+8509,51,0,1,4,0,0,1,0,171,Bus,Fastest,UPI,Economy
+6116,617,1,1,7,1,0,2,0,296,Train,Fastest,Card,Economy
+4166,195,0,0,12,0,0,1,1,145,Bus,Fastest,UPI,Business
+6571,593,1,1,20,2,1,2,2,243,Airline,Easiest,Card,First Class
+6738,287,1,0,16,1,0,0,0,250,Train,Fastest,Cash,Economy
+4989,148,1,1,12,1,1,0,1,297,Train,Easiest,Cash,Business
+8082,233,0,0,13,2,0,1,2,102,Airline,Fastest,UPI,First Class
+5047,435,0,0,0,0,1,1,1,46,Bus,Easiest,UPI,Business
+6641,507,1,1,6,1,0,1,0,259,Train,Fastest,UPI,Economy
+1759,332,1,0,11,1,1,2,1,246,Train,Easiest,Card,Business
+1379,642,1,1,16,2,1,0,1,276,Airline,Easiest,Cash,Business
+5184,548,0,0,3,0,1,0,0,85,Bus,Easiest,Cash,Economy
+8447,253,1,0,14,1,1,2,1,140,Train,Easiest,Card,Business
+6128,82,0,1,15,1,0,2,2,230,Train,Fastest,Card,First Class
+9379,548,0,0,12,1,1,2,2,46,Train,Easiest,Card,First Class
+3316,125,1,1,12,0,0,0,1,276,Bus,Fastest,Cash,Business
+298,166,0,1,18,0,1,0,1,327,Bus,Easiest,Cash,Business
+3550,30,0,0,1,1,1,0,0,164,Train,Easiest,Cash,Economy
+7772,199,1,0,2,2,1,1,2,82,Airline,Easiest,UPI,First Class
+7782,294,1,1,16,0,1,2,0,214,Bus,Easiest,Card,Economy
+3806,52,1,1,8,1,1,1,2,350,Train,Easiest,UPI,First Class
+5020,293,0,0,17,0,0,0,1,200,Bus,Fastest,Cash,Business
+2610,130,1,1,23,1,1,2,1,308,Train,Easiest,Card,Business
+7983,97,1,0,13,1,1,0,1,177,Train,Easiest,Cash,Business
+7852,61,1,1,3,1,0,1,1,222,Train,Fastest,UPI,Business
+3606,445,1,0,9,0,0,1,0,264,Bus,Fastest,UPI,Economy
+5459,637,1,0,3,0,0,2,0,131,Bus,Fastest,Card,Economy
+1612,693,0,0,0,1,0,0,0,158,Train,Fastest,Cash,Economy
+4874,405,1,0,1,0,1,1,0,169,Bus,Easiest,UPI,Economy
+747,659,0,0,5,1,1,0,1,180,Train,Easiest,Cash,Business
+4874,660,0,1,4,0,1,2,1,140,Bus,Easiest,Card,Business
+8535,128,1,0,22,1,0,1,1,197,Train,Fastest,UPI,Business
+2767,514,1,1,16,1,1,2,2,266,Train,Easiest,Card,First Class
+3952,346,1,0,7,1,0,2,0,275,Train,Fastest,Card,Economy
+702,111,0,0,4,0,1,0,0,178,Bus,Easiest,Cash,Economy
+5551,357,0,1,13,1,0,2,2,186,Train,Fastest,Card,First Class
+9145,631,1,0,15,2,0,1,0,114,Airline,Fastest,UPI,Economy
+901,62,1,1,5,1,1,2,1,353,Train,Easiest,Card,Business
+5401,490,0,1,23,2,1,2,1,214,Airline,Easiest,Card,Business
+3114,37,0,1,13,0,1,1,0,276,Bus,Easiest,UPI,Economy
+788,173,0,1,8,0,0,1,0,369,Bus,Fastest,UPI,Economy
+5719,659,1,1,0,0,1,2,0,152,Bus,Easiest,Card,Economy
+3558,181,1,1,16,1,0,1,2,295,Train,Fastest,UPI,First Class
+9064,327,1,0,9,1,0,1,2,164,Train,Fastest,UPI,First Class
+1128,515,1,1,19,2,0,1,2,344,Airline,Fastest,UPI,First Class
+734,264,1,1,8,0,0,0,0,402,Bus,Fastest,Cash,Economy
+7460,274,1,0,13,0,0,1,2,144,Bus,Fastest,UPI,First Class
+6928,46,1,0,15,2,0,2,2,143,Airline,Fastest,Card,First Class
+9149,324,0,0,12,2,1,0,2,53,Airline,Easiest,Cash,First Class
+7136,111,1,0,15,0,0,0,2,142,Bus,Fastest,Cash,First Class
+4330,203,1,1,13,0,1,0,2,243,Bus,Easiest,Cash,First Class
+4831,346,0,0,4,0,0,0,0,116,Bus,Fastest,Cash,Economy
+4524,213,0,1,10,0,1,2,0,219,Bus,Easiest,Card,Economy
+1464,394,0,1,5,1,0,2,1,274,Train,Fastest,Card,Business
+398,665,0,0,5,0,1,0,2,151,Bus,Easiest,Cash,First Class
+7942,676,1,0,10,1,1,0,2,75,Train,Easiest,Cash,First Class
+6693,247,0,0,19,2,1,2,2,151,Airline,Easiest,Card,First Class
+3815,536,1,1,10,2,1,0,0,216,Airline,Easiest,Cash,Economy
+696,493,0,0,18,1,0,2,1,257,Train,Fastest,Card,Business
+221,352,1,0,4,0,0,2,0,204,Bus,Fastest,Card,Economy
+7856,536,1,0,19,0,1,0,1,153,Bus,Easiest,Cash,Business
+737,139,0,1,21,0,1,1,0,303,Bus,Easiest,UPI,Economy
+4698,378,1,0,16,1,0,1,1,200,Train,Fastest,UPI,Business
+528,321,1,0,22,0,0,2,2,206,Bus,Fastest,Card,First Class
+1740,401,0,0,8,1,1,0,0,244,Train,Easiest,Cash,Economy
+1391,267,0,1,9,2,0,2,2,295,Airline,Fastest,Card,First Class
+9046,334,1,0,12,0,1,1,0,136,Bus,Easiest,UPI,Economy
+952,170,0,0,18,0,0,1,0,292,Bus,Fastest,UPI,Economy
+7787,399,1,0,8,0,0,0,1,194,Bus,Fastest,Cash,Business
+9422,136,0,1,6,2,0,0,2,167,Airline,Fastest,Cash,First Class
+8450,274,1,0,21,2,1,2,2,116,Airline,Easiest,Card,First Class
+9071,273,0,1,6,2,1,0,2,118,Airline,Easiest,Cash,First Class
+4895,382,0,1,18,1,1,1,0,284,Train,Easiest,UPI,Economy
+6984,291,1,0,3,1,0,2,1,98,Train,Fastest,Card,Business
+2200,620,0,0,21,0,0,2,0,179,Bus,Fastest,Card,Economy
+862,103,1,0,6,1,0,2,0,316,Train,Fastest,Card,Economy
+3543,143,0,1,3,1,0,1,0,261,Train,Fastest,UPI,Economy
+2119,407,1,1,12,2,1,1,2,286,Airline,Easiest,UPI,First Class
+3402,680,0,0,12,1,0,2,2,133,Train,Fastest,Card,First Class
+4587,477,0,1,0,1,1,0,0,204,Train,Easiest,Cash,Economy
+1076,499,1,0,13,0,1,0,1,201,Bus,Easiest,Cash,Business
+325,514,0,1,11,1,0,1,0,325,Train,Fastest,UPI,Economy
+4615,518,1,1,5,1,0,1,0,299,Train,Fastest,UPI,Economy
+8061,423,0,0,3,1,1,2,1,51,Train,Easiest,Card,Business
+1719,308,1,1,0,0,0,0,1,240,Bus,Fastest,Cash,Business
+9208,658,0,1,16,0,0,0,1,127,Bus,Fastest,Cash,Business
+9174,459,1,0,15,0,0,0,2,74,Bus,Fastest,Cash,First Class
+4215,308,0,1,21,2,1,0,1,240,Airline,Easiest,Cash,Business
+7830,669,0,0,10,0,1,1,1,66,Bus,Easiest,UPI,Business
+8179,263,1,0,22,0,0,2,0,143,Bus,Fastest,Card,Economy
+3889,450,0,0,14,1,0,0,2,162,Train,Fastest,Cash,First Class
+2323,256,0,0,11,0,0,1,0,210,Bus,Fastest,UPI,Economy
+6803,153,1,1,6,0,1,0,2,232,Bus,Easiest,Cash,First Class
+8896,674,0,0,15,2,1,2,0,97,Airline,Easiest,Card,Economy
+204,531,0,1,10,0,0,2,2,243,Bus,Fastest,Card,First Class
+101,467,1,1,14,2,0,0,2,308,Airline,Fastest,Cash,First Class
+1697,672,0,1,6,0,0,0,2,211,Bus,Fastest,Cash,First Class
+3525,232,0,1,14,0,1,0,2,210,Bus,Easiest,Cash,First Class
+2303,62,0,0,11,2,1,2,1,200,Airline,Easiest,Card,Business
+2706,515,1,0,5,1,0,2,0,245,Train,Fastest,Card,Economy
+6987,141,0,0,6,0,0,1,0,131,Bus,Fastest,UPI,Economy
+2822,302,1,1,5,2,0,1,1,300,Airline,Fastest,UPI,Business
+2920,655,1,1,10,1,0,2,0,299,Train,Fastest,Card,Economy
+8872,506,0,0,22,0,0,0,2,59,Bus,Fastest,Cash,First Class
+8841,145,1,1,20,2,0,0,2,272,Airline,Fastest,Cash,First Class
+2171,276,0,0,7,2,0,1,2,262,Airline,Fastest,UPI,First Class
+8907,125,1,1,10,2,0,0,0,204,Airline,Fastest,Cash,Economy
+3463,173,0,0,16,0,1,0,1,176,Bus,Easiest,Cash,Business
+9057,112,1,1,5,2,1,1,0,240,Airline,Easiest,UPI,Economy
+547,54,0,0,10,0,0,0,2,203,Bus,Fastest,Cash,First Class
+3219,522,0,1,17,2,1,0,2,254,Airline,Easiest,Cash,First Class
+2553,391,1,1,21,0,1,1,1,249,Bus,Easiest,UPI,Business
+2709,117,0,1,9,1,0,0,0,361,Train,Fastest,Cash,Economy
+795,351,1,1,1,2,1,1,0,269,Airline,Easiest,UPI,Economy
+823,643,0,0,21,1,0,1,1,187,Train,Fastest,UPI,Business
+8552,311,0,1,12,2,0,0,1,152,Airline,Fastest,Cash,Business
+2545,305,0,1,11,2,0,1,1,266,Airline,Fastest,UPI,Business
+6249,72,0,1,1,1,0,0,1,149,Train,Fastest,Cash,Business
+9246,501,1,0,19,2,0,0,0,222,Airline,Fastest,Cash,Economy
+2105,431,1,0,17,2,0,1,2,277,Airline,Fastest,UPI,First Class
+4337,689,0,1,15,0,0,1,2,174,Bus,Fastest,UPI,First Class
+1151,439,1,0,4,2,0,0,2,131,Airline,Fastest,Cash,First Class
+6654,663,1,0,16,2,1,1,1,133,Airline,Easiest,UPI,Business
+6977,163,1,1,6,0,1,1,0,269,Bus,Easiest,UPI,Economy
+7668,71,1,1,20,1,0,1,1,324,Train,Fastest,UPI,Business
+793,221,1,0,23,2,1,1,2,194,Airline,Easiest,UPI,First Class
+3163,330,0,0,21,0,1,1,1,148,Bus,Easiest,UPI,Business
+4861,555,0,0,23,0,1,0,2,97,Bus,Easiest,Cash,First Class
+8307,561,0,1,10,2,0,1,2,135,Airline,Fastest,UPI,First Class
+5669,68,1,0,9,0,0,0,0,261,Bus,Fastest,Cash,Economy
+5917,228,1,1,22,0,1,2,0,275,Bus,Easiest,Card,Economy
+1575,126,1,1,23,0,0,2,0,310,Bus,Fastest,Card,Economy
+4050,637,0,0,15,0,0,1,2,105,Bus,Fastest,UPI,First Class
+6762,65,0,0,19,2,1,1,1,215,Airline,Easiest,UPI,Business
+1661,502,1,0,0,0,0,0,0,165,Bus,Fastest,Cash,Economy
+6899,144,0,0,7,2,1,1,1,176,Airline,Easiest,UPI,Business
+8248,300,1,0,23,1,0,2,2,142,Train,Fastest,Card,First Class
+5765,167,0,0,9,2,0,0,2,195,Airline,Fastest,Cash,First Class
+4799,141,1,0,7,1,1,1,0,270,Train,Easiest,UPI,Economy
+6772,229,0,0,6,2,0,0,0,130,Airline,Fastest,Cash,Economy
+7493,311,1,1,13,0,0,1,0,233,Bus,Fastest,UPI,Economy
+4916,163,1,0,11,2,0,1,0,195,Airline,Fastest,UPI,Economy
+8167,434,1,1,23,0,0,0,2,193,Bus,Fastest,Cash,First Class
+394,73,0,0,16,0,1,1,1,245,Bus,Easiest,UPI,Business
+1548,57,1,0,21,1,0,1,2,268,Train,Fastest,UPI,First Class
+3681,290,1,1,1,1,0,1,2,270,Train,Fastest,UPI,First Class
+1882,527,1,1,17,2,0,2,0,403,Airline,Fastest,Card,Economy
+4857,71,0,0,9,2,0,2,1,219,Airline,Fastest,Card,Business
+3279,380,1,0,15,2,0,1,0,238,Airline,Fastest,UPI,Economy
+2133,84,0,1,14,2,0,2,0,325,Airline,Fastest,Card,Economy
+8413,407,0,1,9,2,0,0,2,245,Airline,Fastest,Cash,First Class
+2813,442,1,1,21,1,1,0,2,257,Train,Easiest,Cash,First Class
+4942,178,1,1,20,2,0,0,1,312,Airline,Fastest,Cash,Business
+8299,347,0,0,6,0,0,0,1,78,Bus,Fastest,Cash,Business
+2414,470,1,0,13,2,0,2,1,220,Airline,Fastest,Card,Business
+7590,457,0,1,5,2,0,1,2,172,Airline,Fastest,UPI,First Class
+3837,562,0,1,21,2,1,2,0,244,Airline,Easiest,Card,Economy
+9293,47,1,0,11,1,0,0,2,127,Train,Fastest,Cash,First Class
+9377,654,1,1,0,2,0,1,2,100,Airline,Fastest,UPI,First Class
+2502,474,1,0,17,1,1,1,1,259,Train,Easiest,UPI,Business
+1292,251,0,1,13,0,0,0,2,237,Bus,Fastest,Cash,First Class
+2069,287,0,1,12,2,0,0,2,249,Airline,Fastest,Cash,First Class
+5191,551,1,0,0,0,1,0,0,153,Bus,Easiest,Cash,Economy
+7214,644,1,1,2,0,0,1,2,127,Bus,Fastest,UPI,First Class
+3410,106,0,0,19,1,0,0,0,281,Train,Fastest,Cash,Economy
+4675,112,1,0,23,1,0,1,1,230,Train,Fastest,UPI,Business
+3003,674,0,1,20,1,0,0,2,249,Train,Fastest,Cash,First Class
+4525,47,1,1,14,2,1,1,0,326,Airline,Easiest,UPI,Economy
+1053,489,0,1,13,2,0,2,0,266,Airline,Fastest,Card,Economy
+1608,533,1,1,1,0,0,1,0,276,Bus,Fastest,UPI,Economy
+6609,566,1,0,6,0,0,1,0,172,Bus,Fastest,UPI,Economy
+5247,396,0,0,11,1,0,1,2,141,Train,Fastest,UPI,First Class
+1396,505,0,0,5,2,0,0,2,163,Airline,Fastest,Cash,First Class
+3685,462,0,1,4,1,1,2,2,175,Train,Easiest,Card,First Class
+5751,415,0,0,6,1,0,2,2,119,Train,Fastest,Card,First Class
+905,202,1,0,4,1,1,2,0,249,Train,Easiest,Card,Economy
+1648,471,1,1,1,0,1,0,2,202,Bus,Easiest,Cash,First Class
+7807,577,0,0,14,2,1,2,2,65,Airline,Easiest,Card,First Class
+2890,221,0,0,5,2,0,1,2,157,Airline,Fastest,UPI,First Class
+3268,297,1,0,18,2,1,2,1,264,Airline,Easiest,Card,Business
+7275,269,1,0,17,0,0,2,0,185,Bus,Fastest,Card,Economy
+6791,59,1,0,18,1,0,1,2,233,Train,Fastest,UPI,First Class
+9022,681,1,1,21,0,1,1,2,173,Bus,Easiest,UPI,First Class
+8234,271,1,0,0,1,0,1,2,108,Train,Fastest,UPI,First Class
+2453,116,0,0,7,2,1,1,2,262,Airline,Easiest,UPI,First Class
+6097,45,1,1,3,2,1,1,2,239,Airline,Easiest,UPI,First Class
+2563,104,0,0,18,0,1,2,1,280,Bus,Easiest,Card,Business
+746,600,1,0,13,2,1,2,0,230,Airline,Easiest,Card,Economy
+2694,159,0,1,1,2,0,2,2,166,Airline,Fastest,Card,First Class
+4208,549,1,0,9,2,1,2,2,216,Airline,Easiest,Card,First Class
+8491,596,0,0,9,1,1,2,2,70,Train,Easiest,Card,First Class
+686,700,1,0,11,0,0,2,1,203,Bus,Fastest,Card,Business
+7433,429,1,0,17,2,0,0,2,164,Airline,Fastest,Cash,First Class
+1377,658,0,1,15,2,1,1,2,218,Airline,Easiest,UPI,First Class
+2556,668,1,1,22,0,0,1,2,220,Bus,Fastest,UPI,First Class
+725,688,1,0,12,2,0,2,2,183,Airline,Fastest,Card,First Class
+3990,407,0,1,0,2,1,1,1,164,Airline,Easiest,UPI,Business
+7581,612,0,0,21,0,0,1,2,47,Bus,Fastest,UPI,First Class
+2982,380,1,1,8,0,1,1,2,299,Bus,Easiest,UPI,First Class
+4919,220,0,0,21,2,1,1,0,182,Airline,Easiest,UPI,Economy
+3287,589,0,1,12,0,1,0,2,172,Bus,Easiest,Cash,First Class
+8833,375,1,0,10,1,0,2,0,152,Train,Fastest,Card,Economy
+6713,633,0,0,10,2,1,0,0,131,Airline,Easiest,Cash,Economy
+1840,603,1,1,11,0,1,2,1,228,Bus,Easiest,Card,Business
+6428,602,1,0,19,1,1,2,1,217,Train,Easiest,Card,Business
+3281,343,0,0,3,1,1,0,0,132,Train,Easiest,Cash,Economy
+3362,564,1,0,8,0,0,1,0,259,Bus,Fastest,UPI,Economy
+4911,494,0,1,10,0,0,0,2,176,Bus,Fastest,Cash,First Class
+2942,404,0,1,15,2,0,0,1,213,Airline,Fastest,Cash,Business
+363,665,1,0,22,2,0,1,0,252,Airline,Fastest,UPI,Economy
+676,392,0,1,12,2,0,2,2,227,Airline,Fastest,Card,First Class
+2256,519,0,1,11,0,0,2,2,209,Bus,Fastest,Card,First Class
+9239,386,1,0,4,1,1,1,0,141,Train,Easiest,UPI,Economy
+8397,455,1,1,8,1,0,0,1,248,Train,Fastest,Cash,Business
+5635,552,1,1,17,2,1,2,2,249,Airline,Easiest,Card,First Class
+5299,658,1,0,16,0,1,2,0,171,Bus,Easiest,Card,Economy
+1459,468,1,0,4,0,0,0,0,190,Bus,Fastest,Cash,Economy
+3861,630,0,0,7,0,0,1,1,169,Bus,Fastest,UPI,Business
+1234,243,0,1,10,1,0,2,0,302,Train,Fastest,Card,Economy
+3084,132,1,1,9,2,1,1,2,317,Airline,Easiest,UPI,First Class
+8138,177,1,0,13,1,1,2,1,154,Train,Easiest,Card,Business
+204,162,1,0,11,1,0,0,2,249,Train,Fastest,Cash,First Class
+3678,207,0,0,6,0,0,0,2,166,Bus,Fastest,Cash,First Class
+216,671,1,0,1,1,0,0,2,188,Train,Fastest,Cash,First Class
+4109,455,1,1,5,0,1,1,0,242,Bus,Easiest,UPI,Economy
+6719,561,0,1,5,0,1,1,1,154,Bus,Easiest,UPI,Business
+5356,296,1,1,15,0,1,0,2,231,Bus,Easiest,Cash,First Class
+1578,553,1,1,21,2,0,2,0,300,Airline,Fastest,Card,Economy
+6530,84,0,1,3,2,1,0,0,163,Airline,Easiest,Cash,Economy
+7356,252,0,0,10,0,0,0,2,92,Bus,Fastest,Cash,First Class
+9387,659,0,1,5,0,1,1,2,101,Bus,Easiest,UPI,First Class
+5067,271,0,0,5,1,1,2,0,176,Train,Easiest,Card,Economy
+8950,238,1,1,8,1,0,1,2,245,Train,Fastest,UPI,First Class
+8178,254,0,1,9,0,0,2,1,202,Bus,Fastest,Card,Business
+4376,289,1,0,5,1,1,0,0,206,Train,Easiest,Cash,Economy
+2755,86,1,0,21,2,1,2,1,220,Airline,Easiest,Card,Business
+1943,249,1,1,4,2,0,0,0,298,Airline,Fastest,Cash,Economy
+1714,167,1,1,23,2,0,2,0,343,Airline,Fastest,Card,Economy
+2938,68,0,1,17,1,1,2,2,298,Train,Easiest,Card,First Class
+5823,245,1,1,5,0,1,0,0,256,Bus,Easiest,Cash,Economy
+3409,47,1,1,7,1,0,2,2,345,Train,Fastest,Card,First Class
+5783,196,0,0,0,0,0,2,2,90,Bus,Fastest,Card,First Class
+5805,54,0,1,6,1,1,2,2,211,Train,Easiest,Card,First Class
+3316,35,1,1,2,0,1,0,2,217,Bus,Easiest,Cash,First Class
+1986,178,1,0,20,0,0,0,0,339,Bus,Fastest,Cash,Economy
+7642,449,1,0,1,0,0,0,0,130,Bus,Fastest,Cash,Economy
+6368,442,0,0,5,0,0,2,2,101,Bus,Fastest,Card,First Class
+5718,571,1,0,6,2,0,0,1,146,Airline,Fastest,Cash,Business
+9469,227,1,1,10,0,0,2,0,185,Bus,Fastest,Card,Economy
+5039,563,0,0,9,0,0,0,1,175,Bus,Fastest,Cash,Business
+472,601,1,0,10,0,1,0,0,215,Bus,Easiest,Cash,Economy
+380,635,0,1,11,2,1,0,2,209,Airline,Easiest,Cash,First Class
+120,249,1,0,22,2,1,0,0,273,Airline,Easiest,Cash,Economy
+2424,312,0,1,11,2,1,2,1,262,Airline,Easiest,Card,Business
+6446,344,0,0,0,1,0,2,0,166,Train,Fastest,Card,Economy
+981,462,0,1,19,0,1,0,2,296,Bus,Easiest,Cash,First Class
+8207,314,0,0,19,2,0,1,2,149,Airline,Fastest,UPI,First Class
+7082,634,0,1,7,0,0,1,2,186,Bus,Fastest,UPI,First Class
+1853,380,1,1,5,2,0,0,2,265,Airline,Fastest,Cash,First Class
+4191,90,0,0,19,1,1,1,2,221,Train,Easiest,UPI,First Class
+7496,407,1,1,19,0,1,1,2,223,Bus,Easiest,UPI,First Class
+6194,321,1,0,7,1,1,0,0,193,Train,Easiest,Cash,Economy
+4214,502,1,0,3,0,0,0,2,109,Bus,Fastest,Cash,First Class
+6859,597,0,0,14,1,1,0,1,103,Train,Easiest,Cash,Business
+2752,463,0,0,16,0,1,1,0,183,Bus,Easiest,UPI,Economy
+1872,380,0,1,2,0,0,1,1,205,Bus,Fastest,UPI,Business
+1765,282,0,1,22,0,1,0,0,276,Bus,Easiest,Cash,Economy
+8794,312,1,1,6,1,0,0,2,180,Train,Fastest,Cash,First Class
+3320,55,0,1,5,1,1,1,1,266,Train,Easiest,UPI,Business
+8229,60,0,0,17,0,1,0,2,129,Bus,Easiest,Cash,First Class
+3382,651,1,0,14,1,1,1,1,192,Train,Easiest,UPI,Business
+1149,567,0,0,22,1,0,0,0,204,Train,Fastest,Cash,Economy
+4458,442,1,1,3,1,1,2,2,198,Train,Easiest,Card,First Class
+2008,81,1,1,21,1,0,1,0,363,Train,Fastest,UPI,Economy
+421,700,1,0,17,2,0,2,2,262,Airline,Fastest,Card,First Class
+4516,617,0,1,7,2,0,1,0,242,Airline,Fastest,UPI,Economy
+792,291,0,1,20,2,1,1,2,299,Airline,Easiest,UPI,First Class
+3764,693,0,0,14,2,1,2,0,142,Airline,Easiest,Card,Economy
+6892,421,1,0,13,1,0,0,0,139,Train,Fastest,Cash,Economy
+8046,521,1,0,7,0,1,1,0,200,Bus,Easiest,UPI,Economy
+3555,557,1,0,19,1,0,0,2,246,Train,Fastest,Cash,First Class
+7158,172,0,0,14,0,1,2,0,128,Bus,Easiest,Card,Economy
+1831,121,1,0,5,2,0,2,2,222,Airline,Fastest,Card,First Class
+9041,115,0,1,21,2,1,0,0,182,Airline,Easiest,Cash,Economy
+1468,485,0,1,21,2,0,0,2,259,Airline,Fastest,Cash,First Class
+5082,577,0,0,3,1,1,2,2,44,Train,Easiest,Card,First Class
+3919,614,1,1,14,0,0,0,0,257,Bus,Fastest,Cash,Economy
+7871,357,1,0,5,0,1,2,0,160,Bus,Easiest,Card,Economy
+5007,639,1,0,20,2,0,0,2,217,Airline,Fastest,Cash,First Class
+4530,199,1,0,14,2,1,2,2,159,Airline,Easiest,Card,First Class
+7917,680,0,1,1,2,1,0,2,88,Airline,Easiest,Cash,First Class
+1548,624,1,0,11,1,0,1,2,233,Train,Fastest,UPI,First Class
+4165,211,1,1,21,2,0,1,2,255,Airline,Fastest,UPI,First Class
+7640,624,1,0,9,2,0,2,1,179,Airline,Fastest,Card,Business
+4737,654,1,1,17,0,1,2,1,300,Bus,Easiest,Card,Business
+5218,185,0,1,0,0,1,0,1,158,Bus,Easiest,Cash,Business
+2432,193,1,0,20,1,1,2,2,302,Train,Easiest,Card,First Class
+3737,302,1,0,19,0,1,0,1,265,Bus,Easiest,Cash,Business
+6574,521,0,1,19,2,0,1,0,263,Airline,Fastest,UPI,Economy
+5013,105,0,0,18,2,0,1,2,209,Airline,Fastest,UPI,First Class
+2774,239,1,0,7,0,1,2,1,278,Bus,Easiest,Card,Business
+4173,74,1,1,17,2,0,1,1,345,Airline,Fastest,UPI,Business
+459,199,1,1,9,1,0,1,0,414,Train,Fastest,UPI,Economy
+617,227,1,1,0,2,1,1,0,283,Airline,Easiest,UPI,Economy
+7801,525,0,0,22,1,0,2,2,112,Train,Fastest,Card,First Class
+6665,502,0,0,8,0,1,1,1,143,Bus,Easiest,UPI,Business
+8570,137,0,1,19,0,1,2,1,255,Bus,Easiest,Card,Business
+8921,662,0,1,22,2,1,1,2,100,Airline,Easiest,UPI,First Class
+6344,610,1,0,10,1,1,1,2,143,Train,Easiest,UPI,First Class
+2308,643,0,0,21,1,1,0,2,140,Train,Easiest,Cash,First Class
+6350,75,1,0,2,1,0,1,2,137,Train,Fastest,UPI,First Class
+8911,598,1,0,13,1,0,1,2,93,Train,Fastest,UPI,First Class
+2160,132,1,1,11,2,0,1,1,317,Airline,Fastest,UPI,Business
+9478,338,0,1,16,2,1,0,0,162,Airline,Easiest,Cash,Economy
+4905,415,1,1,23,2,1,1,1,229,Airline,Easiest,UPI,Business
+7240,298,0,0,9,1,1,1,1,190,Train,Easiest,UPI,Business
+7359,378,0,1,9,1,0,0,2,224,Train,Fastest,Cash,First Class
+2243,278,1,1,12,1,0,2,0,333,Train,Fastest,Card,Economy
+6960,374,1,0,3,1,1,2,2,69,Train,Easiest,Card,First Class
+250,465,0,0,3,0,0,1,0,206,Bus,Fastest,UPI,Economy
+7504,468,1,1,9,1,0,1,2,266,Train,Fastest,UPI,First Class
+1395,211,1,0,2,1,1,2,2,187,Train,Easiest,Card,First Class
+6461,91,0,0,3,1,1,1,2,66,Train,Easiest,UPI,First Class
+3309,111,0,1,14,0,1,1,0,275,Bus,Easiest,UPI,Economy
+6793,299,0,1,2,0,0,0,0,159,Bus,Fastest,Cash,Economy
+7943,380,0,1,11,2,1,2,0,198,Airline,Easiest,Card,Economy
+7656,597,1,0,11,1,0,1,0,183,Train,Fastest,UPI,Economy
+3910,545,1,1,11,1,0,0,2,257,Train,Fastest,Cash,First Class
+7132,290,1,1,9,2,1,1,2,268,Airline,Easiest,UPI,First Class
+1356,144,0,0,4,2,1,1,2,149,Airline,Easiest,UPI,First Class
+8148,665,0,1,14,1,0,0,2,124,Train,Fastest,Cash,First Class
+2825,531,0,0,6,2,1,2,0,198,Airline,Easiest,Card,Economy
+1292,516,1,0,20,2,0,0,2,269,Airline,Fastest,Cash,First Class
+783,291,1,0,1,1,0,1,2,152,Train,Fastest,UPI,First Class
+9034,545,0,1,19,0,1,0,1,219,Bus,Easiest,Cash,Business
+1801,557,0,1,14,1,1,2,0,274,Train,Easiest,Card,Economy
+7062,383,0,1,8,1,1,1,1,216,Train,Easiest,UPI,Business
+3544,577,1,0,15,2,0,1,2,182,Airline,Fastest,UPI,First Class
+9151,139,0,1,7,2,0,0,2,182,Airline,Fastest,Cash,First Class
+4285,581,1,1,18,2,0,2,2,293,Airline,Fastest,Card,First Class
+1098,343,1,1,18,2,0,1,0,397,Airline,Fastest,UPI,Economy
+2353,289,1,0,1,0,1,2,1,181,Bus,Easiest,Card,Business
+2967,304,0,0,17,2,0,2,1,244,Airline,Fastest,Card,Business
+9406,135,0,0,20,2,1,0,1,161,Airline,Easiest,Cash,Business
+2674,610,0,0,16,2,0,2,2,121,Airline,Fastest,Card,First Class
+2487,154,0,0,0,0,0,0,0,154,Bus,Fastest,Cash,Economy
+366,94,1,1,13,1,0,0,0,349,Train,Fastest,Cash,Economy
+9244,522,1,0,0,2,0,1,0,84,Airline,Fastest,UPI,Economy
+6205,422,0,1,1,2,0,2,1,160,Airline,Fastest,Card,Business
+1493,633,0,1,8,1,0,0,1,287,Train,Fastest,Cash,Business
+5168,448,1,0,1,0,0,2,0,112,Bus,Fastest,Card,Economy
+3088,33,1,1,10,2,1,1,0,336,Airline,Easiest,UPI,Economy
+5529,50,0,1,13,2,1,1,1,229,Airline,Easiest,UPI,Business
+6538,409,1,0,22,0,0,1,0,181,Bus,Fastest,UPI,Economy
+7423,584,1,0,12,2,1,2,1,142,Airline,Easiest,Card,Business
+6117,605,0,1,13,2,0,1,2,165,Airline,Fastest,UPI,First Class
+2407,416,1,0,12,2,1,0,2,182,Airline,Easiest,Cash,First Class
+9200,562,0,1,16,2,1,2,0,170,Airline,Easiest,Card,Economy
+6065,61,1,1,5,1,1,0,2,230,Train,Easiest,Cash,First Class
+3978,159,0,0,4,1,1,1,2,122,Train,Easiest,UPI,First Class
+8652,621,0,1,0,1,0,2,0,130,Train,Fastest,Card,Economy
+9465,407,0,0,14,1,1,2,1,31,Train,Easiest,Card,Business
+2029,501,1,1,9,2,0,2,2,326,Airline,Fastest,Card,First Class
+3129,106,0,0,8,0,1,0,1,238,Bus,Easiest,Cash,Business
+4462,211,0,0,19,1,1,2,2,222,Train,Easiest,Card,First Class
+4430,405,1,0,3,2,1,2,1,129,Airline,Easiest,Card,Business
+6208,527,0,1,13,2,0,0,2,176,Airline,Fastest,Cash,First Class
+6115,538,0,0,23,0,0,2,1,130,Bus,Fastest,Card,Business
+3697,380,1,1,1,1,0,0,0,245,Train,Fastest,Cash,Economy
+3010,545,0,1,23,1,0,0,0,292,Train,Fastest,Cash,Economy
+8054,562,0,0,22,1,1,0,0,119,Train,Easiest,Cash,Economy
+6481,585,1,0,15,0,0,1,2,135,Bus,Fastest,UPI,First Class
+1066,123,0,1,0,2,0,1,0,292,Airline,Fastest,UPI,Economy
+5260,220,1,0,23,0,1,0,1,168,Bus,Easiest,Cash,Business
+972,613,0,0,1,0,1,0,1,83,Bus,Easiest,Cash,Business
+175,525,1,0,16,2,1,2,2,193,Airline,Easiest,Card,First Class
+5461,330,0,0,18,2,1,1,2,169,Airline,Easiest,UPI,First Class
+6852,382,0,1,8,1,0,1,2,235,Train,Fastest,UPI,First Class
+1543,669,0,1,6,1,0,0,2,223,Train,Fastest,Cash,First Class
+5544,76,0,1,17,2,1,0,2,257,Airline,Easiest,Cash,First Class
+3101,100,1,1,6,2,1,1,1,259,Airline,Easiest,UPI,Business
+4064,375,0,1,16,0,1,1,2,191,Bus,Easiest,UPI,First Class
+7233,69,1,1,6,2,0,2,1,276,Airline,Fastest,Card,Business
+8347,229,1,0,10,0,1,2,1,107,Bus,Easiest,Card,Business
+6750,171,0,1,10,0,1,1,1,190,Bus,Easiest,UPI,Business
+7456,664,1,1,2,1,1,0,0,149,Train,Easiest,Cash,Economy
+9349,217,0,0,17,1,1,0,0,157,Train,Easiest,Cash,Economy
+551,644,0,0,3,0,0,1,2,110,Bus,Fastest,UPI,First Class
+6455,127,0,0,10,1,1,2,1,175,Train,Easiest,Card,Business
+2855,679,0,1,22,2,1,0,1,207,Airline,Easiest,Cash,Business
+4491,115,0,0,2,2,0,0,1,138,Airline,Fastest,Cash,Business
+9371,395,0,0,5,1,0,0,1,66,Train,Fastest,Cash,Business
+1918,375,0,0,11,2,1,1,2,174,Airline,Easiest,UPI,First Class
+7277,319,0,1,3,1,0,0,1,131,Train,Fastest,Cash,Business
+9123,80,1,1,20,0,0,2,0,352,Bus,Fastest,Card,Economy
+4816,666,0,1,23,0,0,2,2,178,Bus,Fastest,Card,First Class
+2041,33,1,1,4,0,0,1,0,268,Bus,Fastest,UPI,Economy
+4756,95,0,1,20,2,0,0,2,277,Airline,Fastest,Cash,First Class
+5618,660,0,1,11,0,1,2,2,142,Bus,Easiest,Card,First Class
+6455,102,0,0,13,1,0,2,0,189,Train,Fastest,Card,Economy
+6617,614,1,0,2,2,1,2,1,71,Airline,Easiest,Card,Business
+4058,520,1,0,22,0,0,2,1,175,Bus,Fastest,Card,Business
+5125,624,1,0,0,0,1,1,1,72,Bus,Easiest,UPI,Business
+2675,372,1,0,6,0,1,0,0,244,Bus,Easiest,Cash,Economy
+8181,247,1,1,8,0,1,0,1,270,Bus,Easiest,Cash,Business
+3110,626,0,0,21,2,0,0,0,175,Airline,Fastest,Cash,Economy
+5141,368,0,0,0,2,0,2,0,89,Airline,Fastest,Card,Economy
+860,394,0,0,20,2,1,2,1,222,Airline,Easiest,Card,Business
+4080,44,0,0,2,1,1,1,0,176,Train,Easiest,UPI,Economy
+206,318,1,1,10,2,1,1,2,276,Airline,Easiest,UPI,First Class
+3148,119,0,1,9,0,1,0,0,333,Bus,Easiest,Cash,Economy
+3035,38,0,1,11,1,0,0,1,272,Train,Fastest,Cash,Business
+7668,504,0,0,0,1,0,0,1,56,Train,Fastest,Cash,Business
+9123,36,0,0,13,2,0,0,2,77,Airline,Fastest,Cash,First Class
+2900,99,1,0,16,2,1,2,0,242,Airline,Easiest,Card,Economy
+7206,138,0,1,6,2,1,1,2,157,Airline,Easiest,UPI,First Class
+9121,113,1,1,22,1,0,2,2,232,Train,Fastest,Card,First Class
+828,81,1,0,15,2,0,0,2,252,Airline,Fastest,Cash,First Class
+6251,653,0,1,5,2,1,1,1,180,Airline,Easiest,UPI,Business
+8519,171,0,1,5,0,0,0,2,130,Bus,Fastest,Cash,First Class
+3602,659,1,0,20,0,0,2,0,266,Bus,Fastest,Card,Economy
+4666,528,1,0,23,0,0,0,1,161,Bus,Fastest,Cash,Business
+5996,621,0,0,21,0,0,0,0,84,Bus,Fastest,Cash,Economy
+4638,182,0,0,4,2,1,1,1,70,Airline,Easiest,UPI,Business
+2183,135,0,1,22,0,0,0,2,255,Bus,Fastest,Cash,First Class
+870,446,1,1,6,0,0,1,2,291,Bus,Fastest,UPI,First Class
+3881,480,1,1,11,1,0,2,2,258,Train,Fastest,Card,First Class
+475,697,0,0,13,2,0,1,1,206,Airline,Fastest,UPI,Business
+6295,652,0,0,18,2,0,0,0,177,Airline,Fastest,Cash,Economy
+8967,312,0,1,12,0,0,2,0,214,Bus,Fastest,Card,Economy
+3426,151,1,1,0,2,0,1,1,228,Airline,Fastest,UPI,Business
+6943,432,1,0,12,0,1,0,0,148,Bus,Easiest,Cash,Economy
+9444,554,1,1,11,0,1,2,1,164,Bus,Easiest,Card,Business
+5023,67,1,1,12,0,1,2,0,259,Bus,Easiest,Card,Economy
+3781,611,1,1,0,1,1,0,1,209,Train,Easiest,Cash,Business
+6413,167,1,0,2,1,0,1,0,205,Train,Fastest,UPI,Economy
+6832,170,1,1,8,2,0,0,2,251,Airline,Fastest,Cash,First Class
+743,576,1,0,23,2,1,0,2,187,Airline,Easiest,Cash,First Class
+4033,348,0,1,8,0,0,2,1,287,Bus,Fastest,Card,Business
+4715,501,0,1,21,0,1,2,0,180,Bus,Easiest,Card,Economy
+3784,281,1,0,1,2,0,0,0,169,Airline,Fastest,Cash,Economy
+8767,541,1,0,11,2,1,1,1,91,Airline,Easiest,UPI,Business
+6496,607,1,1,10,1,1,2,2,223,Train,Easiest,Card,First Class
+4495,680,1,0,11,0,1,1,2,114,Bus,Easiest,UPI,First Class
+7836,307,1,1,23,2,1,0,1,205,Airline,Easiest,Cash,Business
+1395,211,1,1,11,0,0,2,1,323,Bus,Fastest,Card,Business
+5119,550,0,1,5,1,0,1,1,194,Train,Fastest,UPI,Business
+7418,216,0,0,0,1,1,0,0,89,Train,Easiest,Cash,Economy
+6128,632,0,1,5,1,0,1,0,259,Train,Fastest,UPI,Economy
+9020,627,0,0,5,1,0,1,1,78,Train,Fastest,UPI,Business
+5161,248,0,1,18,1,0,2,1,305,Train,Fastest,Card,Business
+396,60,0,1,16,1,0,0,0,382,Train,Fastest,Cash,Economy
+1400,407,1,0,17,1,1,0,0,288,Train,Easiest,Cash,Economy
+4677,210,1,1,8,1,1,0,0,387,Train,Easiest,Cash,Economy
+8246,228,0,0,22,2,1,1,2,91,Airline,Easiest,UPI,First Class
+7386,503,1,0,18,1,1,2,1,195,Train,Easiest,Card,Business
+6763,222,0,1,0,0,1,0,2,132,Bus,Easiest,Cash,First Class
+5950,186,1,0,0,1,1,2,2,87,Train,Easiest,Card,First Class
+847,67,0,0,15,2,0,2,0,260,Airline,Fastest,Card,Economy
+7687,229,0,1,0,2,1,0,2,108,Airline,Easiest,Cash,First Class
+2122,252,1,0,15,0,0,0,0,253,Bus,Fastest,Cash,Economy
+5851,187,1,0,23,0,0,2,2,186,Bus,Fastest,Card,First Class
+8040,282,1,0,23,1,1,2,2,139,Train,Easiest,Card,First Class
+2868,184,1,0,22,2,0,2,2,221,Airline,Fastest,Card,First Class
+2955,31,1,1,15,2,0,1,0,350,Airline,Fastest,UPI,Economy
+1527,549,1,0,15,1,0,0,2,217,Train,Fastest,Cash,First Class
+7622,76,0,1,19,1,0,2,0,311,Train,Fastest,Card,Economy
+732,131,0,1,3,0,1,0,1,212,Bus,Easiest,Cash,Business
+9170,257,0,0,15,2,1,2,1,69,Airline,Easiest,Card,Business
+6695,519,0,1,14,1,0,0,0,204,Train,Fastest,Cash,Economy
+3650,186,0,0,22,2,0,2,0,200,Airline,Fastest,Card,Economy
+2622,384,0,0,5,2,1,1,0,178,Airline,Easiest,UPI,Economy
+6277,217,1,0,11,2,0,1,0,217,Airline,Fastest,UPI,Economy
+7944,280,0,0,17,0,1,1,2,124,Bus,Easiest,UPI,First Class
+8157,312,0,0,0,1,1,0,2,65,Train,Easiest,Cash,First Class
+9302,361,0,0,21,0,0,1,0,95,Bus,Fastest,UPI,Economy
+6674,88,1,1,7,2,1,2,1,286,Airline,Easiest,Card,Business
+4635,517,0,1,10,1,0,0,2,203,Train,Fastest,Cash,First Class
+1202,407,0,1,23,1,0,0,2,254,Train,Fastest,Cash,First Class
+5505,468,1,0,18,2,0,2,2,184,Airline,Fastest,Card,First Class
+6259,636,0,1,14,2,1,1,0,220,Airline,Easiest,UPI,Economy
+2346,48,1,0,13,0,0,0,2,229,Bus,Fastest,Cash,First Class
+8228,128,0,0,4,1,0,0,2,59,Train,Fastest,Cash,First Class
+6711,503,1,1,1,2,1,0,0,204,Airline,Easiest,Cash,Economy
+2802,466,1,1,7,0,0,0,1,300,Bus,Fastest,Cash,Business
+563,501,1,1,20,2,1,1,0,364,Airline,Easiest,UPI,Economy
+3507,676,1,0,3,2,0,2,1,116,Airline,Fastest,Card,Business
+8496,622,1,0,7,0,0,0,0,188,Bus,Fastest,Cash,Economy
+2083,630,0,1,0,1,1,1,1,212,Train,Easiest,UPI,Business
+7572,320,1,0,22,0,0,0,1,136,Bus,Fastest,Cash,Business
+9295,505,1,1,9,2,1,1,1,222,Airline,Easiest,UPI,Business
+7475,346,0,1,6,1,1,1,2,190,Train,Easiest,UPI,First Class
+653,293,1,0,0,1,0,1,1,210,Train,Fastest,UPI,Business
+716,632,1,1,18,1,0,1,1,350,Train,Fastest,UPI,Business
+1395,142,1,0,18,2,1,0,1,309,Airline,Easiest,Cash,Business
+7734,38,0,1,11,0,0,2,0,248,Bus,Fastest,Card,Economy
+7680,453,0,1,9,0,0,1,2,196,Bus,Fastest,UPI,First Class
+9268,613,1,1,11,1,1,2,1,197,Train,Easiest,Card,Business
+4163,335,1,1,9,2,0,1,2,305,Airline,Fastest,UPI,First Class
+5102,656,0,1,18,2,0,2,0,279,Airline,Fastest,Card,Economy
+4334,312,1,1,7,2,1,1,1,345,Airline,Easiest,UPI,Business
+9297,205,0,0,1,2,1,2,1,39,Airline,Easiest,Card,Business
+2202,649,1,0,18,2,1,0,0,296,Airline,Easiest,Cash,Economy
+9455,486,0,0,22,0,0,1,0,131,Bus,Fastest,UPI,Economy
+7946,364,1,1,6,1,1,1,1,197,Train,Easiest,UPI,Business
+2158,68,0,0,1,1,1,2,1,168,Train,Easiest,Card,Business
+5087,420,0,0,23,2,0,2,0,163,Airline,Fastest,Card,Economy
+5928,139,0,0,6,2,1,1,1,134,Airline,Easiest,UPI,Business
+5936,571,1,0,10,2,1,2,2,148,Airline,Easiest,Card,First Class
+9199,470,0,0,2,1,1,2,1,5,Train,Easiest,Card,Business
+3199,295,1,1,12,0,0,0,0,317,Bus,Fastest,Cash,Economy
+887,239,1,0,6,1,0,2,2,237,Train,Fastest,Card,First Class
+2323,64,0,0,9,1,1,0,1,239,Train,Easiest,Cash,Business
+406,338,0,1,22,2,1,2,2,266,Airline,Easiest,Card,First Class
+6592,583,0,0,17,2,1,2,2,156,Airline,Easiest,Card,First Class
+4697,420,0,0,20,0,1,1,1,182,Bus,Easiest,UPI,Business
+1155,506,1,0,1,1,0,1,0,228,Train,Fastest,UPI,Economy
+6106,78,0,0,17,2,1,1,1,229,Airline,Easiest,UPI,Business
+5643,215,1,1,23,0,0,0,0,259,Bus,Fastest,Cash,Economy
+3930,39,0,0,4,1,1,2,0,167,Train,Easiest,Card,Economy
+3631,239,0,0,0,0,0,1,1,113,Bus,Fastest,UPI,Business
+2112,468,1,1,0,1,1,0,1,234,Train,Easiest,Cash,Business
+5791,352,0,0,5,1,1,0,0,192,Train,Easiest,Cash,Economy
+3881,625,1,1,5,0,0,0,1,249,Bus,Fastest,Cash,Business
+2259,77,0,1,14,0,0,0,1,254,Bus,Fastest,Cash,Business
+2269,329,0,1,1,1,1,1,2,152,Train,Easiest,UPI,First Class
+9053,503,0,1,20,2,1,1,1,180,Airline,Easiest,UPI,Business
+3096,300,0,1,11,2,0,2,1,254,Airline,Fastest,Card,Business
+2624,510,0,1,16,0,0,0,1,192,Bus,Fastest,Cash,Business
+5723,424,1,1,22,1,0,0,1,224,Train,Fastest,Cash,Business
+4181,672,0,1,18,0,0,0,0,317,Bus,Fastest,Cash,Economy
+2053,573,1,0,7,2,1,2,2,258,Airline,Easiest,Card,First Class
+6914,658,0,0,14,0,1,1,2,86,Bus,Easiest,UPI,First Class
+3795,642,0,1,3,2,1,2,1,149,Airline,Easiest,Card,Business
+3019,642,1,0,15,0,0,0,0,233,Bus,Fastest,Cash,Economy
+4270,285,0,1,5,0,0,1,1,202,Bus,Fastest,UPI,Business
+2551,177,0,1,5,1,1,2,1,247,Train,Easiest,Card,Business
+3251,229,0,0,6,1,1,1,1,174,Train,Easiest,UPI,Business
+403,342,1,1,0,1,1,0,0,311,Train,Easiest,Cash,Economy
+6285,549,1,0,19,1,0,2,1,226,Train,Fastest,Card,Business
+8240,293,0,1,13,2,0,0,2,146,Airline,Fastest,Cash,First Class
+4491,219,1,1,15,1,0,0,1,260,Train,Fastest,Cash,Business
+9393,187,0,1,2,1,1,2,0,164,Train,Easiest,Card,Economy
+555,699,1,0,4,2,1,0,0,193,Airline,Easiest,Cash,Economy
+5385,450,0,0,4,2,1,1,2,50,Airline,Easiest,UPI,First Class
+7241,280,1,0,20,1,0,2,2,202,Train,Fastest,Card,First Class
+4960,214,0,1,12,0,1,2,1,209,Bus,Easiest,Card,Business
+9131,377,0,0,6,2,0,0,2,54,Airline,Fastest,Cash,First Class
+8919,71,0,1,18,2,0,2,0,295,Airline,Fastest,Card,Economy
+2996,185,0,0,2,1,1,2,2,135,Train,Easiest,Card,First Class
+1945,411,0,1,17,1,1,1,1,332,Train,Easiest,UPI,Business
+1897,573,1,1,17,2,0,1,1,337,Airline,Fastest,UPI,Business
+5106,166,0,0,12,0,1,1,2,118,Bus,Easiest,UPI,First Class
+5239,563,1,1,20,1,1,1,2,286,Train,Easiest,UPI,First Class
+5192,151,1,0,6,1,0,0,2,215,Train,Fastest,Cash,First Class
+2472,213,0,0,5,0,1,2,0,235,Bus,Easiest,Card,Economy
+845,321,0,1,17,0,0,1,2,297,Bus,Fastest,UPI,First Class
+9411,144,0,1,19,1,0,1,2,237,Train,Fastest,UPI,First Class
+4649,619,0,0,16,2,0,0,2,92,Airline,Fastest,Cash,First Class
+7177,462,1,0,23,2,0,2,0,164,Airline,Fastest,Card,Economy
+1122,35,1,0,23,0,1,0,2,200,Bus,Easiest,Cash,First Class
+163,359,0,1,5,1,0,2,0,341,Train,Fastest,Card,Economy
+9108,31,1,0,13,2,0,2,2,135,Airline,Fastest,Card,First Class
+7490,437,1,0,14,1,0,0,0,167,Train,Fastest,Cash,Economy
+9206,241,1,0,6,1,1,2,0,140,Train,Easiest,Card,Economy
+8985,442,0,1,14,0,0,1,2,128,Bus,Fastest,UPI,First Class
+5092,141,0,0,6,0,0,0,0,171,Bus,Fastest,Cash,Economy
+8956,550,0,1,5,1,0,2,1,142,Train,Fastest,Card,Business
+5430,50,1,1,15,1,0,2,0,291,Train,Fastest,Card,Economy
+6165,625,0,0,20,2,0,2,1,176,Airline,Fastest,Card,Business
+4152,106,0,1,19,1,1,0,1,336,Train,Easiest,Cash,Business
+5872,637,1,0,17,2,1,1,2,173,Airline,Easiest,UPI,First Class
+8250,212,0,0,22,1,1,1,2,120,Train,Easiest,UPI,First Class
+6399,204,1,0,4,1,1,0,1,121,Train,Easiest,Cash,Business
+8410,637,0,1,10,0,1,2,1,124,Bus,Easiest,Card,Business
+7380,335,0,0,14,1,1,0,2,92,Train,Easiest,Cash,First Class
+6850,463,1,0,14,2,1,1,0,146,Airline,Easiest,UPI,Economy
+7592,344,1,1,17,1,1,1,1,284,Train,Easiest,UPI,Business
+1333,551,0,1,3,1,1,0,1,208,Train,Easiest,Cash,Business
+5725,241,1,0,12,1,0,1,1,181,Train,Fastest,UPI,Business
+5277,40,0,1,0,1,0,0,0,225,Train,Fastest,Cash,Economy
+7615,70,1,1,9,2,0,0,2,279,Airline,Fastest,Cash,First Class
+3035,307,1,1,16,0,0,0,2,271,Bus,Fastest,Cash,First Class
+3212,72,1,1,9,2,0,2,2,322,Airline,Fastest,Card,First Class
+7861,298,0,1,13,0,0,0,1,174,Bus,Fastest,Cash,Business
+874,30,0,0,21,1,1,2,1,197,Train,Easiest,Card,Business
+1768,636,1,0,0,1,1,1,0,160,Train,Easiest,UPI,Economy
+3238,478,1,1,14,2,0,2,1,252,Airline,Fastest,Card,Business
+419,699,0,1,5,1,0,0,0,270,Train,Fastest,Cash,Economy
+6200,155,0,0,8,1,1,1,0,226,Train,Easiest,UPI,Economy
+808,432,1,1,21,1,1,2,1,318,Train,Easiest,Card,Business
+5029,69,1,0,4,0,1,1,2,115,Bus,Easiest,UPI,First Class
+7246,519,0,1,13,0,0,0,0,167,Bus,Fastest,Cash,Economy
+3630,680,1,1,0,1,1,1,1,192,Train,Easiest,UPI,Business
+6470,340,1,1,11,2,0,2,1,227,Airline,Fastest,Card,Business
+3897,577,0,1,0,1,0,0,1,172,Train,Fastest,Cash,Business
+5556,386,0,0,5,2,0,0,2,106,Airline,Fastest,Cash,First Class
+3128,123,0,1,7,2,0,2,1,321,Airline,Fastest,Card,Business
+8204,190,1,1,17,2,0,2,1,258,Airline,Fastest,Card,Business
+5363,597,1,0,5,2,1,0,2,113,Airline,Easiest,Cash,First Class
+5773,173,1,0,12,0,1,1,1,163,Bus,Easiest,UPI,Business
+996,374,0,0,11,1,0,1,1,201,Train,Fastest,UPI,Business
+7540,344,1,1,7,1,0,1,0,305,Train,Fastest,UPI,Economy
+4946,144,1,0,11,2,1,2,2,210,Airline,Easiest,Card,First Class
+7627,234,1,1,19,0,0,1,0,292,Bus,Fastest,UPI,Economy
+3741,229,0,0,13,0,0,2,0,192,Bus,Fastest,Card,Economy
+4026,689,0,1,1,2,1,2,2,144,Airline,Easiest,Card,First Class
+9222,99,1,0,15,2,1,0,0,135,Airline,Easiest,Cash,Economy
+4773,598,1,0,10,2,0,1,0,211,Airline,Fastest,UPI,Economy
+6794,364,0,1,23,0,1,2,0,218,Bus,Easiest,Card,Economy
+1763,554,0,1,13,2,1,0,1,221,Airline,Easiest,Cash,Business
+1535,520,1,1,5,2,1,2,0,320,Airline,Easiest,Card,Economy
+5185,259,0,1,4,2,1,1,2,149,Airline,Easiest,UPI,First Class
+5694,83,0,0,3,0,1,1,0,110,Bus,Easiest,UPI,Economy
+377,574,0,1,5,0,0,2,2,215,Bus,Fastest,Card,First Class
+4810,204,1,1,8,2,1,2,2,309,Airline,Easiest,Card,First Class
+7600,626,1,1,5,2,1,1,1,170,Airline,Easiest,UPI,Business
+8618,159,0,0,5,0,0,1,2,72,Bus,Fastest,UPI,First Class
+7681,581,0,0,9,2,0,2,2,136,Airline,Fastest,Card,First Class
+1442,503,0,1,18,2,1,1,1,297,Airline,Easiest,UPI,Business
+1720,302,0,1,15,0,1,2,0,300,Bus,Easiest,Card,Economy
+586,244,1,1,17,0,0,2,0,423,Bus,Fastest,Card,Economy
+8155,581,0,1,10,2,0,0,2,129,Airline,Fastest,Cash,First Class
+9485,675,0,0,14,1,0,1,1,43,Train,Fastest,UPI,Business
+2521,603,1,1,18,0,0,1,0,335,Bus,Fastest,UPI,Economy
+8367,581,0,1,23,0,1,0,0,132,Bus,Easiest,Cash,Economy
+6564,50,0,0,18,0,0,0,0,248,Bus,Fastest,Cash,Economy
+9496,515,1,0,20,1,1,0,0,190,Train,Easiest,Cash,Economy
+7089,73,0,1,17,0,0,0,1,243,Bus,Fastest,Cash,Business
+5004,247,1,0,12,0,1,2,2,194,Bus,Easiest,Card,First Class
+8229,240,1,1,4,1,0,0,2,141,Train,Fastest,Cash,First Class
+6669,611,0,0,11,0,0,2,0,139,Bus,Fastest,Card,Economy
+5570,587,1,1,2,1,1,1,2,167,Train,Easiest,UPI,First Class
+6421,414,0,1,18,0,1,1,0,294,Bus,Easiest,UPI,Economy
+1759,418,1,0,12,2,0,2,0,266,Airline,Fastest,Card,Economy
+7825,527,0,1,0,0,1,2,1,60,Bus,Easiest,Card,Business
+6815,34,1,0,9,0,0,1,1,237,Bus,Fastest,UPI,Business
+6853,108,0,0,19,2,1,1,2,214,Airline,Easiest,UPI,First Class
+3454,372,1,1,8,0,1,0,0,342,Bus,Easiest,Cash,Economy
+120,168,1,0,0,1,0,1,1,256,Train,Fastest,UPI,Business
+3516,462,0,0,8,2,1,2,1,178,Airline,Easiest,Card,Business
+3866,636,1,0,0,2,1,2,0,146,Airline,Easiest,Card,Economy
+6954,537,1,1,22,2,0,2,0,242,Airline,Fastest,Card,Economy
+4658,658,1,1,10,1,0,2,0,289,Train,Fastest,Card,Economy
+5484,580,1,0,15,0,1,1,0,218,Bus,Easiest,UPI,Economy
+9157,603,0,0,12,1,0,0,1,75,Train,Fastest,Cash,Business
+3512,634,0,1,6,2,1,1,2,185,Airline,Easiest,UPI,First Class
+3744,269,0,1,9,1,1,0,1,247,Train,Easiest,Cash,Business
+1644,268,0,0,19,0,1,0,2,242,Bus,Easiest,Cash,First Class
+479,220,0,1,4,1,1,0,0,231,Train,Easiest,Cash,Economy
+4392,99,0,0,2,2,0,2,2,92,Airline,Fastest,Card,First Class
+219,304,1,0,0,0,1,2,2,189,Bus,Easiest,Card,First Class
+4558,132,0,0,8,1,0,2,2,242,Train,Fastest,Card,First Class
+5171,131,0,0,8,2,1,0,2,194,Airline,Easiest,Cash,First Class
+9242,516,0,1,8,2,1,0,0,207,Airline,Easiest,Cash,Economy
+8226,335,0,0,9,0,1,2,2,130,Bus,Easiest,Card,First Class
+3605,206,1,0,3,2,0,0,0,175,Airline,Fastest,Cash,Economy
+1725,420,0,0,15,0,0,2,1,196,Bus,Fastest,Card,Business
+7450,698,0,0,4,0,0,2,1,23,Bus,Fastest,Card,Business
+6884,168,0,1,6,1,0,0,1,197,Train,Fastest,Cash,Business
+7716,517,1,0,1,0,1,0,0,70,Bus,Easiest,Cash,Economy
+301,56,1,0,19,1,0,0,0,401,Train,Fastest,Cash,Economy
+7496,205,0,0,3,0,1,2,0,82,Bus,Easiest,Card,Economy
+1338,700,1,1,4,0,0,0,1,189,Bus,Fastest,Cash,Business
+5280,316,1,0,15,0,0,2,0,199,Bus,Fastest,Card,Economy
+4307,343,0,1,1,0,0,1,1,171,Bus,Fastest,UPI,Business
+2258,218,1,0,2,2,1,0,0,186,Airline,Easiest,Cash,Economy
+4521,114,0,0,18,1,1,2,1,252,Train,Easiest,Card,Business
+7873,214,1,0,6,2,0,1,2,128,Airline,Fastest,UPI,First Class
+3780,163,1,1,2,2,1,2,1,216,Airline,Easiest,Card,Business
+9229,54,0,1,11,2,1,2,2,143,Airline,Easiest,Card,First Class
+2253,138,0,0,10,2,0,0,1,206,Airline,Fastest,Cash,Business
+8955,444,1,1,8,1,1,2,2,222,Train,Easiest,Card,First Class
+6315,90,0,1,9,1,1,0,2,262,Train,Easiest,Cash,First Class
+3880,478,0,0,18,0,1,1,2,191,Bus,Easiest,UPI,First Class
+7262,337,0,0,12,2,0,1,2,89,Airline,Fastest,UPI,First Class
+2194,232,1,0,8,2,1,2,1,272,Airline,Easiest,Card,Business
+740,546,0,0,7,2,1,1,1,277,Airline,Easiest,UPI,Business
+7172,221,0,0,5,0,0,0,2,90,Bus,Fastest,Cash,First Class
+2531,44,1,1,0,0,0,0,0,251,Bus,Fastest,Cash,Economy
+437,48,1,0,9,2,1,1,0,328,Airline,Easiest,UPI,Economy
+155,558,0,0,8,0,1,0,0,239,Bus,Easiest,Cash,Economy
+1612,423,0,0,4,2,1,0,1,117,Airline,Easiest,Cash,Business
+8815,621,1,0,12,0,1,1,2,54,Bus,Easiest,UPI,First Class
+1446,590,1,1,8,1,0,0,0,393,Train,Fastest,Cash,Economy
+8538,313,0,0,13,0,0,2,0,119,Bus,Fastest,Card,Economy
+7401,114,0,0,10,0,1,2,1,112,Bus,Easiest,Card,Business
+9493,346,0,0,6,2,1,2,0,105,Airline,Easiest,Card,Economy
+1220,401,0,1,7,1,1,1,0,336,Train,Easiest,UPI,Economy
+4202,320,1,1,13,1,0,2,0,312,Train,Fastest,Card,Economy
+1664,89,0,1,20,2,0,0,2,327,Airline,Fastest,Cash,First Class
+8406,185,0,0,16,1,1,0,0,97,Train,Easiest,Cash,Economy
+6507,174,0,1,16,0,1,1,2,176,Bus,Easiest,UPI,First Class
+3825,397,0,1,9,0,0,1,1,286,Bus,Fastest,UPI,Business
+385,38,1,0,5,2,0,2,0,283,Airline,Fastest,Card,Economy
+9094,148,1,0,20,0,1,1,2,177,Bus,Easiest,UPI,First Class
+393,323,1,0,1,0,1,2,0,215,Bus,Easiest,Card,Economy
+6791,54,0,0,4,2,0,2,0,131,Airline,Fastest,Card,Economy
+7608,118,0,0,23,2,0,0,0,95,Airline,Fastest,Cash,Economy
+7099,100,1,0,4,0,1,2,2,72,Bus,Easiest,Card,First Class
+6231,41,1,1,13,1,0,2,1,266,Train,Fastest,Card,Business
+5104,700,0,0,14,1,0,2,1,150,Train,Fastest,Card,Business
+6372,55,0,0,10,0,0,1,1,141,Bus,Fastest,UPI,Business
+3458,346,1,0,8,0,1,2,1,214,Bus,Easiest,Card,Business
+1461,532,1,0,5,1,0,2,2,226,Train,Fastest,Card,First Class
+3102,433,1,0,16,1,1,2,1,222,Train,Easiest,Card,Business
+5852,439,0,0,8,0,1,1,2,118,Bus,Easiest,UPI,First Class
+4516,668,1,1,14,0,0,2,0,263,Bus,Fastest,Card,Economy
+3502,400,0,0,13,0,1,2,2,113,Bus,Easiest,Card,First Class
+2485,158,0,1,8,0,1,0,1,302,Bus,Easiest,Cash,Business
+6969,417,0,0,4,0,1,2,1,59,Bus,Easiest,Card,Business
+5937,197,1,1,18,0,0,1,2,278,Bus,Fastest,UPI,First Class
+4628,319,0,0,3,2,1,0,2,47,Airline,Easiest,Cash,First Class
+7695,285,0,1,7,1,0,1,2,229,Train,Fastest,UPI,First Class
+4810,542,0,0,16,2,1,2,1,63,Airline,Easiest,Card,Business
+6738,295,0,1,3,0,0,0,0,144,Bus,Fastest,Cash,Economy
+2737,409,1,0,21,2,1,0,2,190,Airline,Easiest,Cash,First Class
+2040,441,0,1,19,2,1,0,0,354,Airline,Easiest,Cash,Economy
+8237,175,0,1,1,0,0,0,0,159,Bus,Fastest,Cash,Economy
+7419,593,0,0,2,1,0,0,0,70,Train,Fastest,Cash,Economy
+4979,516,0,0,3,2,1,2,0,77,Airline,Easiest,Card,Economy
+9189,454,0,0,20,1,0,1,2,129,Train,Fastest,UPI,First Class
+934,549,1,0,18,2,1,2,1,284,Airline,Easiest,Card,Business
+6074,39,0,0,6,1,1,0,1,141,Train,Easiest,Cash,Business
+8785,199,0,0,15,0,1,2,2,82,Bus,Easiest,Card,First Class
+7767,643,0,0,14,0,1,0,1,58,Bus,Easiest,Cash,Business
+550,595,0,1,4,0,0,2,2,197,Bus,Fastest,Card,First Class
+6394,287,1,1,3,2,0,1,1,174,Airline,Fastest,UPI,Business
+3814,71,1,1,17,0,0,0,1,321,Bus,Fastest,Cash,Business
+9095,405,1,1,16,0,0,0,2,153,Bus,Fastest,Cash,First Class
+4308,330,0,0,6,1,0,0,0,184,Train,Fastest,Cash,Economy
+6398,646,1,1,14,1,1,2,1,216,Train,Easiest,Card,Business
+426,428,1,1,2,1,0,0,2,273,Train,Fastest,Cash,First Class
+6074,175,0,1,1,2,0,1,1,132,Airline,Fastest,UPI,Business
+2478,427,0,0,15,0,0,0,1,199,Bus,Fastest,Cash,Business
+8663,294,0,1,6,2,0,2,2,159,Airline,Fastest,Card,First Class
+3739,621,0,1,17,1,0,0,0,344,Train,Fastest,Cash,Economy
+7064,645,0,0,10,0,0,0,0,103,Bus,Fastest,Cash,Economy
+6134,102,1,1,23,1,1,2,1,239,Train,Easiest,Card,Business
+3886,659,1,0,9,2,0,0,0,261,Airline,Fastest,Cash,Economy
+5438,47,0,1,15,1,1,0,1,201,Train,Easiest,Cash,Business
+7054,155,1,1,7,2,1,1,2,273,Airline,Easiest,UPI,First Class
+1921,170,0,1,15,1,0,0,0,280,Train,Fastest,Cash,Economy
+8255,548,0,1,11,1,0,1,2,133,Train,Fastest,UPI,First Class
+847,642,1,0,7,2,1,0,0,276,Airline,Easiest,Cash,Economy
+6158,316,1,1,14,0,0,1,0,277,Bus,Fastest,UPI,Economy
+7334,134,0,1,6,0,1,0,1,169,Bus,Easiest,Cash,Business
+7975,574,0,1,21,2,0,0,0,178,Airline,Fastest,Cash,Economy
+8073,355,1,0,16,0,0,1,1,151,Bus,Fastest,UPI,Business
+8345,362,1,0,12,0,0,2,0,123,Bus,Fastest,Card,Economy
+5544,295,1,1,4,1,0,2,2,227,Train,Fastest,Card,First Class
+7451,456,1,1,4,0,1,2,1,92,Bus,Easiest,Card,Business
+3489,177,1,0,22,0,1,0,2,144,Bus,Easiest,Cash,First Class
+7896,457,0,1,19,0,0,2,1,209,Bus,Fastest,Card,Business
+8356,516,0,1,21,2,0,1,2,154,Airline,Fastest,UPI,First Class
+6545,635,0,0,1,2,1,1,0,55,Airline,Easiest,UPI,Economy
+4355,36,1,0,21,2,0,1,0,221,Airline,Fastest,UPI,Economy
+5463,640,1,1,8,0,1,0,2,225,Bus,Easiest,Cash,First Class
+5370,451,1,0,23,1,1,1,2,154,Train,Easiest,UPI,First Class
+7248,108,0,0,16,1,0,0,1,152,Train,Fastest,Cash,Business
+3541,442,0,1,23,0,0,0,2,214,Bus,Fastest,Cash,First Class
+2512,523,0,0,2,1,1,2,1,157,Train,Easiest,Card,Business
+7078,651,0,1,3,1,0,0,1,134,Train,Fastest,Cash,Business
+6194,146,1,1,17,1,0,0,1,358,Train,Fastest,Cash,Business
+2979,136,1,0,6,2,0,0,0,272,Airline,Fastest,Cash,Economy
+9416,592,0,0,8,0,1,1,1,87,Bus,Easiest,UPI,Business
+1368,92,1,0,2,1,1,0,0,236,Train,Easiest,Cash,Economy
+3278,486,0,1,21,0,0,1,2,198,Bus,Fastest,UPI,First Class
+3348,243,0,1,14,0,1,1,1,205,Bus,Easiest,UPI,Business
+7318,193,1,1,13,0,0,2,0,237,Bus,Fastest,Card,Economy
+9321,63,1,1,8,0,0,1,2,249,Bus,Fastest,UPI,First Class
+9111,362,0,0,23,2,0,0,1,42,Airline,Fastest,Cash,Business
+2688,535,0,0,5,2,0,1,0,182,Airline,Fastest,UPI,Economy
+9327,469,0,0,13,2,1,1,1,70,Airline,Easiest,UPI,Business
+5525,205,1,0,17,2,1,1,0,262,Airline,Easiest,UPI,Economy
+6221,53,1,0,16,2,1,1,0,205,Airline,Easiest,UPI,Economy
+6959,537,1,1,0,0,0,2,0,157,Bus,Fastest,Card,Economy
+9357,205,0,0,5,0,1,1,0,76,Bus,Easiest,UPI,Economy
+633,316,1,0,18,0,0,0,1,312,Bus,Fastest,Cash,Business
+2939,36,0,0,11,0,0,0,1,184,Bus,Fastest,Cash,Business
+5529,382,0,0,19,2,0,1,1,185,Airline,Fastest,UPI,Business
+647,261,1,1,22,0,0,0,0,360,Bus,Fastest,Cash,Economy
+2757,331,0,1,5,2,1,0,0,258,Airline,Easiest,Cash,Economy
+9345,581,0,0,4,1,1,0,0,34,Train,Easiest,Cash,Economy
+1042,484,1,1,10,2,0,0,0,343,Airline,Fastest,Cash,Economy
+6677,232,0,1,14,1,1,1,0,273,Train,Easiest,UPI,Economy
+1174,45,1,0,19,1,0,2,0,381,Train,Fastest,Card,Economy
+1702,630,0,0,12,1,0,2,0,193,Train,Fastest,Card,Economy
+1736,523,1,0,23,1,0,1,1,220,Train,Fastest,UPI,Business
+8434,674,1,1,12,0,0,2,0,196,Bus,Fastest,Card,Economy
+7075,153,1,0,0,0,0,2,2,126,Bus,Fastest,Card,First Class
+5267,170,1,0,6,0,0,0,1,156,Bus,Fastest,Cash,Business
+3872,369,1,0,10,0,1,0,2,161,Bus,Easiest,Cash,First Class
+1821,336,0,0,16,1,1,2,1,187,Train,Easiest,Card,Business
+2388,297,1,0,11,2,1,0,0,255,Airline,Easiest,Cash,Economy
+3970,290,1,0,18,0,0,1,2,244,Bus,Fastest,UPI,First Class
+8015,534,0,1,15,2,1,2,0,206,Airline,Easiest,Card,Economy
+2887,633,1,1,3,1,0,0,1,205,Train,Fastest,Cash,Business
+7755,585,1,1,8,0,1,2,2,221,Bus,Easiest,Card,First Class
+8739,573,0,0,10,2,1,2,1,44,Airline,Easiest,Card,Business
+2311,444,0,0,23,2,1,1,1,183,Airline,Easiest,UPI,Business
+2857,401,1,0,20,1,1,0,2,273,Train,Easiest,Cash,First Class
+6519,202,0,0,5,1,0,0,2,137,Train,Fastest,Cash,First Class
+6747,202,1,1,5,2,1,0,2,235,Airline,Easiest,Cash,First Class
+4227,214,0,0,5,0,0,1,0,184,Bus,Fastest,UPI,Economy
+287,43,1,1,5,2,1,0,0,379,Airline,Easiest,Cash,Economy
+6815,438,0,1,10,0,1,1,0,204,Bus,Easiest,UPI,Economy
+4770,692,0,0,22,0,0,0,2,104,Bus,Fastest,Cash,First Class
+1482,618,0,0,11,0,0,0,0,175,Bus,Fastest,Cash,Economy
+1522,636,0,1,0,2,0,1,0,232,Airline,Fastest,UPI,Economy
+8765,177,1,1,21,0,1,1,1,173,Bus,Easiest,UPI,Business
+6948,86,1,1,4,1,1,0,2,206,Train,Easiest,Cash,First Class
+8713,392,0,0,18,1,0,1,0,201,Train,Fastest,UPI,Economy
+7385,465,0,0,21,0,0,0,1,104,Bus,Fastest,Cash,Business
+1978,42,1,1,22,0,1,1,0,365,Bus,Easiest,UPI,Economy
+6474,387,1,1,3,2,0,1,0,195,Airline,Fastest,UPI,Economy
+7700,511,1,1,15,1,0,1,2,204,Train,Fastest,UPI,First Class
+4889,214,0,1,13,0,1,1,1,230,Bus,Easiest,UPI,Business
+1739,553,1,0,2,1,0,0,1,166,Train,Fastest,Cash,Business
+2863,323,0,1,9,1,1,0,1,295,Train,Easiest,Cash,Business
+2856,254,1,1,13,1,0,2,1,287,Train,Fastest,Card,Business
+276,199,1,1,17,1,0,1,0,432,Train,Fastest,UPI,Economy
+6948,602,0,1,22,1,0,0,2,127,Train,Fastest,Cash,First Class
+1135,698,0,0,19,1,0,2,1,255,Train,Fastest,Card,Business
+5227,523,1,0,2,1,1,0,1,119,Train,Easiest,Cash,Business
+632,625,0,1,17,0,1,2,1,276,Bus,Easiest,Card,Business
+917,342,1,1,23,0,1,0,1,252,Bus,Easiest,Cash,Business
+4391,312,0,1,1,1,1,0,2,157,Train,Easiest,Cash,First Class
+7495,697,1,1,8,1,1,0,2,246,Train,Easiest,Cash,First Class
+6721,596,0,1,21,1,0,2,1,159,Train,Fastest,Card,Business
+8579,653,0,0,4,1,1,2,0,40,Train,Easiest,Card,Economy
+8570,345,1,0,22,1,1,0,1,129,Train,Easiest,Cash,Business
+3969,402,1,1,1,1,0,0,2,203,Train,Fastest,Cash,First Class
+7060,636,0,0,0,1,1,2,1,59,Train,Easiest,Card,Business
+3556,52,1,1,22,0,0,0,2,278,Bus,Fastest,Cash,First Class
+7888,618,1,0,19,0,1,2,2,169,Bus,Easiest,Card,First Class
+8407,471,1,0,16,1,0,1,1,142,Train,Fastest,UPI,Business
+3448,341,0,1,12,0,1,2,1,198,Bus,Easiest,Card,Business
+458,682,1,0,4,0,1,0,1,133,Bus,Easiest,Cash,Business
+1373,588,1,1,0,1,1,0,0,240,Train,Easiest,Cash,Economy
+1102,101,1,0,18,2,0,1,0,374,Airline,Fastest,UPI,Economy
+3005,551,0,0,15,0,0,1,2,125,Bus,Fastest,UPI,First Class
+5389,238,0,1,2,1,0,2,1,187,Train,Fastest,Card,Business
+4399,205,1,1,5,0,0,2,2,237,Bus,Fastest,Card,First Class
+8874,270,0,0,10,1,0,0,1,88,Train,Fastest,Cash,Business
+6957,490,0,1,19,0,0,2,1,249,Bus,Fastest,Card,Business
+8924,479,0,0,11,1,0,1,0,99,Train,Fastest,UPI,Economy
+4653,281,0,0,22,2,0,1,2,130,Airline,Fastest,UPI,First Class
+8927,144,1,1,16,0,1,2,1,216,Bus,Easiest,Card,Business
+3733,146,1,0,3,1,1,2,2,154,Train,Easiest,Card,First Class
+2425,699,0,1,0,0,1,0,0,132,Bus,Easiest,Cash,Economy
+2657,452,1,0,14,0,0,0,2,183,Bus,Fastest,Cash,First Class
+8937,62,0,1,5,1,0,2,0,208,Train,Fastest,Card,Economy
+2948,696,1,1,16,1,0,2,0,279,Train,Fastest,Card,Economy
+7598,180,1,0,20,2,1,2,1,233,Airline,Easiest,Card,Business
+135,463,0,1,3,0,1,1,1,221,Bus,Easiest,UPI,Business
+2269,45,0,0,0,0,0,1,0,160,Bus,Fastest,UPI,Economy
+7002,229,1,1,8,0,1,2,1,252,Bus,Easiest,Card,Business
+3112,687,1,1,16,2,1,0,0,272,Airline,Easiest,Cash,Economy
+4937,176,1,0,21,1,0,1,2,226,Train,Fastest,UPI,First Class
+404,629,0,0,7,1,1,0,0,279,Train,Easiest,Cash,Economy
+9436,492,1,0,7,2,1,2,1,189,Airline,Easiest,Card,Business
+112,165,1,0,12,1,0,2,1,297,Train,Fastest,Card,Business
+7061,291,0,1,11,1,0,0,1,201,Train,Fastest,Cash,Business
+4556,552,0,0,11,2,1,1,0,137,Airline,Easiest,UPI,Economy
+6654,450,0,0,4,0,1,0,1,39,Bus,Easiest,Cash,Business
+6706,504,1,1,18,0,0,1,2,248,Bus,Fastest,UPI,First Class
+2953,168,0,1,5,2,1,0,0,299,Airline,Easiest,Cash,Economy
+6829,607,0,0,12,1,1,0,1,116,Train,Easiest,Cash,Business
+6787,211,0,1,12,2,0,2,2,173,Airline,Fastest,Card,First Class
+9081,283,0,1,17,2,1,1,2,176,Airline,Easiest,UPI,First Class
+7488,655,0,1,13,0,1,0,0,154,Bus,Easiest,Cash,Economy
+4274,567,0,0,16,1,0,0,1,147,Train,Fastest,Cash,Business
+3206,643,0,0,4,1,0,0,0,146,Train,Fastest,Cash,Economy
+1189,326,1,0,20,2,1,1,0,339,Airline,Easiest,UPI,Economy
+1203,342,0,0,9,2,0,0,1,218,Airline,Fastest,Cash,Business
+2036,47,0,1,10,0,1,0,0,269,Bus,Easiest,Cash,Economy
+5461,422,1,0,23,2,0,1,0,185,Airline,Fastest,UPI,Economy
+5498,665,0,0,16,0,0,1,0,172,Bus,Fastest,UPI,Economy
+7089,468,0,1,17,2,1,0,2,213,Airline,Easiest,Cash,First Class
+9032,64,1,1,17,0,0,0,1,267,Bus,Fastest,Cash,Business
+145,489,1,1,3,2,1,2,1,237,Airline,Easiest,Card,Business
+7969,186,1,0,9,0,1,1,1,209,Bus,Easiest,UPI,Business
+3795,104,0,1,21,2,1,1,0,279,Airline,Easiest,UPI,Economy
+308,83,1,1,15,0,0,0,1,346,Bus,Fastest,Cash,Business
+3798,459,0,0,1,0,1,2,2,68,Bus,Easiest,Card,First Class
+1262,634,0,1,6,0,1,0,0,242,Bus,Easiest,Cash,Economy
+4915,347,1,1,9,2,0,1,1,321,Airline,Fastest,UPI,Business
+7165,56,1,1,4,0,1,0,0,198,Bus,Easiest,Cash,Economy
+5365,108,0,1,20,0,1,0,1,256,Bus,Easiest,Cash,Business
+4014,200,1,0,8,1,1,0,1,297,Train,Easiest,Cash,Business
+9247,392,0,1,11,2,0,2,2,137,Airline,Fastest,Card,First Class
+1663,358,1,1,8,2,1,2,1,344,Airline,Easiest,Card,Business
+6626,78,1,1,0,0,1,0,2,194,Bus,Easiest,Cash,First Class
+4127,42,1,1,9,0,1,0,0,329,Bus,Easiest,Cash,Economy
+9044,183,0,0,17,0,0,2,1,140,Bus,Fastest,Card,Business
+6549,194,0,0,16,1,1,2,1,122,Train,Easiest,Card,Business
+444,485,0,0,12,1,0,2,2,171,Train,Fastest,Card,First Class
+5636,122,1,1,22,1,0,0,2,257,Train,Fastest,Cash,First Class
+2265,234,0,0,19,1,1,1,0,321,Train,Easiest,UPI,Economy
+8343,549,0,1,15,0,1,0,2,136,Bus,Easiest,Cash,First Class
+2024,643,0,1,7,0,0,0,2,297,Bus,Fastest,Cash,First Class
+2479,429,1,0,3,1,1,2,1,152,Train,Easiest,Card,Business
+6642,276,0,0,3,2,1,0,1,55,Airline,Easiest,Cash,Business
+7551,192,0,0,10,0,1,2,0,90,Bus,Easiest,Card,Economy
+6053,315,1,1,23,2,0,2,2,228,Airline,Fastest,Card,First Class
+2354,685,0,0,14,0,1,1,2,145,Bus,Easiest,UPI,First Class
+5653,279,1,1,15,1,1,0,1,261,Train,Easiest,Cash,Business
+3045,284,1,1,0,1,0,0,0,269,Train,Fastest,Cash,Economy
+8859,338,0,0,11,1,1,0,0,109,Train,Easiest,Cash,Economy
+6461,559,1,0,10,0,1,0,0,139,Bus,Easiest,Cash,Economy
+237,409,0,0,23,2,0,2,2,192,Airline,Fastest,Card,First Class
+7127,302,0,0,0,0,0,2,0,93,Bus,Fastest,Card,Economy
+3987,684,0,0,11,0,0,2,1,120,Bus,Fastest,Card,Business
+5653,191,0,1,11,2,1,2,2,167,Airline,Easiest,Card,First Class
+3158,431,0,0,19,2,1,0,0,263,Airline,Easiest,Cash,Economy
+7693,387,1,1,21,1,1,1,2,197,Train,Easiest,UPI,First Class
+5326,322,1,1,10,0,0,0,2,216,Bus,Fastest,Cash,First Class
+366,675,0,1,11,2,1,2,0,257,Airline,Easiest,Card,Economy
+4736,368,1,1,5,0,1,0,0,295,Bus,Easiest,Cash,Economy
+8182,661,1,0,10,2,1,1,0,134,Airline,Easiest,UPI,Economy
+1780,460,0,1,17,1,0,1,0,389,Train,Fastest,UPI,Economy
+4955,489,0,1,12,0,0,0,1,190,Bus,Fastest,Cash,Business
+8357,403,0,0,11,0,0,0,1,72,Bus,Fastest,Cash,Business
+3874,680,0,1,15,0,1,1,0,204,Bus,Easiest,UPI,Economy
+1113,412,0,0,8,1,0,0,0,296,Train,Fastest,Cash,Economy
+5447,344,1,1,1,2,1,1,2,174,Airline,Easiest,UPI,First Class
+5340,508,0,1,23,1,0,2,2,178,Train,Fastest,Card,First Class
+1409,688,1,1,23,1,1,2,0,289,Train,Easiest,Card,Economy
+2116,597,0,0,10,2,1,1,2,146,Airline,Easiest,UPI,First Class
+9267,501,1,0,11,2,1,0,0,176,Airline,Easiest,Cash,Economy
+7935,515,0,1,7,0,0,2,0,221,Bus,Fastest,Card,Economy
+2786,56,1,1,15,0,0,0,0,314,Bus,Fastest,Cash,Economy
+7948,247,0,0,18,1,1,1,0,189,Train,Easiest,UPI,Economy
+3148,604,0,1,7,0,1,1,1,243,Bus,Easiest,UPI,Business
+3161,294,0,1,15,0,0,0,2,198,Bus,Fastest,Cash,First Class
+8864,376,0,0,4,0,0,0,2,29,Bus,Fastest,Cash,First Class
+102,96,1,0,7,0,1,1,0,361,Bus,Easiest,UPI,Economy
+3580,334,1,0,19,2,0,2,0,299,Airline,Fastest,Card,Economy
+5360,116,1,1,22,1,0,1,0,292,Train,Fastest,UPI,Economy
+7350,361,1,0,6,2,0,0,0,200,Airline,Fastest,Cash,Economy
+4758,281,0,0,5,1,0,0,1,160,Train,Fastest,Cash,Business
+7462,508,1,0,6,0,1,2,2,102,Bus,Easiest,Card,First Class
+6627,441,1,1,0,1,0,0,2,158,Train,Fastest,Cash,First Class
+6022,83,0,1,1,1,1,0,2,140,Train,Easiest,Cash,First Class
+4813,116,0,1,22,1,0,0,1,243,Train,Fastest,Cash,Business
+4527,48,1,1,11,2,0,1,1,273,Airline,Fastest,UPI,Business
+139,470,0,0,1,0,1,0,2,122,Bus,Easiest,Cash,First Class
+5946,679,1,1,13,2,0,1,2,179,Airline,Fastest,UPI,First Class
+8057,691,0,0,16,0,1,2,2,44,Bus,Easiest,Card,First Class
+8974,314,0,1,19,2,1,0,2,190,Airline,Easiest,Cash,First Class
+5237,44,1,0,4,1,1,1,0,156,Train,Easiest,UPI,Economy
+2189,164,0,1,12,0,0,0,0,277,Bus,Fastest,Cash,Economy
+8843,696,0,0,10,2,1,2,1,25,Airline,Easiest,Card,Business
+3835,287,0,0,22,0,0,2,1,132,Bus,Fastest,Card,Business
+2776,170,0,1,15,1,0,2,0,310,Train,Fastest,Card,Economy
+5687,437,1,1,2,2,0,0,0,178,Airline,Fastest,Cash,Economy
+8014,89,1,1,2,1,0,1,2,192,Train,Fastest,UPI,First Class
+1362,234,1,1,12,1,1,2,2,264,Train,Easiest,Card,First Class
+4540,430,0,1,16,1,1,2,1,190,Train,Easiest,Card,Business
+9395,426,0,0,0,2,1,0,0,27,Airline,Easiest,Cash,Economy
+8996,90,0,1,2,1,1,0,0,162,Train,Easiest,Cash,Economy
+1721,458,1,1,10,2,1,2,2,250,Airline,Easiest,Card,First Class
+8279,565,1,1,10,1,1,1,0,232,Train,Easiest,UPI,Economy
+2920,290,1,1,8,0,0,0,1,313,Bus,Fastest,Cash,Business
+6898,573,0,1,21,0,1,0,1,144,Bus,Easiest,Cash,Business
+6368,391,1,1,3,0,0,1,1,175,Bus,Fastest,UPI,Business
+7838,333,0,0,6,0,1,2,1,122,Bus,Easiest,Card,Business
+378,554,0,1,15,0,0,1,0,300,Bus,Fastest,UPI,Economy
+846,667,1,1,4,0,1,0,0,234,Bus,Easiest,Cash,Economy
+840,370,0,0,0,2,1,2,0,172,Airline,Easiest,Card,Economy
+298,627,1,0,19,1,1,2,1,321,Train,Easiest,Card,Business
+2310,309,1,0,17,1,0,0,1,285,Train,Fastest,Cash,Business
+315,335,1,0,14,0,1,1,2,232,Bus,Easiest,UPI,First Class
+8163,336,0,1,15,2,0,2,1,150,Airline,Fastest,Card,Business
+9086,76,0,1,0,0,1,1,0,113,Bus,Easiest,UPI,Economy
+825,268,0,1,16,2,0,1,2,256,Airline,Fastest,UPI,First Class
+387,509,0,1,4,0,0,0,2,217,Bus,Fastest,Cash,First Class
+7309,500,1,1,17,1,1,1,2,236,Train,Easiest,UPI,First Class
+5158,98,1,1,21,2,0,0,0,323,Airline,Fastest,Cash,Economy
+8306,564,0,1,20,2,1,2,2,190,Airline,Easiest,Card,First Class
+9447,460,0,0,20,0,0,1,0,145,Bus,Fastest,UPI,Economy
+6007,591,1,1,5,1,1,1,1,238,Train,Easiest,UPI,Business
+7365,227,0,1,12,0,0,2,2,162,Bus,Fastest,Card,First Class
+1516,410,0,0,14,2,0,1,0,239,Airline,Fastest,UPI,Economy
+5668,606,1,1,19,2,0,1,0,291,Airline,Fastest,UPI,Economy
+3959,166,1,0,7,2,1,0,1,222,Airline,Easiest,Cash,Business
+541,185,0,0,15,2,0,0,2,164,Airline,Fastest,Cash,First Class
+7119,353,1,1,1,2,1,1,1,143,Airline,Easiest,UPI,Business
+1256,672,1,1,15,1,1,0,2,246,Train,Easiest,Cash,First Class
+8698,109,0,1,23,0,1,2,0,191,Bus,Easiest,Card,Economy
+8195,646,0,1,11,2,1,0,1,131,Airline,Easiest,Cash,Business
+9110,245,1,1,13,0,0,0,0,211,Bus,Fastest,Cash,Economy
+2572,273,1,0,5,0,0,2,1,200,Bus,Fastest,Card,Business
+1545,590,0,0,18,2,1,2,0,241,Airline,Easiest,Card,Economy
+535,694,1,0,12,1,0,0,0,247,Train,Fastest,Cash,Economy
+7549,630,0,0,15,0,0,1,2,52,Bus,Fastest,UPI,First Class
+4603,553,1,1,19,1,0,0,2,287,Train,Fastest,Cash,First Class
+5280,75,1,1,10,1,1,2,2,303,Train,Easiest,Card,First Class
+3229,376,1,1,0,1,1,0,2,163,Train,Easiest,Cash,First Class
+1763,204,0,0,10,1,1,2,0,221,Train,Easiest,Card,Economy
+7308,63,1,0,20,0,1,2,2,183,Bus,Easiest,Card,First Class
+3747,558,1,1,8,0,1,1,2,272,Bus,Easiest,UPI,First Class
+1350,348,0,1,15,0,0,0,0,275,Bus,Fastest,Cash,Economy
+5387,80,0,1,17,1,0,1,2,297,Train,Fastest,UPI,First Class
+8846,646,0,0,18,2,1,1,2,71,Airline,Easiest,UPI,First Class
+7413,580,0,0,7,2,1,2,1,120,Airline,Easiest,Card,Business
+4415,451,1,1,0,0,1,2,1,205,Bus,Easiest,Card,Business
+4985,52,0,1,6,0,1,1,0,257,Bus,Easiest,UPI,Economy
+3512,151,1,1,11,1,0,2,2,266,Train,Fastest,Card,First Class
+2513,479,0,0,16,1,0,2,0,227,Train,Fastest,Card,Economy
+5530,602,1,1,20,0,0,0,0,327,Bus,Fastest,Cash,Economy
+5016,122,1,1,2,2,1,2,2,196,Airline,Easiest,Card,First Class
+7191,428,0,1,6,1,1,1,1,199,Train,Easiest,UPI,Business
+4271,428,0,0,11,2,1,2,1,112,Airline,Easiest,Card,Business
+8079,304,0,1,2,1,0,1,0,134,Train,Fastest,UPI,Economy
+2747,199,0,0,12,2,0,2,1,192,Airline,Fastest,Card,Business
+5012,310,1,1,22,0,1,2,0,263,Bus,Easiest,Card,Economy
+8076,490,1,0,23,0,0,2,1,114,Bus,Fastest,Card,Business
+4054,236,0,0,13,2,1,2,0,207,Airline,Easiest,Card,Economy
+6399,221,0,0,13,1,1,1,0,157,Train,Easiest,UPI,Economy
+6907,453,1,0,0,0,1,2,1,73,Bus,Easiest,Card,Business
+4040,314,0,0,4,0,0,2,2,100,Bus,Fastest,Card,First Class
+9016,70,0,0,23,1,1,2,0,142,Train,Easiest,Card,Economy
+6997,529,1,0,3,1,1,2,0,109,Train,Easiest,Card,Economy
+4623,443,0,1,9,0,0,0,0,301,Bus,Fastest,Cash,Economy
+5841,94,1,1,12,1,1,1,0,312,Train,Easiest,UPI,Economy
+960,142,1,0,15,0,1,0,0,251,Bus,Easiest,Cash,Economy
+9399,628,1,1,19,2,1,1,2,210,Airline,Easiest,UPI,First Class
+8062,479,1,1,2,1,0,0,0,156,Train,Fastest,Cash,Economy
+9071,361,0,0,23,1,1,0,2,66,Train,Easiest,Cash,First Class
+4541,325,1,1,15,0,0,2,2,226,Bus,Fastest,Card,First Class
+3846,616,0,1,15,0,0,0,1,205,Bus,Fastest,Cash,Business
+1471,412,1,1,18,0,0,1,0,378,Bus,Fastest,UPI,Economy
+1975,296,1,1,18,1,0,0,0,400,Train,Fastest,Cash,Economy
+328,627,1,1,7,1,1,2,1,353,Train,Easiest,Card,Business
+7061,127,0,0,22,2,1,2,0,177,Airline,Easiest,Card,Economy
+8880,521,0,0,9,0,0,1,0,162,Bus,Fastest,UPI,Economy
+1163,286,0,1,15,2,1,0,2,265,Airline,Easiest,Cash,First Class
+8060,591,0,1,3,0,1,2,2,87,Bus,Easiest,Card,First Class
+5344,463,1,0,10,1,0,1,2,135,Train,Fastest,UPI,First Class
+2439,468,0,0,23,0,1,1,0,174,Bus,Easiest,UPI,Economy
+3314,42,1,0,1,0,0,0,0,216,Bus,Fastest,Cash,Economy
+5592,692,1,0,21,1,0,0,1,146,Train,Fastest,Cash,Business
+1665,128,1,0,0,1,1,1,0,241,Train,Easiest,UPI,Economy
+5338,632,0,0,3,1,1,0,0,93,Train,Easiest,Cash,Economy
+8608,174,0,0,4,1,0,0,1,71,Train,Fastest,Cash,Business
+2237,218,0,0,11,1,0,2,0,282,Train,Fastest,Card,Economy
+1666,658,0,0,3,0,1,2,1,104,Bus,Easiest,Card,Business
+3252,263,0,1,5,2,1,0,0,278,Airline,Easiest,Cash,Economy
+2693,279,1,1,13,2,1,1,0,314,Airline,Easiest,UPI,Economy
+6649,335,1,1,13,0,0,1,2,223,Bus,Fastest,UPI,First Class
+8488,470,1,0,8,0,0,2,2,167,Bus,Fastest,Card,First Class
+7535,681,1,0,8,2,1,0,2,136,Airline,Easiest,Cash,First Class
+7831,267,1,1,2,1,0,1,1,177,Train,Fastest,UPI,Business
+1186,303,1,1,5,1,0,2,2,318,Train,Fastest,Card,First Class
+1092,664,1,1,9,0,1,1,1,328,Bus,Easiest,UPI,Business
+6176,193,1,1,8,1,1,2,1,330,Train,Easiest,Card,Business
+3922,376,0,1,4,2,1,2,0,199,Airline,Easiest,Card,Economy
+6461,535,0,1,3,1,1,0,0,162,Train,Easiest,Cash,Economy
+7598,690,1,0,23,2,0,1,1,123,Airline,Fastest,UPI,Business
+6830,591,1,1,7,2,0,1,0,313,Airline,Fastest,UPI,Economy
+6543,581,0,1,18,1,0,2,2,232,Train,Fastest,Card,First Class
+1364,455,0,1,7,2,0,0,1,270,Airline,Fastest,Cash,Business
+8542,231,1,0,0,0,0,1,0,100,Bus,Fastest,UPI,Economy
+7825,200,0,0,8,2,1,1,2,152,Airline,Easiest,UPI,First Class
+412,599,0,1,23,1,0,0,0,337,Train,Fastest,Cash,Economy
+6624,231,1,1,12,0,1,2,1,220,Bus,Easiest,Card,Business
+2461,622,0,1,22,1,1,1,0,270,Train,Easiest,UPI,Economy
+1883,501,0,1,0,0,1,2,1,173,Bus,Easiest,Card,Business
+8384,111,0,0,20,1,1,2,1,181,Train,Easiest,Card,Business
+6817,492,0,1,21,2,0,0,1,163,Airline,Fastest,Cash,Business
+3715,644,0,0,3,1,0,0,1,97,Train,Fastest,Cash,Business
+1961,440,0,1,23,2,0,0,0,242,Airline,Fastest,Cash,Economy
+3809,267,1,1,6,1,1,1,2,284,Train,Easiest,UPI,First Class
+4583,576,0,1,1,2,1,0,2,73,Airline,Easiest,Cash,First Class
+1117,102,1,1,19,0,0,0,1,388,Bus,Fastest,Cash,Business
+6661,40,1,0,0,0,1,2,0,145,Bus,Easiest,Card,Economy
+733,184,1,1,3,1,0,2,0,334,Train,Fastest,Card,Economy
+4137,328,0,0,6,1,1,1,2,133,Train,Easiest,UPI,First Class
+4378,189,0,0,10,0,0,1,0,181,Bus,Fastest,UPI,Economy
+1675,527,0,0,17,1,0,0,1,224,Train,Fastest,Cash,Business
+7973,131,0,1,3,0,0,2,0,147,Bus,Fastest,Card,Economy
+365,168,1,1,21,0,0,2,2,303,Bus,Fastest,Card,First Class
+1546,326,0,0,4,2,1,2,1,117,Airline,Easiest,Card,Business
+1330,652,0,1,15,2,1,1,1,267,Airline,Easiest,UPI,Business
+4926,468,0,0,7,2,0,0,2,138,Airline,Fastest,Cash,First Class
+1921,418,0,1,5,0,0,0,1,237,Bus,Fastest,Cash,Business
+4752,79,0,0,2,1,0,1,0,141,Train,Fastest,UPI,Economy
+3139,427,0,1,17,1,1,1,0,347,Train,Easiest,UPI,Economy
+5394,209,1,1,2,0,0,2,1,197,Bus,Fastest,Card,Business
+1165,507,1,1,13,1,1,2,2,310,Train,Easiest,Card,First Class
+3719,89,0,1,3,2,1,1,1,183,Airline,Easiest,UPI,Business
+6684,243,1,1,16,1,0,0,1,268,Train,Fastest,Cash,Business
+1515,496,0,1,12,0,1,1,1,256,Bus,Easiest,UPI,Business
+230,517,0,0,2,1,1,0,0,174,Train,Easiest,Cash,Economy
+183,417,1,0,8,0,1,0,0,331,Bus,Easiest,Cash,Economy
+6847,448,0,1,3,1,0,2,0,168,Train,Fastest,Card,Economy
+226,513,1,0,6,2,0,0,1,244,Airline,Fastest,Cash,Business
+2393,264,0,0,5,0,0,1,0,191,Bus,Fastest,UPI,Economy
+8882,314,1,1,4,2,0,1,2,123,Airline,Fastest,UPI,First Class
+121,309,0,0,23,2,1,1,2,184,Airline,Easiest,UPI,First Class
+1997,263,1,0,22,0,0,1,2,248,Bus,Fastest,UPI,First Class
+5251,228,1,1,4,0,0,0,1,204,Bus,Fastest,Cash,Business
+4839,150,1,1,17,0,1,2,0,391,Bus,Easiest,Card,Economy
+381,104,0,1,3,2,1,2,1,247,Airline,Easiest,Card,Business
+4074,338,0,1,4,2,0,2,1,169,Airline,Fastest,Card,Business
+7540,324,0,0,5,0,0,0,1,119,Bus,Fastest,Cash,Business
+3737,382,1,0,21,0,1,2,2,171,Bus,Easiest,Card,First Class
+1694,257,1,1,7,2,1,2,2,309,Airline,Easiest,Card,First Class
+325,356,1,1,11,1,1,2,2,296,Train,Easiest,Card,First Class
+9024,314,0,0,13,2,1,2,2,92,Airline,Easiest,Card,First Class
+900,335,1,0,16,2,1,0,1,231,Airline,Easiest,Cash,Business
+5532,460,1,0,7,1,1,1,1,233,Train,Easiest,UPI,Business
+808,114,1,1,4,1,1,0,0,289,Train,Easiest,Cash,Economy
+4996,631,0,0,11,0,0,2,1,122,Bus,Fastest,Card,Business
+3285,520,1,0,20,2,1,1,1,241,Airline,Easiest,UPI,Business
+8273,214,1,0,17,1,0,0,2,234,Train,Fastest,Cash,First Class
+2407,286,0,0,9,2,0,0,1,256,Airline,Fastest,Cash,Business
+5143,143,1,1,7,1,0,1,2,338,Train,Fastest,UPI,First Class
+5638,352,1,1,18,0,1,0,1,273,Bus,Easiest,Cash,Business
+2756,314,0,1,14,0,0,0,0,254,Bus,Fastest,Cash,Economy
+2465,665,1,1,11,0,0,0,1,221,Bus,Fastest,Cash,Business
+2382,567,1,0,1,1,0,0,2,109,Train,Fastest,Cash,First Class
+7228,431,0,0,14,0,0,1,1,125,Bus,Fastest,UPI,Business
+2246,57,1,0,13,1,0,0,1,248,Train,Fastest,Cash,Business
+4044,634,0,1,12,2,0,1,0,186,Airline,Fastest,UPI,Economy
+5915,63,0,0,7,2,0,2,0,266,Airline,Fastest,Card,Economy
+5049,574,1,0,5,0,0,1,0,182,Bus,Fastest,UPI,Economy
+4021,688,0,0,11,2,0,1,2,105,Airline,Fastest,UPI,First Class
+8082,116,0,0,1,2,0,0,2,31,Airline,Fastest,Cash,First Class
+1729,415,0,0,10,1,1,2,1,181,Train,Easiest,Card,Business
+1148,556,1,1,19,1,0,2,1,344,Train,Fastest,Card,Business
+2436,262,0,1,11,2,0,0,2,219,Airline,Fastest,Cash,First Class
+3939,114,1,1,14,2,0,1,1,276,Airline,Fastest,UPI,Business
+4817,280,1,0,23,0,1,1,0,221,Bus,Easiest,UPI,Economy
+1810,112,1,1,13,1,1,1,0,340,Train,Easiest,UPI,Economy
+6949,98,0,0,18,0,0,2,2,201,Bus,Fastest,Card,First Class
+5361,518,0,1,21,0,0,0,0,207,Bus,Fastest,Cash,Economy
+6502,519,1,0,12,2,1,2,1,164,Airline,Easiest,Card,Business
+3450,373,0,0,4,0,1,0,2,69,Bus,Easiest,Cash,First Class
+2361,417,1,1,13,0,1,0,0,298,Bus,Easiest,Cash,Economy
+4786,185,1,0,0,0,0,2,0,154,Bus,Fastest,Card,Economy
+4124,613,0,0,22,2,0,0,0,153,Airline,Fastest,Cash,Economy
+4354,477,1,1,12,2,0,0,1,242,Airline,Fastest,Cash,Business
+4324,135,1,0,21,1,1,1,2,183,Train,Easiest,UPI,First Class
+1272,379,0,0,1,0,0,1,2,145,Bus,Fastest,UPI,First Class
+5885,197,1,1,9,0,1,1,0,301,Bus,Easiest,UPI,Economy
+6142,95,0,1,5,1,1,1,0,294,Train,Easiest,UPI,Economy
+8111,404,1,1,12,2,1,1,1,189,Airline,Easiest,UPI,Business
+8766,481,1,1,5,0,1,2,1,166,Bus,Easiest,Card,Business
+455,344,1,0,10,0,1,2,0,226,Bus,Easiest,Card,Economy
+9397,458,1,1,17,1,0,0,2,254,Train,Fastest,Cash,First Class
+2170,488,1,1,5,2,0,2,1,283,Airline,Fastest,Card,Business
+456,658,1,0,8,2,1,0,0,290,Airline,Easiest,Cash,Economy
+7261,410,0,0,4,0,1,1,1,52,Bus,Easiest,UPI,Business
+9112,36,1,1,15,2,1,0,1,224,Airline,Easiest,Cash,Business
+950,499,0,0,7,2,0,0,1,247,Airline,Fastest,Cash,Business
+7518,598,0,0,6,1,0,2,0,149,Train,Fastest,Card,Economy
+4519,354,0,1,15,1,1,0,1,207,Train,Easiest,Cash,Business
+3329,446,0,0,16,1,0,0,0,200,Train,Fastest,Cash,Economy
+2582,57,0,1,16,1,0,1,1,294,Train,Fastest,UPI,Business
+8998,238,0,0,13,1,1,0,2,105,Train,Easiest,Cash,First Class
+8951,649,1,1,23,2,0,2,0,237,Airline,Fastest,Card,Economy
+6345,38,1,1,19,1,1,2,0,411,Train,Easiest,Card,Economy
+6969,316,0,0,6,0,1,2,1,112,Bus,Easiest,Card,Business
+1633,607,0,1,1,2,0,0,0,216,Airline,Fastest,Cash,Economy
+1897,516,1,0,17,0,0,2,2,244,Bus,Fastest,Card,First Class
+8448,620,0,1,8,2,0,0,1,199,Airline,Fastest,Cash,Business
+5810,445,1,1,2,2,0,1,0,215,Airline,Fastest,UPI,Economy
+8659,679,0,1,16,2,0,1,1,117,Airline,Fastest,UPI,Business
+918,231,0,0,3,1,1,1,1,175,Train,Easiest,UPI,Business
+7429,142,1,1,17,1,0,0,2,329,Train,Fastest,Cash,First Class
+1782,444,0,1,22,0,1,0,0,264,Bus,Easiest,Cash,Economy
+6093,558,1,1,16,1,0,0,2,179,Train,Fastest,Cash,First Class
+6414,479,1,0,21,0,0,1,0,160,Bus,Fastest,UPI,Economy
+7906,72,1,0,10,2,0,1,0,193,Airline,Fastest,UPI,Economy
+1197,632,1,1,10,1,0,2,1,320,Train,Fastest,Card,Business
+4145,403,0,0,18,2,0,1,0,222,Airline,Fastest,UPI,Economy
+1644,509,1,1,17,0,0,2,1,361,Bus,Fastest,Card,Business
+8937,304,1,1,17,1,0,0,0,332,Train,Fastest,Cash,Economy
+5686,239,0,1,5,1,1,1,2,208,Train,Easiest,UPI,First Class
+9277,692,0,1,10,0,1,2,2,106,Bus,Easiest,Card,First Class
+8584,409,1,1,3,0,0,2,1,146,Bus,Fastest,Card,Business
+3220,37,1,0,23,0,1,0,2,222,Bus,Easiest,Cash,First Class
+8026,516,1,1,23,0,0,2,1,163,Bus,Fastest,Card,Business
+2397,356,0,1,20,2,1,0,0,325,Airline,Easiest,Cash,Economy
+7351,114,0,0,1,0,1,0,0,81,Bus,Easiest,Cash,Economy
+4936,327,1,0,21,0,1,2,2,122,Bus,Easiest,Card,First Class
+7424,510,0,1,3,2,1,0,1,102,Airline,Easiest,Cash,Business
+6076,654,1,1,12,1,1,1,1,244,Train,Easiest,UPI,Business
+6287,566,0,0,9,1,0,0,2,157,Train,Fastest,Cash,First Class
+6107,185,0,1,4,2,1,2,2,115,Airline,Easiest,Card,First Class
+3381,216,0,0,18,0,1,0,2,229,Bus,Easiest,Cash,First Class
+317,499,0,1,22,1,1,2,0,270,Train,Easiest,Card,Economy
+5581,534,0,0,10,0,0,0,0,146,Bus,Fastest,Cash,Economy
+6603,185,1,0,0,2,0,0,1,103,Airline,Fastest,Cash,Business
+3523,297,1,1,19,1,0,0,1,370,Train,Fastest,Cash,Business
+4835,549,0,1,15,0,0,0,1,166,Bus,Fastest,Cash,Business
+1595,288,1,0,22,2,1,2,1,218,Airline,Easiest,Card,Business
+4747,275,0,0,6,0,1,2,0,173,Bus,Easiest,Card,Economy
+6077,179,0,1,12,2,1,1,2,174,Airline,Easiest,UPI,First Class
+2827,540,0,1,0,0,0,2,2,148,Bus,Fastest,Card,First Class
+9047,430,0,0,9,2,1,0,1,109,Airline,Easiest,Cash,Business
+1509,633,0,1,8,0,0,1,0,293,Bus,Fastest,UPI,Economy
+1034,690,0,0,10,1,0,1,2,183,Train,Fastest,UPI,First Class
+3389,43,0,0,1,2,0,2,0,142,Airline,Fastest,Card,Economy
+3946,97,1,0,23,0,1,2,0,229,Bus,Easiest,Card,Economy
+2942,569,0,1,22,1,0,1,2,240,Train,Fastest,UPI,First Class
+3044,669,0,0,1,1,0,2,1,88,Train,Fastest,Card,Business
+6934,464,0,0,13,1,0,2,2,133,Train,Fastest,Card,First Class
+1449,173,0,1,16,0,1,2,1,270,Bus,Easiest,Card,Business
+7618,292,1,0,11,2,0,0,0,185,Airline,Fastest,Cash,Economy
+9086,247,0,0,19,1,1,0,2,147,Train,Easiest,Cash,First Class
+7437,663,1,0,3,2,0,2,1,80,Airline,Fastest,Card,Business
+3913,515,1,1,20,0,0,1,1,330,Bus,Fastest,UPI,Business
+7098,520,0,1,15,1,0,2,2,121,Train,Fastest,Card,First Class
+6803,271,1,1,0,0,1,2,0,185,Bus,Easiest,Card,Economy
+7634,441,0,0,5,1,1,1,1,80,Train,Easiest,UPI,Business
+283,613,0,1,20,1,0,1,1,335,Train,Fastest,UPI,Business
+2869,221,0,1,9,2,0,1,2,284,Airline,Fastest,UPI,First Class
+5693,667,1,1,14,0,1,1,2,186,Bus,Easiest,UPI,First Class
+8226,419,1,0,17,0,1,2,2,170,Bus,Easiest,Card,First Class
+1286,327,0,1,3,1,1,1,2,211,Train,Easiest,UPI,First Class
+3187,615,0,0,18,1,1,1,0,227,Train,Easiest,UPI,Economy
+1970,345,1,0,1,2,1,0,0,182,Airline,Easiest,Cash,Economy
+3108,298,1,0,16,1,1,1,2,202,Train,Easiest,UPI,First Class
+3916,687,0,0,18,0,0,0,0,207,Bus,Fastest,Cash,Economy
+2556,378,0,0,20,2,1,2,0,245,Airline,Easiest,Card,Economy
+476,441,1,0,5,0,0,0,1,226,Bus,Fastest,Cash,Business
+3554,151,0,1,5,0,0,1,2,245,Bus,Fastest,UPI,First Class
+4387,206,1,1,4,1,1,1,0,301,Train,Easiest,UPI,Economy
+7793,680,1,0,22,1,1,2,0,157,Train,Easiest,Card,Economy
+5098,430,1,1,21,1,1,0,2,199,Train,Easiest,Cash,First Class
+6332,585,1,0,11,2,1,1,1,140,Airline,Easiest,UPI,Business
+1174,317,1,1,17,2,1,1,2,367,Airline,Easiest,UPI,First Class
+3354,304,0,1,17,2,0,2,1,278,Airline,Fastest,Card,Business
+2721,456,1,0,13,1,1,2,1,176,Train,Easiest,Card,Business
+4037,187,0,1,15,1,1,0,2,236,Train,Easiest,Cash,First Class
+2706,696,1,0,21,2,1,1,0,195,Airline,Easiest,UPI,Economy
+7155,641,1,0,11,0,1,1,0,124,Bus,Easiest,UPI,Economy
+2965,574,1,1,14,0,0,0,1,270,Bus,Fastest,Cash,Business
+3328,317,0,0,18,0,1,1,0,268,Bus,Easiest,UPI,Economy
+2424,634,1,1,20,1,0,0,2,308,Train,Fastest,Cash,First Class
+568,94,1,0,10,2,1,0,1,261,Airline,Easiest,Cash,Business
+179,337,1,0,21,0,0,1,0,277,Bus,Fastest,UPI,Economy
+5726,262,0,0,14,2,1,2,2,108,Airline,Easiest,Card,First Class
+3766,533,1,0,2,2,0,0,0,139,Airline,Fastest,Cash,Economy
+4015,391,0,1,5,1,1,0,1,227,Train,Easiest,Cash,Business
+7212,419,0,1,3,2,0,2,1,113,Airline,Fastest,Card,Business
+8224,258,0,1,11,1,1,0,1,163,Train,Easiest,Cash,Business
+771,648,0,0,10,0,0,1,2,141,Bus,Fastest,UPI,First Class
+5087,382,1,1,21,0,1,2,0,278,Bus,Easiest,Card,Economy
+7864,220,0,1,14,0,0,1,1,173,Bus,Fastest,UPI,Business
+6412,127,0,0,21,1,1,1,1,147,Train,Easiest,UPI,Business
+2832,465,1,0,5,1,0,2,1,186,Train,Fastest,Card,Business
+8713,151,1,1,5,0,0,1,2,201,Bus,Fastest,UPI,First Class
+7169,276,0,0,19,2,1,0,1,193,Airline,Easiest,Cash,Business
+8194,90,1,1,1,2,1,2,2,164,Airline,Easiest,Card,First Class
+2148,458,1,0,21,0,0,0,1,180,Bus,Fastest,Cash,Business
+3854,573,0,1,16,1,0,2,1,218,Train,Fastest,Card,Business
+6150,652,0,1,9,1,0,2,0,259,Train,Fastest,Card,Economy
+9159,209,0,0,7,1,0,1,1,172,Train,Fastest,UPI,Business
+7744,219,0,0,22,1,1,2,0,129,Train,Easiest,Card,Economy
+4773,673,1,0,2,2,0,2,1,104,Airline,Fastest,Card,Business
+6203,260,0,0,21,2,0,2,2,152,Airline,Fastest,Card,First Class
+8026,525,0,0,10,0,1,0,2,10,Bus,Easiest,Cash,First Class
+7762,649,0,1,10,0,1,0,0,131,Bus,Easiest,Cash,Economy
+8443,144,1,0,21,2,0,2,0,174,Airline,Fastest,Card,Economy
+2649,190,0,0,12,2,0,1,1,171,Airline,Fastest,UPI,Business
+3668,501,1,1,3,0,1,0,2,151,Bus,Easiest,Cash,First Class
+116,482,1,1,19,2,0,1,0,400,Airline,Fastest,UPI,Economy
+1025,290,1,1,1,0,0,0,0,280,Bus,Fastest,Cash,Economy
+8631,279,1,0,6,2,1,2,1,111,Airline,Easiest,Card,Business
+1005,204,1,1,14,1,0,0,2,315,Train,Fastest,Cash,First Class
+3470,309,1,1,21,1,1,2,0,296,Train,Easiest,Card,Economy
+8889,179,0,1,17,2,0,0,0,282,Airline,Fastest,Cash,Economy
+2265,487,0,0,1,1,0,0,0,130,Train,Fastest,Cash,Economy
+4700,414,0,0,17,1,0,0,0,258,Train,Fastest,Cash,Economy
+9060,203,1,0,5,0,0,2,2,128,Bus,Fastest,Card,First Class
+1358,426,0,1,7,1,0,0,2,278,Train,Fastest,Cash,First Class
+1508,694,1,0,23,1,0,1,2,190,Train,Fastest,UPI,First Class
+8460,636,1,1,13,1,0,0,0,221,Train,Fastest,Cash,Economy
+4310,132,0,1,0,1,0,1,0,237,Train,Fastest,UPI,Economy
+4507,604,1,0,20,2,1,0,0,242,Airline,Easiest,Cash,Economy
+6183,112,0,0,19,1,1,1,1,225,Train,Easiest,UPI,Business
+6053,460,1,0,19,1,1,1,1,244,Train,Easiest,UPI,Business
+7530,468,1,0,7,1,1,2,2,159,Train,Easiest,Card,First Class
+2005,543,1,0,13,0,1,1,0,236,Bus,Easiest,UPI,Economy
+6353,481,0,0,11,1,1,0,1,126,Train,Easiest,Cash,Business
+1712,230,1,1,1,0,0,0,2,214,Bus,Fastest,Cash,First Class
+4829,419,0,1,9,1,1,0,1,240,Train,Easiest,Cash,Business
+7051,239,0,0,9,2,0,0,1,163,Airline,Fastest,Cash,Business
+4985,208,0,1,5,1,0,0,2,220,Train,Fastest,Cash,First Class
+6600,574,1,0,13,1,1,0,1,127,Train,Easiest,Cash,Business
+9363,426,1,0,6,1,0,0,0,159,Train,Fastest,Cash,Economy
+4659,584,0,1,21,2,0,1,2,186,Airline,Fastest,UPI,First Class
+5744,620,0,0,22,2,0,2,2,123,Airline,Fastest,Card,First Class
+2847,524,0,1,10,2,0,1,0,268,Airline,Fastest,UPI,Economy
+6278,178,0,0,17,1,0,0,2,199,Train,Fastest,Cash,First Class
+2670,317,1,0,16,0,0,0,2,210,Bus,Fastest,Cash,First Class
+6661,697,0,1,10,2,1,2,2,150,Airline,Easiest,Card,First Class
+8630,288,1,1,18,2,1,2,2,256,Airline,Easiest,Card,First Class
+2308,139,1,0,3,1,1,1,1,203,Train,Easiest,UPI,Business
+5931,559,0,0,0,1,0,1,0,86,Train,Fastest,UPI,Economy
+5234,446,0,0,13,0,0,0,2,81,Bus,Fastest,Cash,First Class
+7652,405,1,1,5,2,1,0,1,175,Airline,Easiest,Cash,Business
+3670,529,0,0,18,0,0,1,2,176,Bus,Fastest,UPI,First Class
+2831,78,0,0,20,0,1,0,1,259,Bus,Easiest,Cash,Business
+2913,147,1,0,22,0,1,0,0,236,Bus,Easiest,Cash,Economy
+1359,511,1,1,18,0,0,1,2,330,Bus,Fastest,UPI,First Class
+7902,197,1,1,11,2,1,2,0,238,Airline,Easiest,Card,Economy
+5699,461,0,0,4,1,1,2,0,97,Train,Easiest,Card,Economy
+5378,380,0,1,8,0,0,1,2,234,Bus,Fastest,UPI,First Class
+1193,674,1,1,13,0,0,2,0,291,Bus,Fastest,Card,Economy
+711,154,1,0,18,2,1,1,1,302,Airline,Easiest,UPI,Business
+1700,242,1,1,7,0,1,1,0,384,Bus,Easiest,UPI,Economy
+242,511,1,1,19,0,1,2,2,315,Bus,Easiest,Card,First Class
+5111,401,1,0,20,1,0,2,2,210,Train,Fastest,Card,First Class
+1863,501,1,0,10,2,0,1,1,191,Airline,Fastest,UPI,Business
+8426,95,0,0,6,2,1,0,1,82,Airline,Easiest,Cash,Business
+2329,153,1,0,22,1,0,2,0,283,Train,Fastest,Card,Economy
+5107,165,0,0,23,1,0,2,2,123,Train,Fastest,Card,First Class
+3860,92,1,0,5,2,0,1,1,218,Airline,Fastest,UPI,Business
+5155,44,0,0,20,1,1,1,0,255,Train,Easiest,UPI,Economy
+4535,189,0,0,22,1,0,1,0,253,Train,Fastest,UPI,Economy
+5140,479,1,1,22,0,0,2,2,189,Bus,Fastest,Card,First Class
+5610,456,1,0,19,2,1,0,1,211,Airline,Easiest,Cash,Business
+8209,389,0,0,6,1,0,1,1,116,Train,Fastest,UPI,Business
+5421,125,0,0,12,0,0,0,2,119,Bus,Fastest,Cash,First Class
+3370,355,1,1,19,1,0,2,2,327,Train,Fastest,Card,First Class
+2959,277,1,1,22,1,1,2,2,271,Train,Easiest,Card,First Class
+7037,644,0,0,18,1,0,0,2,126,Train,Fastest,Cash,First Class
+1621,96,0,0,19,0,1,0,1,274,Bus,Easiest,Cash,Business
+2537,331,0,1,13,2,0,2,2,236,Airline,Fastest,Card,First Class
+3402,337,0,0,8,0,1,1,0,255,Bus,Easiest,UPI,Economy
+8731,420,1,1,23,0,1,1,1,191,Bus,Easiest,UPI,Business
+9308,210,1,0,17,1,1,0,1,212,Train,Easiest,Cash,Business
+4507,239,1,0,18,1,0,2,2,279,Train,Fastest,Card,First Class
+6214,653,1,1,20,0,0,2,1,254,Bus,Fastest,Card,Business

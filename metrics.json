@@ -1,0 +1,20 @@
+{
+  "r2": 0.8237,
+  "rmse": 32.58,
+  "mae": 26.46,
+  "train_samples": 2400,
+  "test_samples": 600,
+  "n_trees": 10,
+  "algorithm": "Random Forest Regressor (pure Python)",
+  "features": [
+    "ticket_price",
+    "travel_time",
+    "day_type",
+    "is_holiday",
+    "dep_hour",
+    "mode_enc",
+    "route_enc",
+    "pay_enc",
+    "class_enc"
+  ]
+}

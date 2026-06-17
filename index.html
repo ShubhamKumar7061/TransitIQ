@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+  <title>TransitIQ — AI Transport Demand Intelligence</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet"/>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <link rel="stylesheet" href="/static/css/style.css"/>
+</head>
+<body>
+<div class="bg-grid"></div>
+<div class="orb orb-1"></div><div class="orb orb-2"></div><div class="orb orb-3"></div>
+
+<!-- NAV -->
+<nav class="navbar">
+  <div class="nav-brand">
+    <span class="brand-icon">⬡</span>
+    <span class="brand-name">TransitIQ</span>
+    <span class="brand-tag">ML · v3.0</span>
+  </div>
+  <div class="nav-links">
+    <a href="#predict"  class="nav-link active">Predict</a>
+    <a href="#charts"   class="nav-link">Charts</a>
+    <a href="#metrics"  class="nav-link">Metrics</a>
+    <a href="#about"    class="nav-link">About</a>
+  </div>
+  <div class="nav-right">
+    <button class="retrain-btn" onclick="retrain()">🔄 Retrain</button>
+    <span class="status-pill"><span class="status-dot"></span>Model Live</span>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section class="hero" id="predict">
+  <div class="hero-content">
+    <div class="hero-eyebrow">Gradient Boosting · Real ML · Pure Python</div>
+    <h1 class="hero-title">AI-Powered Transport<br/><span class="gradient-text">Demand Intelligence</span></h1>
+    <p class="hero-sub">Feed journey parameters. Get real ML-driven demand forecasts, occupancy graphs, price sensitivity curves, and revenue intelligence — across Bus, Train & Airline networks.</p>
+    <div class="hero-badges">
+      <span class="badge">📊 R² = {{ test_r2 }}</span>
+      <span class="badge">📉 RMSE = {{ test_rmse }}</span>
+      <span class="badge">🎯 MAE = {{ test_mae }}</span>
+      <span class="badge">💾 model.pkl</span>
+    </div>
+  </div>
+  <div class="hero-visual">
+    <div class="pulse-ring"></div><div class="pulse-ring d1"></div><div class="pulse-ring d2"></div>
+    <div class="hero-stat-card">
+      <div class="stat-val" id="liveCount">0</div>
+      <div class="stat-label">Predictions Run</div>
+      <div class="stat-sub">Test R² <strong>{{ test_r2 }}</strong></div>
+    </div>
+  </div>
+</section>
+
+<!-- MAIN -->
+<main class="container">
+
+  <!-- FORM -->
+  <div class="card form-card">
+    <div class="card-header">
+      <h2>Journey Parameters</h2>
+      <span class="card-tag">9 inputs · Real ML</span>
+    </div>
+    <form id="predictForm" class="predict-form">
+      <div class="form-row">
+        <div class="form-group">
+          <label>Source Location</label>
+          <div class="iw"><span class="ii">📍</span><input type="text" id="source" placeholder="e.g. Chennai" required/></div>
+        </div>
+        <div class="form-group">
+          <label>Destination</label>
+          <div class="iw"><span class="ii">🏁</span><input type="text" id="dest" placeholder="e.g. Bengaluru" required/></div>
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="form-group">
+          <label>Date of Journey</label>
+          <div class="iw"><span class="ii">📅</span><input type="date" id="journey_date" required/></div>
+        </div>
+        <div class="form-group">
+          <label>Departure Time</label>
+          <div class="iw"><span class="ii">🕐</span><input type="time" id="departure_time" required/></div>
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="form-group">
+          <label>Mode of Transport</label>
+          <div class="mode-selector" id="modeSelector">
+            <button type="button" class="mode-btn active" data-value="Bus">🚌 Bus</button>
+            <button type="button" class="mode-btn" data-value="Train">🚆 Train</button>
+            <button type="button" class="mode-btn" data-value="Airline">✈️ Airline</button>
+          </div>
+          <input type="hidden" id="mode" value="Bus"/>
+        </div>
+        <div class="form-group">
+          <label>Travel Class</label>
+          <select id="travel_class">
+            <option value="Economy">Economy</option>
+            <option value="Business">Business</option>
+            <option value="First Class">First Class</option>
+          </select>
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="form-group">
+          <label>Ticket Price (₹) — <span id="priceDisplay">500</span></label>
+          <input type="range" id="ticket_price" min="100" max="10000" value="500" step="50"
+                 oninput="document.getElementById('priceDisplay').textContent=this.value"/>
+        </div>
+        <div class="form-group">
+          <label>Travel Time (min) — <span id="timeDisplay">120</span></label>
+          <input type="range" id="travel_time" min="30" max="720" value="120" step="10"
+                 oninput="document.getElementById('timeDisplay').textContent=this.value"/>
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="form-group">
+          <label>Route Type</label>
+          <div class="toggle-group" id="routeToggle">
+            <button type="button" class="toggle-btn active" data-value="Fastest">⚡ Fastest</button>
+            <button type="button" class="toggle-btn" data-value="Easiest">🛣️ Easiest</button>
+          </div>
+          <input type="hidden" id="route_type" value="Fastest"/>
+        </div>
+        <div class="form-group">
+          <label>Payment Method</label>
+          <div class="toggle-group" id="payToggle">
+            <button type="button" class="toggle-btn active" data-value="UPI">📱 UPI</button>
+            <button type="button" class="toggle-btn" data-value="Card">💳 Card</button>
+            <button type="button" class="toggle-btn" data-value="Cash">💵 Cash</button>
+          </div>
+          <input type="hidden" id="payment" value="UPI"/>
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="form-group">
+          <label>Day Type</label>
+          <div class="toggle-group" id="dayToggle">
+            <button type="button" class="toggle-btn active" data-value="Weekday">📋 Weekday</button>
+            <button type="button" class="toggle-btn" data-value="Weekend">🎉 Weekend</button>
+          </div>
+          <input type="hidden" id="day_type" value="Weekday"/>
+        </div>
+        <div class="form-group cb-group">
+          <label>Special Conditions</label>
+          <label class="cb-label">
+            <input type="checkbox" id="is_holiday"/>
+            <span class="cb-box"></span>
+            Public Holiday / Festival Day
+          </label>
+        </div>
+      </div>
+      <button type="submit" class="predict-btn">
+        <span>⚡ Run ML Prediction</span>
+        <div class="btn-shimmer"></div>
+      </button>
+    </form>
+  </div>
+
+  <!-- KPI ROW -->
+  <div class="kpi-row" id="kpiRow" style="display:none">
+    <div class="kpi-card">
+      <div class="kpi-icon">👥</div>
+      <div class="kpi-val cyan"  id="kDemand">—</div>
+      <div class="kpi-label">Predicted Passengers</div>
+      <div class="kpi-bar"><div class="kpi-fill cyan-bg" id="kDemandBar"></div></div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-icon">💺</div>
+      <div class="kpi-val green" id="kOcc">—</div>
+      <div class="kpi-label">Occupancy Rate</div>
+      <div class="kpi-bar"><div class="kpi-fill green-bg" id="kOccBar"></div></div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-icon">💰</div>
+      <div class="kpi-val yellow" id="kRev">—</div>
+      <div class="kpi-label">Est. Revenue</div>
+      <div class="kpi-sub" id="kStatus">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-icon">🚀</div>
+      <div class="kpi-val purple" id="kMode">—</div>
+      <div class="kpi-label">Preferred Mode</div>
+      <div class="kpi-sub">ML classified</div>
+    </div>
+  </div>
+
+  <!-- CHARTS GRID -->
+  <div id="charts" class="charts-grid" style="display:none">
+
+    <!-- Chart 1: Hourly Demand -->
+    <div class="card chart-card span2">
+      <div class="card-header">
+        <h3>📈 Hourly Demand Trend</h3>
+        <span class="card-tag">Real ML · Today</span>
+      </div>
+      <canvas id="cTrend"></canvas>
+    </div>
+
+    <!-- Chart 2: Occupancy -->
+    <div class="card chart-card">
+      <div class="card-header">
+        <h3>💺 Occupancy % by Hour</h3>
+        <span class="card-tag">Capacity Analysis</span>
+      </div>
+      <canvas id="cOcc"></canvas>
+    </div>
+
+    <!-- Chart 3: Mode Comparison -->
+    <div class="card chart-card">
+      <div class="card-header">
+        <h3>🚌 Mode Comparison</h3>
+        <span class="card-tag">Same Route</span>
+      </div>
+      <canvas id="cMode"></canvas>
+    </div>
+
+    <!-- Chart 4: Price Sensitivity -->
+    <div class="card chart-card span2">
+      <div class="card-header">
+        <h3>💸 Price Sensitivity Curve</h3>
+        <span class="card-tag">Demand vs Price</span>
+      </div>
+      <canvas id="cPrice"></canvas>
+    </div>
+
+  </div>
+
+  <!-- METRICS CARD -->
+  <div class="card metrics-card" id="metrics" style="display:none">
+    <div class="card-header">
+      <h3>🧪 Model Evaluation Metrics</h3>
+      <span class="card-tag">Gradient Boosting · 2000 records · 80/20 split</span>
+    </div>
+    <div class="metrics-grid">
+      <div class="metric-box">
+        <div class="metric-label">Algorithm</div>
+        <div class="metric-val small">Gradient Boosting Regressor</div>
+      </div>
+      <div class="metric-box">
+        <div class="metric-label">Training Samples</div>
+        <div class="metric-val" id="mTrain">—</div>
+      </div>
+      <div class="metric-box highlight">
+        <div class="metric-label">Test R² Score ↑</div>
+        <div class="metric-val big green" id="mR2">—</div>
+      </div>
+      <div class="metric-box highlight">
+        <div class="metric-label">Test RMSE ↓</div>
+        <div class="metric-val big cyan" id="mRMSE">—</div>
+      </div>
+      <div class="metric-box highlight">
+        <div class="metric-label">Test MAE ↓</div>
+        <div class="metric-val big yellow" id="mMAE">—</div>
+      </div>
+      <div class="metric-box">
+        <div class="metric-label">Estimators (Trees)</div>
+        <div class="metric-val" id="mEst">—</div>
+      </div>
+      <div class="metric-box">
+        <div class="metric-label">Train R²</div>
+        <div class="metric-val" id="mTrainR2">—</div>
+      </div>
+      <div class="metric-box">
+        <div class="metric-label">Learning Rate</div>
+        <div class="metric-val" id="mLR">—</div>
+      </div>
+      <div class="metric-box">
+        <div class="metric-label">Model File</div>
+        <div class="metric-val small">💾 model.pkl</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- RECOMMENDATIONS -->
+  <div class="card reco-card" id="recoCard" style="display:none">
+    <div class="card-header">
+      <h3>🧠 AI Recommendations</h3>
+      <span class="card-tag">Smart Insights</span>
+    </div>
+    <div id="recoList" class="reco-list"></div>
+  </div>
+
+</main>
+
+<!-- ABOUT -->
+<section class="about-section" id="about">
+  <div class="container">
+    <h2 class="section-title">How It Works</h2>
+    <div class="steps-row">
+      <div class="step-card">
+        <div class="step-num">01</div><div class="step-icon">🗄️</div>
+        <h4>Dataset</h4>
+        <p>2000 synthetic records with 9 features generated with realistic demand patterns.</p>
+      </div>
+      <div class="step-arrow">→</div>
+      <div class="step-card">
+        <div class="step-num">02</div><div class="step-icon">🤖</div>
+        <h4>ML Training</h4>
+        <p>Gradient Boosting trains on 1600 records using Decision Stumps as base learners.</p>
+      </div>
+      <div class="step-arrow">→</div>
+      <div class="step-card">
+        <div class="step-num">03</div><div class="step-icon">💾</div>
+        <h4>model.pkl</h4>
+        <p>Trained model saved to disk with pickle. Loads instantly on next run — no retraining needed.</p>
+      </div>
+      <div class="step-arrow">→</div>
+      <div class="step-card">
+        <div class="step-num">04</div><div class="step-icon">📊</div>
+        <h4>5 Charts + Metrics</h4>
+        <p>Demand trend, occupancy graph, mode comparison, price curve, R²/RMSE/MAE displayed live.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">⬡ TransitIQ v3.0 · Gradient Boosting · Pure Python ML · Flask · Chart.js</div>
+</footer>
+
+<!-- LOADER -->
+<div class="loader-overlay" id="loader" style="display:none">
+  <div class="loader-box">
+    <div class="loader-ring"></div>
+    <div class="loader-text">Running ML Model...</div>
+    <div class="loader-sub">Gradient Boosting · 50 Estimators</div>
+  </div>
+</div>
+
+<script src="/static/js/main.js"></script>
+</body>
+</html>
