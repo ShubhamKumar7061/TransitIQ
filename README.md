@@ -4,7 +4,7 @@ A stunning, ML-powered transport demand prediction web app built with Python + F
 
 ### Step 1 — Open in VS Code
 ```
-File → Open Folder → select `transport-demand-prediction`
+File → Open Folder → select `TransitIQ`
 ```
 
 ### Step 2 — Create a virtual environment (recommended)
